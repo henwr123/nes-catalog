@@ -1,0 +1,16 @@
+<h2>NES Games</h2>
+<ul class="games">
+    <li *ngFor="let game of games" (click)="onSelect(game)">
+        <span class="badge">{{game.id}}</span> {{game.name}}
+    </li>
+</ul>
+
+<div *ngIf="selectedGame">
+    <h2>{{selectedGame.name | uppercase}} Details</h2>
+    <div><span>id: </span>{{selectedGame.id}}</div>
+    <div>
+        <label>name:
+            <input [(ngModel)]="selectedGame.name" placeholder="name" />
+        </label>
+    </div>
+</div>
