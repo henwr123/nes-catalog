@@ -13,11 +13,6 @@ export class GamesComponent implements OnInit {
 
   selectedGame: Game;
 
-  // game: Game = {
-  //   id: 1,
-  //   name: 'Super Mario Brothers'
-  // };
-
   constructor() { }
 
   ngOnInit(): void {
