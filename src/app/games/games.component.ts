@@ -16,7 +16,8 @@ export class GamesComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    this.games.sort();
+    // initially sort game list by name
+    this.games.sort((a, b) => a.name.localeCompare(b.name));
   }
 
   onSelect(game: Game): void {
