@@ -5,10 +5,10 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { GameDetailComponent } from './game-detail/game-detail.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
+  { path: '', redirectTo: '/catalog', pathMatch: 'full' },
   { path: 'dashboard', component: DashboardComponent },
-  { path: 'detail/:id', component: GameDetailComponent },
-  { path: 'games', component: GamesComponent }
+  { path: 'game/:id', component: GameDetailComponent },
+  { path: 'catalog', component: GamesComponent }
 ];
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
