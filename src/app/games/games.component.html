@@ -1,10 +1,22 @@
-<h2>NES Games</h2>
-<ul class="games">
-    <li *ngFor="let game of games">
-        <a routerLink="/detail/{{game.id}}">
-          <span class="badge">{{game.id}}</span> {{game.name}}
-        </a>
+<div id="contents">
+<div class="band">
+  <div class="inner">Games</div>
+</div>
+<ul class="games flex clearfix">
+    <li class="gameBox" *ngFor="let game of games">
+        <div class="frameH"></div>
+        <div class="frameB">
+          <div class="package">
+            <img src="../../assets/boxart/{{game.id}}.jpg" width="180" height="261">
+          </div>
+          <p class="gameTitle" style="height: 93px;">{{game.name}}</p>
+          <div class="gameButton">
+            <a href="/detail/{{game.id}}">{{game.id}}</a>
+          </div>
+      </div>
+      <div class="frameF"></div>
       </li>
 </ul>
+</div>
 
 <app-game-detail [game]="selectedGame"></app-game-detail>

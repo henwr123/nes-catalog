@@ -16,6 +16,7 @@ export class GamesComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    this.games.sort();
   }
 
   onSelect(game: Game): void {
