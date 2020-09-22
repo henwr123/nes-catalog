@@ -101,7 +101,7 @@
   font-size: 30px;
   margin: 0 auto;
   box-sizing: border-box;
-  border-bottom: 3px solid #737373;
+ /* border-bottom: 3px solid #737373; */
   display: table-cell;
   vertical-align: middle;
 }
@@ -152,7 +152,15 @@
   background: url(../../assets/bg_softlist_foot.png) no-repeat center top;
   height: 26px;
 }
-
+.owned {
+  font-size: 30pt;
+  color: yellow;
+  -webkit-text-stroke: 2px black;
+  position: absolute;
+  z-index: 100;
+  padding-left: 25px;
+  padding-top: 25px;
+}
 /*
 button {
   background-color: #eee;
