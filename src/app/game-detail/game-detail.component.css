@@ -1,33 +1,36 @@
 /* HeroDetailComponent's private CSS styles */
-label {
-    display: inline-block;
-    width: 3em;
-    margin: .5em 0;
-    color: #607D8B;
-    font-weight: bold;
-  }
-  input {
-    height: 2em;
-    font-size: 1em;
-    padding-left: .4em;
-  }
-  button {
-    margin-top: 20px;
-    font-family: Arial;
-    background-color: #eee;
-    border: none;
-    padding: 5px 10px;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  button:hover {
-    background-color: #cfd8dc;
-  }
-  button:disabled {
-    background-color: #eee;
-    color: #ccc;
-    cursor: auto;
-  }
+.details {
+  max-width: 812px;
+  width: 100%;
+  margin: 0 auto;
+  background: #fff;
+  color: #484848;
+}
+.boxart {
+  position: absolute;
+  right: 0;
+  border-radius: 0;
+  top: 50%;
+  margin-top: -95px;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+    max-width: 100%;
+    min-width: 0;
+    outline: 0;
+    width: auto;
+}
+.title {
+  background: #ed1d24;
+  color: #fff;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  position: relative;
+  margin: 2.5em 0 1.8em;
+  padding: 1em 142px 1em .3em;
+  border-radius: 5px;
+}
   
   
   /*
