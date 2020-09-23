@@ -15,14 +15,14 @@ export const GAMES: Game[] = [
         id: 'NES-TY-USA', 
         name: '10-Yard Fight', 
         owned: false,
-        publisher: "Nintendo", 
-        developer: "Irem", 
-        region: "NTSC (N. America)", 
+        publisher: 'Nintendo', 
+        developer: 'Irem', 
+        region: 'NTSC (N. America)', 
         releaseDate: new Date() ,
-        esrb: "Everyone",
-        players: "2",
-        upc: "045496630270",
-        board: "NES-NROM-256"
+        esrb: 'Everyone',
+        players: '2',
+        upc: '045496630270',
+        board: 'NES-NROM-256'
     },
     { id: 'NES-BA-USA', name: 'Baseball', owned: true }
 ];
