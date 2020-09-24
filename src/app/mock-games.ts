@@ -2,8 +2,8 @@ import { Game } from './game';
 
 export const GAMES: Game[] = [
     { 
-        id: 'NES-SM-USA', 
-        name: 'Super Mario Brothers', 
+        id: 'NES-SM-USA',
+        name: 'Super Mario Brothers',
         owned: true
     },
     { id: 'NES-DH-USA', name: 'Duck Hunt', owned: true },
@@ -12,14 +12,14 @@ export const GAMES: Game[] = [
     { id: 'NES-AL-USA', name: 'Zelda II: The Adventure of Link', owned: true },
     { id: 'NES-EI-USA', name: 'Tetris' },
     { 
-        id: 'NES-TY-USA', 
-        name: '10-Yard Fight', 
+        id: 'NES-TY-USA',
+        name: '10-Yard Fight',
         owned: false,
-        publisher: 'Nintendo', 
-        developer: 'Irem', 
-        region: 'NTSC (N. America)', 
-        releaseDate: new Date() ,
-        esrb: 'Everyone',
+        publisher: 'Nintendo',
+        developer: 'Irem',
+        region: 'NTSC (N. America)',
+        releaseDate: new Date(),
+        esrb: 'E',
         players: '2',
         upc: '045496630270',
         board: 'NES-NROM-256'

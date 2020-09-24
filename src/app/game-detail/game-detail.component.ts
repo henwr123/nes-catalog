@@ -23,7 +23,7 @@ export class GameDetailComponent implements OnInit {
       developer: 'Irem',
       region: 'NTSC (N. America)',
       releaseDate: new Date() ,
-      esrb: 'Everyone',
+      esrb: 'E',
       players: '2',
       upc: '045496630270',
       board: 'NES-NROM-256'

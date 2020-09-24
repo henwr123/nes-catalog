@@ -1,6 +1,6 @@
 <div class="details" *ngIf="game">
     <div class="title">
-        <img clas="boxart" src="../../assets/boxart/{{game.id}}.jpg">
+        <img class="boxart" src="../../assets/boxart/{{game.id}}.jpg">
         {{game.name | uppercase}} 
     </div>
 
@@ -30,9 +30,12 @@
         </label>
     </div>
     <div>
-        <label>ESRB:
-            <input [(ngModel)]="game.esrb" placeholder="esrb" />
+        <label>Number of Players:
+            <input [(ngModel)]="game.players" placeholder="Players" />
         </label>
+    </div>
+    <div>
+        <img src="../../assets/esrb/{{game.esrb}}.png">
     </div>
 
 </div>
