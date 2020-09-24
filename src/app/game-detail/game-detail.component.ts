@@ -16,12 +16,12 @@ export class GameDetailComponent implements OnInit {
 
   ngOnInit(): void {
     this.game = { 
-      id: 'NES-TY-USA', 
-      name: '10-Yard Fight', 
+      id: 'NES-TY-USA',
+      name: '10-Yard Fight',
       owned: false,
-      publisher: 'Nintendo', 
-      developer: 'Irem', 
-      region: 'NTSC (N. America)', 
+      publisher: 'Nintendo',
+      developer: 'Irem',
+      region: 'NTSC (N. America)',
       releaseDate: new Date() ,
       esrb: 'Everyone',
       players: '2',
