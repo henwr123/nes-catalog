@@ -1,5 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { Game } from '../game';
+// import { JsBarcode } from 'jsbarcode';
 
 @Component({
   selector: 'app-game-detail',
