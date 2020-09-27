@@ -24,7 +24,7 @@
             </tr>
             <tr *ngIf="game.releaseDate">
                 <td>Release Date:</td>
-                <td>{{game.releaseDate.toLocaleDateString("en-US", { month: 'long', year: 'numeric' })}}</td>
+                <td>{{game.releaseDate | date: "MMM yy"}}</td>
             </tr>
             <tr *ngIf="game.players">
                 <td>Number of Players:</td>
