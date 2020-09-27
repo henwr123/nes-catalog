@@ -4,6 +4,7 @@ export const GAMES: Game[] = [
     { 
         id: 'NES-SM-USA',
         name: 'Super Mario Brothers',
+        esrb: 'E',
         owned: true
     },
     { id: 'NES-DH-USA', name: 'Duck Hunt', owned: true },

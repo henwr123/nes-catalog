@@ -5,26 +5,13 @@
   margin: 0 auto;
   background: #fff;
   color: #484848;
+  height: 650px;
 }
 .boxart {
   float: right;
   clear: right;
   margin-left: 5px;
-  /*
-  position: absolute;
-  right: 0;
-  border-radius: 0;
-  top: 50%;
-  margin-top: -50px;
-  margin-left: 20px;
-  display: block;
-  margin: 0 auto;
-  height: auto;
-  max-width: 100%;
-  min-width: 0;
-  outline: 0;
-  width: auto;
-  */
+  margin-top: 100px;
 }
 .title {
   background: #ed1d24;
@@ -37,10 +24,24 @@
   padding: 1em 142px 1em .3em;
   border-radius: 5px;
 }
-  
-  
-  /*
-  Copyright Google LLC. All Rights Reserved.
-  Use of this source code is governed by an MIT-style license that
-  can be found in the LICENSE file at http://angular.io/license
-  */
+#attributes {
+  border-collapse: collapse;
+  width: 400px;
+  display: table;
+  box-sizing: border-box;
+}
+table {
+  margin: 10px;
+}
+table, th, td {
+  /*border: 1px solid black;*/
+}
+td {
+  height: 50px;
+  padding-left: 15px;
+}
+.esrb {
+  float: right;
+  clear: right;
+  margin-right: 30px;
+}
