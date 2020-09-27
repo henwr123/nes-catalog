@@ -6,12 +6,10 @@
 
     <table id="attributes">
         <tbody>
-            <!--
             <tr>
-                <td>Name:</td>
-                <td>{{game.name}}</td>
+                <td>Identifier:</td>
+                <td>{{game.id}}</td>
             </tr>
-            -->
             <tr *ngIf="game.publisher">
                 <td>Publisher:</td>
                 <td>{{game.publisher}}</td>
@@ -26,7 +24,7 @@
             </tr>
             <tr *ngIf="game.releaseDate">
                 <td>Release Date:</td>
-                <td>{{game.releaseDate}}</td>
+                <td>{{game.releaseDate.toLocaleDateString("en-US", { month: 'long', year: 'numeric' })}}</td>
             </tr>
             <tr *ngIf="game.players">
                 <td>Number of Players:</td>
