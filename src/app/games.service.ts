@@ -13,4 +13,8 @@ export class GamesService {
   getGames(): Observable<Game[]>{
     return of(GAMES);
   }
+
+  getGame(id: string): Observable<Game> {
+    return of(GAMES.find(game => game.id === id));
+  }
 }

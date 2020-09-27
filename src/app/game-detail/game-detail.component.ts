@@ -1,6 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Game } from '../game';
+import { GamesService } from '../games.service';
 // import { JsBarcode } from 'jsbarcode';
 
 @Component({
@@ -10,28 +11,26 @@ import { Game } from '../game';
 })
 export class GameDetailComponent implements OnInit {
 
-  @Input() game: Game;
+  // @Input() game: Game;
 
-  selectedGame: Game;
+  game: Game;
 
-  constructor(private route: ActivatedRoute) {}
+  constructor(
+    private route: ActivatedRoute,
+    private gamesService: GamesService
+    ) {}
 
   ngOnInit(): void {
-    const id = +this.route.snapshot.paramMap.get('id');
-    console.log(id);
-    this.game = {
-      id: 'NES-TY-USA',
-      name: '10-Yard Fight',
-      owned: false,
-      publisher: 'Nintendo',
-      developer: 'Irem',
-      region: 'NTSC (N. America)',
-      releaseDate: new Date() ,
-      esrb: 'E',
-      players: '2',
-      upc: '045496630270',
-      board: 'NES-NROM-256'
-    };
+
+    this.getHero();
+    
   }
+
+  getHero(): void {
+    const id = this.route.snapshot.paramMap.get('id');
+    this.gamesService.getGame(id)
+      .subscribe(game => this.game = game);
+  }
+
 
 }

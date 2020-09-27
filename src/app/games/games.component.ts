@@ -9,7 +9,7 @@ import { GamesService } from '../games.service';
 })
 export class GamesComponent implements OnInit {
 
-  games: Game[];
+  games: Game[] = [];
 
   selectedGame: Game;
 
