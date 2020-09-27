@@ -7,18 +7,24 @@
   color: #484848;
 }
 .boxart {
+  float: right;
+  clear: right;
+  margin-left: 5px;
+  /*
   position: absolute;
   right: 0;
   border-radius: 0;
   top: 50%;
-  margin-top: -95px;
+  margin-top: -50px;
+  margin-left: 20px;
   display: block;
   margin: 0 auto;
   height: auto;
-    max-width: 100%;
-    min-width: 0;
-    outline: 0;
-    width: auto;
+  max-width: 100%;
+  min-width: 0;
+  outline: 0;
+  width: auto;
+  */
 }
 .title {
   background: #ed1d24;

@@ -1,4 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 import { Game } from '../game';
 // import { JsBarcode } from 'jsbarcode';
 
@@ -13,10 +14,12 @@ export class GameDetailComponent implements OnInit {
 
   selectedGame: Game;
 
-  constructor() { }
+  constructor(private route: ActivatedRoute) {}
 
   ngOnInit(): void {
-    this.game = { 
+    const id = +this.route.snapshot.paramMap.get('id');
+    console.log(id);
+    this.game = {
       id: 'NES-TY-USA',
       name: '10-Yard Fight',
       owned: false,
