@@ -23,7 +23,7 @@ export class GameDetailComponent implements OnInit {
   ngOnInit(): void {
 
     this.getHero();
-    
+
   }
 
   getHero(): void {
