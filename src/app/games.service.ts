@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Game } from './game';
 import { GAMES } from './mock-games';
+import { CATALOG } from './mock-catalog';
 import { Observable, of } from 'rxjs';
 
 @Injectable({
@@ -18,7 +19,7 @@ export class GamesService {
    * @return Array of games
    */
   getGames(): Observable<Game[]>{
-    return of(GAMES);
+    return of(CATALOG);
   }
 
   /**
@@ -27,6 +28,6 @@ export class GamesService {
    * @returns Game Details of the game
    */
   getGame(id: string): Observable<Game> {
-    return of(GAMES.find(game => game.id === id));
+    return of(CATALOG.find(game => game.id === id));
   }
 }

@@ -10,4 +10,6 @@ export interface Game {
     upc?: string;
     board?: string;
     owned?: boolean;
+    sortable?: string;
+    category?: string;
   }
