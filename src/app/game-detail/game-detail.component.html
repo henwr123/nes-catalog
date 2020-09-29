@@ -37,6 +37,9 @@
         </tbody>
     </table>
 
+    <div *ngIf="game.upc">
+        <img id="upc">
+    </div>
 
     <div *ngIf="game.esrb" class="esrb">
         <img src="../../assets/esrb/{{game.esrb}}.png">

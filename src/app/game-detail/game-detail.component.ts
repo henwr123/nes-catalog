@@ -1,15 +1,18 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, AfterViewInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Game } from '../game';
 import { GamesService } from '../games.service';
 // import { JsBarcode } from 'jsbarcode';
+// import * as BarCode from 'jsbarcode';
+
+declare let JsBarcode: any;
 
 @Component({
   selector: 'app-game-detail',
   templateUrl: './game-detail.component.html',
   styleUrls: ['./game-detail.component.css']
 })
-export class GameDetailComponent implements OnInit {
+export class GameDetailComponent implements OnInit, AfterViewInit {
 
   // @Input() game: Game;
 
@@ -24,6 +27,11 @@ export class GameDetailComponent implements OnInit {
 
     this.getHero();
 
+  }
+
+  ngAfterViewInit(): void {
+
+    JsBarcode('#upc', this.game.upc, { format: 'upc' });
   }
 
   getHero(): void {
