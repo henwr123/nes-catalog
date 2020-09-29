@@ -23,7 +23,7 @@ export class GamesComponent implements OnInit {
   ngOnInit(): void {
     this.getGames();
     // initially sort game list by name
-    this.games.sort((a, b) => a.name.localeCompare(b.name));
+    this.games.sort((a, b) => a.sortable.localeCompare(b.sortable));
   }
 
   onSelect(game: Game): void {

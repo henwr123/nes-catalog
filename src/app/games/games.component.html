@@ -1,4 +1,5 @@
 <div id="contents">
+  <div>Number of games: {{games.length}}</div>
   <ul class="games flex clearfix">
     <li class="gameBox" *ngFor="let game of games">
       <div class="owned" *ngIf="game.owned">★</div>
