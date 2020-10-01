@@ -5,7 +5,7 @@
   margin: 0 auto;
   background: #fff;
   color: #484848;
-  height: 650px;
+  height: 725px;
 }
 .boxart {
   float: right;
@@ -40,5 +40,9 @@ td {
 .esrb {
   float: right;
   clear: right;
-  margin-right: 30px;
+  position: relative;
+  margin-right: 25%;
+}
+.upc-code {
+  margin-bottom: 25px;
 }

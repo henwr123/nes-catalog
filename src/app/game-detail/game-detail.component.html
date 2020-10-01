@@ -1,6 +1,6 @@
 <div class="details" *ngIf="game">
     <div class="title">
-        <img class="boxart" src="../../assets/boxart/{{game.id}}.jpg" width="250" height="330">
+        <img class="boxart" src="../../assets/boxart/{{game.id}}.jpg" width="250" height="325">
         {{game.name | uppercase}} 
     </div>
 
@@ -41,12 +41,12 @@
         </tbody>
     </table>
 
-    <div *ngIf="game.upc">
-        <img id="upc">
-    </div>
-
     <div *ngIf="game.esrb" class="esrb">
         <img src="../../assets/esrb/{{game.esrb}}.png">
+    </div>
+
+    <div *ngIf="game.upc" class="upc-code">
+        <img id="upc">
     </div>
 
 </div>

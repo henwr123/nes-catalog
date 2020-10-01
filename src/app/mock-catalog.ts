@@ -107,8 +107,8 @@ export const CATALOG: Game[] = [
             region: 'NTSC (N. America)',
             releaseDate: new Date('January 1992'),
             category: 'Action & Adventure',
-            esrb: '',
-            players: '',
+            esrb: 'E',
+            players: '1',
             upc: '020295010034',
             board: 'NES-SLROM',
             sortable: 'Addams Family',
@@ -209,7 +209,7 @@ export const CATALOG: Game[] = [
             players: '',
             upc: '039854000102',
             board: 'NES-TLROM',
-            sortable: 'Adventure Island II',
+            sortable: 'Adventure Island 2',
             owned: false
         }, {
             id: 'NES-AT-USA',
@@ -518,7 +518,7 @@ export const CATALOG: Game[] = [
             upc: '006121731069',
             board: 'NES-SEROM',
             sortable: 'Anticipation',
-            owned: false
+            owned: true
         }, {
             id: 'NES-Q4-USA',
             name: 'Arch Rivals',
