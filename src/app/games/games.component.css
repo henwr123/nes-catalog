@@ -116,3 +116,21 @@
   padding-left: 25px;
   padding-top: 35px;
 }
+.search {
+  display: block;
+  width: 99%;
+  height: 35px;
+  position: relative;
+  font-size: 1em;
+  flex: 1;
+  color: #484848;
+  border: none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+}
+.search-area {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

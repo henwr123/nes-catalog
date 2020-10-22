@@ -18,13 +18,17 @@ export class GamesService {
    * Get the list of games
    * @return Array of games
    */
-  getGames(): Observable<Game[]>{
-    return of(CATALOG);
+  getGames(name?: string): Observable<Game[]>{
+    if (name){
+      return of(CATALOG.filter((game) => game.name.toLowerCase().includes(name.toLowerCase())));
+    } else {
+      return of(CATALOG);
+    }
   }
 
   /**
    * Get details of a Game by the id
-   * @param {string} id - ID of the game to select
+   * @param id - ID of the game to select
    * @returns Game Details of the game
    */
   getGame(id: string): Observable<Game> {

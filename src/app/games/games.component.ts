@@ -13,10 +13,18 @@ export class GamesComponent implements OnInit {
 
   selectedGame: Game;
 
+  filterName: string;
+
   constructor(private gamesService: GamesService) { }
 
+  onKey(event: any): void {
+    this.filterName = event.target.value;
+    this.getGames();
+    this.games.sort((a, b) => a.sortable.localeCompare(b.sortable));
+  }
+
   getGames(): void {
-    this.gamesService.getGames()
+    this.gamesService.getGames(this.filterName)
       .subscribe(games => this.games = games);
   }
 
