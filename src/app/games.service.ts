@@ -18,9 +18,14 @@ export class GamesService {
    * Get the list of games
    * @return Array of games
    */
-  getGames(name?: string): Observable<Game[]>{
-    if (name){
-      return of(CATALOG.filter((game) => game.name.toLowerCase().includes(name.toLowerCase())));
+  getGames(search?: string): Observable<Game[]>{
+
+    const CATEGORIES = [ 'action & adventure', 'arcade', 'educational', 'fighting', 'light-gun', 'party', 'platformer', 'power pad', 'programmable', 'puzzle', 'racing', 'robot', 'rpg', 'shooter', 'sports', 'strategy' ];
+
+    if (search != undefined && CATEGORIES.includes(search.toLowerCase())){
+      return of(CATALOG.filter((game) => game.category.toLowerCase().includes(search.toLowerCase())));
+    }else if (search){
+      return of(CATALOG.filter((game) => game.name.toLowerCase().includes(search.toLowerCase())));
     } else {
       return of(CATALOG);
     }
