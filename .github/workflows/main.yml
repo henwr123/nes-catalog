@@ -31,3 +31,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      # Install and build
+      - run: |
+          npm install
+          npm run build
+          ng build --prod --base-href "https://henwr123.github.io/nes-catalog/catalog"          
