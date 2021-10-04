@@ -15,6 +15,8 @@ export class GamesComponent implements OnInit {
 
   filterName: string;
 
+  ownedSelectedValue: string;
+
   constructor(private gamesService: GamesService) { }
 
   onKey(event: any): void {
