@@ -45,7 +45,7 @@ export const CATALOG: Game[] = [
             owned: false
         }, {
             id: 'NES-72-USA',
-            name: '720�',
+            name: '720°',
             developer: 'Beam Software',
             publisher: 'Mindscape',
             region: 'NTSC (N. America)',
@@ -55,7 +55,7 @@ export const CATALOG: Game[] = [
             players: '',
             upc: '050047103158',
             board: 'NES-SGROM',
-            sortable: '720�',
+            sortable: '720°',
             owned: false
         }, {
             id: 'NES-NF-USA',
@@ -1013,7 +1013,7 @@ export const CATALOG: Game[] = [
             id: 'NES-AD-USA',
             name: 'The Battle of Olympus',
             developer: 'Infinity',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('December 1989'),
             category: 'Action & Adventure',
@@ -1413,7 +1413,7 @@ export const CATALOG: Game[] = [
             players: '',
             upc: '151548151515',
             board: 'NES-TSROM',
-            sortable: 'Bugs Bunny Birthday Blowout�',
+            sortable: 'Bugs Bunny Birthday Blowout',
             owned: false
         }, {
             id: 'NES-C1-USA',
@@ -2062,8 +2062,8 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-S8-USA',
             name: 'Crash \'n the Boys: Street Challenge',
-            developer: 'Techn?s Japan',
-            publisher: 'Techn?s Japan',
+            developer: 'Technōs Japan',
+            publisher: 'Technōs Japan',
             region: 'NTSC (N. America)',
             releaseDate: new Date('October 1992'),
             category: 'Sports',
@@ -2203,7 +2203,7 @@ export const CATALOG: Game[] = [
             id: 'NES-DE-USA',
             name: 'Deadly Towers',
             developer: 'Lenar,  Tamtex',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('September 1987'),
             category: 'Strategy',
@@ -2257,7 +2257,7 @@ export const CATALOG: Game[] = [
             owned: false
         }, {
             id: 'NES-DG-USA',
-            name: 'D�j� Vu',
+            name: 'Déjà Vu',
             developer: 'Kemco',
             publisher: 'Kemco*Seika',
             region: 'NTSC (N. America)',
@@ -2267,7 +2267,7 @@ export const CATALOG: Game[] = [
             players: '',
             upc: '044499000110',
             board: 'NES-TKROM',
-            sortable: 'D�j� Vu',
+            sortable: 'Déjà Vu',
             owned: false
         }, {
             id: 'NES-DO-USA',
@@ -2580,7 +2580,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-WD-USA',
             name: 'Double Dragon',
-            developer: 'Techn?s Japan',
+            developer: 'Technōs Japan',
             publisher: 'Tradewest',
             region: 'NTSC (N. America)',
             releaseDate: new Date('June 1988'),
@@ -2594,7 +2594,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-W2-USA',
             name: 'Double Dragon II: The Revenge',
-            developer: 'Techn?s Japan',
+            developer: 'Technōs Japan',
             publisher: 'Acclaim Entertainment',
             region: 'NTSC (N. America)',
             releaseDate: new Date('January 1990'),
@@ -2608,7 +2608,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-3W-USA',
             name: 'Double Dragon III: The Sacred Stones',
-            developer: 'Techn?s Japan',
+            developer: 'Technōs Japan',
             publisher: 'Acclaim Entertainment',
             region: 'NTSC (N. America)',
             releaseDate: new Date('February 1991'),
@@ -2861,7 +2861,7 @@ export const CATALOG: Game[] = [
             id: 'NES-B7-USA',
             name: 'Dusty Diamond\'s All-Star Softball',
             developer: 'TOSE',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('July 1990'),
             category: '',
@@ -3687,7 +3687,7 @@ export const CATALOG: Game[] = [
             id: 'NES-GD-USA',
             name: 'The Guardian Legend',
             developer: 'Compile',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('April 1989'),
             category: '',
@@ -4849,7 +4849,7 @@ export const CATALOG: Game[] = [
             id: 'NES-LC-USA',
             name: 'Legacy of the Wizard',
             developer: 'Nihon Falcom',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('April 1989'),
             category: '',
@@ -4973,7 +4973,7 @@ export const CATALOG: Game[] = [
             owned: false
         }, {
             id: '',
-            name: 'Les Chevaliers du Zodiaque: La L�gende d\'or',
+            name: 'Les Chevaliers du Zodiaque: La Legende d\'or',
             developer: 'TOSE',
             publisher: 'Unreleased',
             region: '',
@@ -4983,7 +4983,7 @@ export const CATALOG: Game[] = [
             players: '',
             upc: '',
             board: '#N/A',
-            sortable: 'Les Chevaliers du Zodiaque: La L�gende d\'or',
+            sortable: 'Les Chevaliers du Zodiaque: La Legende d\'or',
             owned: false
         }, {
             id: 'NES-LY-USA',
@@ -5073,7 +5073,7 @@ export const CATALOG: Game[] = [
             id: 'NES-LO-USA',
             name: 'Lode Runner',
             developer: 'Hudson Soft',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('September 1987'),
             category: '',
@@ -6080,7 +6080,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-XZ-USA',
             name: 'Nintendo World Cup',
-            developer: 'Techn?s Japan',
+            developer: 'Technōs Japan',
             publisher: 'Nintendo',
             region: 'NTSC (N. America)',
             releaseDate: new Date('December 1990'),
@@ -6767,7 +6767,7 @@ export const CATALOG: Game[] = [
             id: 'NES-BU-USA',
             name: 'Raid on Bungeling Bay',
             developer: 'Hudson Soft',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('September 1987'),
             category: '',
@@ -6892,7 +6892,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-RG-USA',
             name: 'Renegade',
-            developer: 'Techn?s Japan',
+            developer: 'Technōs Japan',
             publisher: 'Taito',
             region: 'NTSC (N. America)',
             releaseDate: new Date('January 1988'),
@@ -6934,8 +6934,8 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-DN-USA',
             name: 'River City Ransom',
-            developer: 'Techn?s Japan',
-            publisher: 'Techn?s Japan',
+            developer: 'Technōs Japan',
+            publisher: 'Technōs Japan',
             region: 'NTSC (N. America)',
             releaseDate: new Date('January 1990'),
             category: '',
@@ -7775,7 +7775,7 @@ export const CATALOG: Game[] = [
             id: 'NES-SU-USA',
             name: 'Spelunker',
             developer: 'Tamtex,  TOSE',
-            publisher: 'Br�derbund',
+            publisher: 'Brøderbund',
             region: 'NTSC (N. America)',
             releaseDate: new Date('September 1987'),
             category: '',
@@ -8124,7 +8124,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-ND-USA',
             name: 'Super Dodge Ball',
-            developer: 'Techn?s Japan',
+            developer: 'Technōs Japan',
             publisher: 'CSG Imagesoft',
             region: 'NTSC (N. America)',
             releaseDate: new Date('July 1989'),
@@ -8208,7 +8208,7 @@ export const CATALOG: Game[] = [
         }, {
             id: '',
             name: 'Super Mario Bros./Tetris/Nintendo World Cup',
-            developer: 'Nintendo,  Techn?s Japan',
+            developer: 'Nintendo,  Technōs Japan',
             publisher: 'Unreleased',
             region: '',
             releaseDate: new Date('Unreleased'),
@@ -8264,7 +8264,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-VJ-USA',
             name: 'Super Spike V\'Ball',
-            developer: 'Techn?s Japan',
+            developer: 'Technōs Japan',
             publisher: 'Nintendo',
             region: 'NTSC (N. America)',
             releaseDate: new Date('February 1990'),
@@ -8278,7 +8278,7 @@ export const CATALOG: Game[] = [
         }, {
             id: 'NES-QJ-USA',
             name: 'Super Spike V\'Ball/Nintendo World Cup',
-            developer: 'Nintendo,  Techn?s Japan',
+            developer: 'Nintendo,  Technōs Japan',
             publisher: 'Nintendo',
             region: 'NTSC (N. America)',
             releaseDate: new Date('December 1990'),
