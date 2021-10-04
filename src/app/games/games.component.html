@@ -3,6 +3,14 @@
     <label for="search-name">Search</label>
     <input id="search-name" class="search" type="text" placeholder='Search name or category' (keyup)="onKey($event)" />
   </div>
+  <div class="search-area">
+    <label for="dropdown-owned">Owned</label>
+    <select id="owned-dd" [(ngModel)]="ownedSelectedValue" class="search" (change)="onChangeOwned($event)">
+      <option value="">All</option>
+      <option value="true">Owned</option>
+      <option value="false">Not Owned</option>
+    </select>
+  </div>
   <div>Number of games: {{games.length}}</div>
   <ul class="games flex clearfix">
     <li class="gameBox" *ngFor="let game of games">
