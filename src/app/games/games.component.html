@@ -15,6 +15,7 @@
   <ul class="games flex clearfix">
     <li class="gameBox" *ngFor="let game of games">
       <div class="owned" *ngIf="game.owned">★</div>
+      <div class="category-display">{{game.category}}</div>
       <div class="frameH"></div>
       <div class="frameB">
         <div class="package">
