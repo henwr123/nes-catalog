@@ -5,7 +5,7 @@
   </div>
   <div class="search-area">
     <label for="dropdown-owned">Owned</label>
-    <select id="owned-dd" [(ngModel)]="ownedSelectedValue" class="search">
+    <select id="owned-dd" [(ngModel)]="ownedSelectedValue" class="search" (change)="onChangeOwned($event)">
       <option value="">All</option>
       <option value="true">Owned</option>
       <option value="false">Not Owned</option>

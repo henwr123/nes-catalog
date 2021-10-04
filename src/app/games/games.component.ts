@@ -26,11 +26,14 @@ export class GamesComponent implements OnInit {
   }
 
   getGames(): void {
-    this.gamesService.getGames(this.filterName)
+    this.gamesService.getGames(this.filterName, this.ownedSelectedValue)
       .subscribe(games => this.games = games);
   }
 
   ngOnInit(): void {
+
+    this.ownedSelectedValue = "";
+
     this.getGames();
     // initially sort game list by name
     this.games.sort((a, b) => a.sortable.localeCompare(b.sortable));
@@ -38,6 +41,10 @@ export class GamesComponent implements OnInit {
 
   onSelect(game: Game): void {
     this.selectedGame = game;
+  }
+
+  onChangeOwned() : void {
+    this.getGames();
   }
 
 }
