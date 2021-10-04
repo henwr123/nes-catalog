@@ -43,7 +43,7 @@ export class GamesComponent implements OnInit {
     this.selectedGame = game;
   }
 
-  onChangeOwned() : void {
+  onChangeOwned(event: any) : void {
     this.getGames();
   }
 

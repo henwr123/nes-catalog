@@ -42,7 +42,7 @@ export const CATALOG: Game[] = [
             upc: '045496630270',
             board: 'NES-NROM-256',
             sortable: '10-Yard Fight',
-            owned: false
+            owned: true
         }, {
             id: 'NES-72-USA',
             name: '720°',
@@ -252,7 +252,7 @@ export const CATALOG: Game[] = [
             upc: '083717110132',
             board: 'KONAMI-SLROM',
             sortable: 'Adventures of Bayou Billy',
-            owned: false
+            owned: true
         }, {
             id: 'NES-SG-USA',
             name: 'Adventures of Dino Riki',
@@ -602,7 +602,7 @@ export const CATALOG: Game[] = [
             upc: '032264900116',
             board: 'NES-TLROM',
             sortable: 'Astyanax',
-            owned: false
+            owned: true
         }, {
             id: 'NES-AN-USA',
             name: 'Athena',
@@ -742,7 +742,7 @@ export const CATALOG: Game[] = [
             upc: '045496630201',
             board: 'NES-NROM-128',
             sortable: 'Balloon Fight',
-            owned: false
+            owned: true
         }, {
             id: '',
             name: 'Banana Prince',
@@ -854,7 +854,7 @@ export const CATALOG: Game[] = [
             upc: '045496630096',
             board: 'NES-NROM-128',
             sortable: 'Baseball',
-            owned: false
+            owned: true
         }, {
             id: 'NES-UB-USA',
             name: 'Baseball Simulator 1.000',
@@ -910,7 +910,7 @@ export const CATALOG: Game[] = [
             upc: '041800354122',
             board: 'NES-SFROM',
             sortable: 'Bases Loaded',
-            owned: false
+            owned: true
         }, {
             id: 'NES-L2-USA',
             name: 'Bases Loaded II: Second Season',
@@ -5378,7 +5378,7 @@ export const CATALOG: Game[] = [
             sortable: 'Mario Bros.',
             owned: false
         }, {
-            id: '',
+            id: 'NES-??-USA',
             name: 'Mario Bros. (Classic Series)',
             developer: 'Nintendo Research & Development 1',
             publisher: 'Unreleased',
@@ -8176,7 +8176,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-256',
             sortable: 'Super Mario Bros.',
-            owned: false
+            owned: true
         }, {
             id: 'NES-MH-USA',
             name: 'Super Mario Bros./Duck Hunt',
@@ -8190,7 +8190,7 @@ export const CATALOG: Game[] = [
             upc: '024634562468',
             board: 'NES-MHROM',
             sortable: 'Super Mario Bros./Duck Hunt',
-            owned: false
+            owned: true
         }, {
             id: 'NES-WH-USA',
             name: 'Super Mario Bros./Duck Hunt/World Class Track Meet',
@@ -8204,7 +8204,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SFROM',
             sortable: 'Super Mario Bros./Duck Hunt/World Class Track Meet',
-            owned: false
+            owned: true
         }, {
             id: '',
             name: 'Super Mario Bros./Tetris/Nintendo World Cup',
@@ -8232,7 +8232,7 @@ export const CATALOG: Game[] = [
             upc: '045496630386',
             board: 'NES-TSROM',
             sortable: 'Super Mario Bros. 2',
-            owned: false
+            owned: true
         }, {
             id: 'NES-UM-USA',
             name: 'Super Mario Bros. 3',
