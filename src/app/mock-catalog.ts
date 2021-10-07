@@ -196,7 +196,7 @@ export const CATALOG: Game[] = [
             upc: '039854000010',
             board: 'NES-CNROM',
             sortable: 'Adventure Island',
-            owned: false
+            owned: true
         }, {
             id: 'NES-V7-USA',
             name: 'Adventure Island II',
@@ -266,7 +266,7 @@ export const CATALOG: Game[] = [
             upc: '039854000058',
             board: 'NES-CNROM',
             sortable: 'Adventures of Dino Riki',
-            owned: false
+            owned: true
         }, {
             id: 'NES-2L-USA',
             name: 'The Adventures of Gilligan\'s Island',
@@ -490,7 +490,7 @@ export const CATALOG: Game[] = [
             upc: '039471885021',
             board: 'NES-UNROM',
             sortable: 'Amagon',
-            owned: false
+            owned: true
         }, {
             id: 'NES-3A-USA',
             name: 'American Gladiators',
@@ -532,7 +532,7 @@ export const CATALOG: Game[] = [
             upc: '021481104018',
             board: 'NES-AMROM',
             sortable: 'Arch Rivals',
-            owned: false
+            owned: true
         }, {
             id: 'NES-ON-USA',
             name: 'Archon',
@@ -924,7 +924,7 @@ export const CATALOG: Game[] = [
             upc: '032264900079',
             board: 'NES-SL3ROM',
             sortable: 'Bases Loaded II: Second Season',
-            owned: false
+            owned: true
         }, {
             id: 'NES-3L-USA',
             name: 'Bases Loaded 3',
@@ -938,7 +938,7 @@ export const CATALOG: Game[] = [
             upc: '032264900208',
             board: 'NES-TLROM',
             sortable: 'Bases Loaded 3',
-            owned: false
+            owned: true
         }, {
             id: 'NES-BD-USA',
             name: 'Bases Loaded 4',
@@ -954,7 +954,7 @@ export const CATALOG: Game[] = [
             sortable: 'Bases Loaded 4',
             owned: false
         }, {
-            id: 'UNR-14-USA',
+            id: 'UNR-B4-USA',
             name: 'Batman: The Video Game',
             developer: 'Sunsoft',
             publisher: 'Sunsoft',
@@ -966,7 +966,7 @@ export const CATALOG: Game[] = [
             upc: '020763110099',
             board: 'NES-SKEPROM',
             sortable: 'Batman: The Video Game',
-            owned: false
+            owned: true
         }, {
             id: 'NES-48-USA',
             name: 'Batman: Return of the Joker',
@@ -1162,7 +1162,7 @@ export const CATALOG: Game[] = [
             upc: '013388110087',
             board: 'NES-SGROM',
             sortable: 'Bionic Commando',
-            owned: false
+            owned: true
         }, {
             id: 'NES-BO-USA',
             name: 'The Black Bass',
@@ -1190,7 +1190,7 @@ export const CATALOG: Game[] = [
             upc: '083717112501',
             board: 'KONAMI-UNROM',
             sortable: 'Blades of Steel',
-            owned: false
+            owned: true
         }, {
             id: 'NES-VM-USA',
             name: 'Blaster Master',
@@ -1204,7 +1204,7 @@ export const CATALOG: Game[] = [
             upc: '110068020763',
             board: 'NES-SKEPROM',
             sortable: 'Blaster Master',
-            owned: false
+            owned: true
         }, {
             id: 'NES-8N-USA',
             name: 'The Blue Marlin',
@@ -1652,7 +1652,7 @@ export const CATALOG: Game[] = [
             upc: '083717110040',
             board: 'NES-UNROM',
             sortable: 'Castlevania',
-            owned: false
+            owned: true
         }, {
             id: 'NES-QU-USA',
             name: 'Castlevania II: Simon\'s Quest',
@@ -1666,7 +1666,7 @@ export const CATALOG: Game[] = [
             upc: '781317033133',
             board: 'NES-SLROM',
             sortable: 'Castlevania II: Simon\'s Quest',
-            owned: false
+            owned: true
         }, {
             id: 'NES-VN-USA',
             name: 'Castlevania III: Dracula\'s Curse',
@@ -1764,7 +1764,7 @@ export const CATALOG: Game[] = [
             upc: '013388110209',
             board: 'NES-SLROM',
             sortable: 'Chip \'n Dale: Rescue Rangers',
-            owned: false
+            owned: true
         }, {
             id: 'NES-DV-USA',
             name: 'Chip \'n Dale: Rescue Rangers 2',
@@ -1876,7 +1876,7 @@ export const CATALOG: Game[] = [
             upc: '233182040001',
             board: 'NES-RROM-128',
             sortable: 'Clu Clu Land',
-            owned: false
+            owned: true
         }, {
             id: 'NES-CN-USA',
             name: 'Cobra Command',
@@ -1946,7 +1946,7 @@ export const CATALOG: Game[] = [
             upc: '013388110018',
             board: 'NES-UNROM',
             sortable: 'Commando',
-            owned: false
+            owned: true
         }, {
             id: 'NES-YY-USA',
             name: 'Conan: The Mysteries of Time',
@@ -2002,7 +2002,7 @@ export const CATALOG: Game[] = [
             upc: '015812890244',
             board: 'NES-UNROM',
             sortable: 'Contra',
-            owned: false
+            owned: true
         }, {
             id: 'NES-CR-USA',
             name: 'Contra Force',
@@ -2506,7 +2506,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Donkey Kong',
-            owned: false
+            owned: true
         }, {
             id: 'NES-DT-USA',
             name: 'Donkey Kong 3',
@@ -2548,7 +2548,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Donkey Kong Jr.',
-            owned: false
+            owned: true
         }, {
             id: 'NES-CA-USA',
             name: 'Donkey Kong Jr. Math',
@@ -2590,7 +2590,7 @@ export const CATALOG: Game[] = [
             upc: '031719198832',
             board: 'NES-SLROM',
             sortable: 'Double Dragon',
-            owned: false
+            owned: true
         }, {
             id: 'NES-W2-USA',
             name: 'Double Dragon II: The Revenge',
@@ -2604,7 +2604,7 @@ export const CATALOG: Game[] = [
             upc: '000040606538',
             board: 'NES-TL1ROM',
             sortable: 'Double Dragon II: The Revenge',
-            owned: false
+            owned: true
         }, {
             id: 'NES-3W-USA',
             name: 'Double Dragon III: The Sacred Stones',
@@ -2674,7 +2674,7 @@ export const CATALOG: Game[] = [
             upc: '045496630621',
             board: 'NES-SEROM',
             sortable: 'Dr. Mario',
-            owned: false
+            owned: true
         }, {
             id: 'NES-1D-USA',
             name: 'Dragon Fighter',
@@ -2730,7 +2730,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SAROM',
             sortable: 'Dragon Warrior',
-            owned: false
+            owned: true
         }, {
             id: 'NES-D2-USA',
             name: 'Dragon Warrior II',
@@ -2814,7 +2814,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Duck Hunt',
-            owned: false
+            owned: true
         }, {
             id: 'NES-UK-USA',
             name: 'DuckTales',
@@ -2828,7 +2828,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'DuckTales',
-            owned: false
+            owned: true
         }, {
             id: 'NES-DL-USA',
             name: 'DuckTales 2',
@@ -2940,7 +2940,7 @@ export const CATALOG: Game[] = [
             upc: '752492141692',
             board: 'NES-NROM-128',
             sortable: 'Excitebike',
-            owned: false
+            owned: true
         }, {
             id: 'NES-8F-USA',
             name: 'F-15 Strike Eagle',
@@ -3010,7 +3010,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SGROM',
             sortable: 'Faxanadu',
-            owned: false
+            owned: true
         }, {
             id: 'NES-FC-USA',
             name: 'Felix the Cat',
@@ -3052,7 +3052,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SLROM',
             sortable: 'Fester\'s Quest',
-            owned: false
+            owned: true
         }, {
             id: 'NES-FF-USA',
             name: 'Final Fantasy',
@@ -3290,7 +3290,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Friday the 13th',
-            owned: false
+            owned: true
         }, {
             id: 'NES-FS-USA',
             name: 'Fun House',
@@ -3486,7 +3486,7 @@ export const CATALOG: Game[] = [
             upc: '013388110025',
             board: 'NES-UNROM',
             sortable: 'Ghosts \'n Goblins',
-            owned: false
+            owned: true
         }, {
             id: 'NES-Y3-USA',
             name: 'Ghoul School',
@@ -3514,7 +3514,7 @@ export const CATALOG: Game[] = [
             upc: '718103038713',
             board: 'NES-SL3ROM',
             sortable: 'Goal!',
-            owned: false
+            owned: true
         }, {
             id: 'NES-GT-USA',
             name: 'Goal! Two',
@@ -3570,7 +3570,7 @@ export const CATALOG: Game[] = [
             upc: '045496630102',
             board: 'NES-NROM-128',
             sortable: 'Golf',
-            owned: false
+            owned: true
         }, {
             id: 'NES-7G-USA',
             name: 'Golf Grand Slam',
@@ -3598,7 +3598,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SLROM',
             sortable: 'Golgo 13: Top Secret Episode',
-            owned: false
+            owned: true
         }, {
             id: 'NES-GU-USA',
             name: 'The Goonies II',
@@ -3612,7 +3612,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'Goonies II',
-            owned: false
+            owned: true
         }, {
             id: 'NES-GC-USA',
             name: 'Gotcha! The Sport!',
@@ -3724,7 +3724,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-GNROM',
             sortable: 'Gumshoe',
-            owned: false
+            owned: true
         }, {
             id: 'NES-XG-USA',
             name: 'Gun-Nac',
@@ -3766,7 +3766,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'HVC-NROM-256',
             sortable: 'Gyromite',
-            owned: false
+            owned: true
         }, {
             id: 'NES-YS-USA',
             name: 'Gyruss',
@@ -3878,7 +3878,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Hogan\'s Alley',
-            owned: false
+            owned: true
         }, {
             id: 'NES-HL-USA',
             name: 'Hollywood Squares',
@@ -3920,7 +3920,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-TLROM',
             sortable: 'Home Alone 2: Lost in New York',
-            owned: false
+            owned: true
         }, {
             id: 'NES-7Q-USA',
             name: 'Hook',
@@ -4004,7 +4004,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Ice Climber',
-            owned: false
+            owned: true
         }, {
             id: 'NES-HY-USA',
             name: 'Ice Hockey',
@@ -4018,7 +4018,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-256',
             sortable: 'Ice Hockey',
-            owned: false
+            owned: true
         }, {
             id: 'NES-IW-USA',
             name: 'Ikari Warriors',
@@ -4032,7 +4032,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'Ikari Warriors',
-            owned: false
+            owned: true
         }, {
             id: 'NES-VR-USA',
             name: 'Ikari Warriors II: Victory Road',
@@ -4046,7 +4046,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SGROM',
             sortable: 'Ikari Warriors II: Victory Road',
-            owned: false
+            owned: true
         }, {
             id: 'NES-3D-USA',
             name: 'Ikari Warriors III: The Rescue',
@@ -4200,7 +4200,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-AOROM',
             sortable: 'Ironsword: Wizards & Warriors II',
-            owned: false
+            owned: true
         }, {
             id: 'NES-W6-USA',
             name: 'Isolated Warrior',
@@ -4298,7 +4298,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Jaws',
-            owned: false
+            owned: true
         }, {
             id: 'NES-JP-USA',
             name: 'Jeopardy!',
@@ -4508,7 +4508,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-DE1ROM',
             sortable: 'Karnov',
-            owned: false
+            owned: true
         }, {
             id: 'NES-8K-USA',
             name: 'Kick Master',
@@ -4564,7 +4564,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SNROM',
             sortable: 'Kid Icarus',
-            owned: false
+            owned: true
         }, {
             id: 'NES-NM-USA',
             name: 'Kid Klown in Night Mayor World',
@@ -4760,7 +4760,7 @@ export const CATALOG: Game[] = [
             upc: '045496630119',
             board: 'NES-NROM-256',
             sortable: 'Kung Fu',
-            owned: false
+            owned: true
         }, {
             id: 'NES-CE-USA',
             name: 'Kung-Fu Heroes',
@@ -4872,7 +4872,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Legend of Kage',
-            owned: false
+            owned: true
         }, {
             id: '',
             name: 'The Legend of Prince Valiant',
@@ -4914,7 +4914,7 @@ export const CATALOG: Game[] = [
             upc: '045496630324',
             board: 'NES-SNROM',
             sortable: 'Legend of Zelda',
-            owned: false
+            owned: true
         }, {
             id: 'NES-LE-USA',
             name: 'Legendary Wings',
@@ -5194,7 +5194,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-256',
             sortable: 'Mach Rider',
-            owned: false
+            owned: true
         }, {
             id: 'NES-3M-USA',
             name: 'Mad Max',
@@ -5250,7 +5250,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SCROM',
             sortable: 'Magic Johnson\'s Fast Break',
-            owned: false
+            owned: true
         }, {
             id: 'NES-AS-USA',
             name: 'The Magic of Scheherazade',
@@ -5320,7 +5320,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Major League Baseball',
-            owned: false
+            owned: true
         }, {
             id: 'NES-JM-USA',
             name: 'Maniac Mansion',
@@ -5362,7 +5362,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-ANROM',
             sortable: 'Marble Madness',
-            owned: false
+            owned: true
         }, {
             id: 'NES-MA-USA',
             name: 'Mario Bros.',
@@ -5376,7 +5376,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Mario Bros.',
-            owned: false
+            owned: true
         }, {
             id: 'NES-??-USA',
             name: 'Mario Bros. (Classic Series)',
@@ -5544,7 +5544,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'KONAMI-UNROM',
             sortable: 'Metal Gear',
-            owned: false
+            owned: true
         }, {
             id: 'NES-J8-USA',
             name: 'Metal Mech: Man & Machine',
@@ -5698,7 +5698,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-PEEOROM',
             sortable: 'Mike Tyson\'s Punch-Out!!',
-            owned: false
+            owned: true
         }, {
             id: 'NES-ML-USA',
             name: 'Millipede',
@@ -5726,7 +5726,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Milon\'s Secret Castle',
-            owned: false
+            owned: true
         }, {
             id: 'NES-9M-USA',
             name: 'The Miracle Piano Teaching System',
@@ -5936,7 +5936,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-TLSROM',
             sortable: 'NES Play Action Football',
-            owned: false
+            owned: true
         }, {
             id: '',
             name: 'New Ghostbusters II',
@@ -6034,7 +6034,7 @@ export const CATALOG: Game[] = [
             upc: '018946110073',
             board: 'NES-SLROM',
             sortable: 'Ninja Gaiden',
-            owned: false
+            owned: true
         }, {
             id: 'NES-NW-USA',
             name: 'Ninja Gaiden II: The Dark Sword of Chaos',
@@ -6048,7 +6048,7 @@ export const CATALOG: Game[] = [
             upc: '018946110103',
             board: 'NES-TLROM',
             sortable: 'Ninja Gaiden II: The Dark Sword of Chaos',
-            owned: false
+            owned: true
         }, {
             id: 'NES-3N-USA',
             name: 'Ninja Gaiden III: The Ancient Ship of Doom',
@@ -6160,7 +6160,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SL1ROM',
             sortable: 'Operation Wolf',
-            owned: false
+            owned: true
         }, {
             id: 'NES-5H-USA',
             name: 'Orb-3D',
@@ -6384,7 +6384,7 @@ export const CATALOG: Game[] = [
             upc: '045496630171',
             board: 'HVC-NROM-128',
             sortable: 'Pinball',
-            owned: false
+            owned: true
         }, {
             id: 'NES-P9-USA',
             name: 'Pinball Quest',
@@ -6468,7 +6468,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Popeye',
-            owned: false
+            owned: true
         }, {
             id: 'NES-7T-USA',
             name: 'Power Blade',
@@ -6580,7 +6580,7 @@ export const CATALOG: Game[] = [
             upc: '045496630294',
             board: 'NES-UNROM',
             sortable: 'Pro Wrestling',
-            owned: false
+            owned: true
         }, {
             id: 'NES-QP-USA',
             name: 'Punch-Out!! Featuring Mr. Dream',
@@ -6692,7 +6692,7 @@ export const CATALOG: Game[] = [
             upc: '074470563242',
             board: 'NES-AN1ROM',
             sortable: 'R.C. Pro-Am',
-            owned: false
+            owned: true
         }, {
             id: 'NES-R2-USA',
             name: 'R.C. Pro-Am II',
@@ -6748,7 +6748,7 @@ export const CATALOG: Game[] = [
             upc: '045496630362',
             board: 'NES-SGROM',
             sortable: 'Rad Racer',
-            owned: false
+            owned: true
         }, {
             id: 'NES-QR-USA',
             name: 'Rad Racer II',
@@ -6832,7 +6832,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'Rambo',
-            owned: false
+            owned: true
         }, {
             id: 'NES-RP-USA',
             name: 'Rampage',
@@ -6846,7 +6846,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-TFROM',
             sortable: 'Rampage',
-            owned: false
+            owned: true
         }, {
             id: 'NES-73-USA',
             name: 'Rampart',
@@ -6902,7 +6902,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'Renegade',
-            owned: false
+            owned: true
         }, {
             id: 'NES-HZ-USA',
             name: 'Rescue: The Embassy Mission',
@@ -7224,7 +7224,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'Rush\'n Attack',
-            owned: false
+            owned: true
         }, {
             id: 'NES-RY-USA',
             name: 'Rygar',
@@ -7238,7 +7238,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'Rygar',
-            owned: false
+            owned: true
         }, {
             id: 'NES-FV-USA',
             name: 'S.C.A.T.: Special Cybernetic Attack Team',
@@ -7518,7 +7518,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'ACCLAIM-MC-ACC',
             sortable: 'Simpsons: Bart vs. the World',
-            owned: false
+            owned: true
         }, {
             id: 'NES-RN-USA',
             name: 'The Simpsons: Bartman Meets Radioactive Man',
@@ -7546,7 +7546,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'KONAMI-UNROM',
             sortable: 'Skate or Die!',
-            owned: false
+            owned: true
         }, {
             id: 'NES-E4-USA',
             name: 'Skate or Die 2: The Search for Double Trouble',
@@ -7616,7 +7616,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-256',
             sortable: 'Slalom',
-            owned: false
+            owned: true
         }, {
             id: 'NES-5V-USA',
             name: 'Smash TV',
@@ -7672,7 +7672,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SLROM',
             sortable: 'Snake\'s Revenge',
-            owned: false
+            owned: true
         }, {
             id: 'NES-OP-USA',
             name: 'Snoopy\'s Silly Sports Spectacular',
@@ -7714,7 +7714,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-256',
             sortable: 'Soccer',
-            owned: false
+            owned: true
         }, {
             id: 'NES-LJ-USA',
             name: 'Solar Jetman: Hunt for the Golden Warpship',
@@ -7826,7 +7826,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Spy Hunter',
-            owned: false
+            owned: true
         }, {
             id: 'NES-SP-USA',
             name: 'Spy vs. Spy',
@@ -8022,7 +8022,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-HKROM',
             sortable: 'StarTropics',
-            owned: false
+            owned: true
         }, {
             id: 'NES-LH-USA',
             name: 'Stealth ATF',
@@ -8092,7 +8092,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SGROM',
             sortable: 'Strider',
-            owned: false
+            owned: true
         }, {
             id: 'NES-UE-USA',
             name: 'Super C',
@@ -8106,7 +8106,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'KONAMI-TLROM',
             sortable: 'Super C',
-            owned: false
+            owned: true
         }, {
             id: 'NES-6S-USA',
             name: 'Super Cars',
@@ -8470,7 +8470,7 @@ export const CATALOG: Game[] = [
             upc: '018946110059',
             board: 'NES-SLROM',
             sortable: 'Tecmo Bowl',
-            owned: false
+            owned: true
         }, {
             id: 'NES-TP-USA',
             name: 'Tecmo Cup Soccer Game',
@@ -8554,7 +8554,7 @@ export const CATALOG: Game[] = [
             upc: '083717120032',
             board: 'KONAMI-SLROM',
             sortable: 'Teenage Mutant Ninja Turtles',
-            owned: false
+            owned: true
         }, {
             id: 'NES-2N-USA',
             name: 'Teenage Mutant Ninja Turtles II: The Arcade Game',
@@ -8568,7 +8568,7 @@ export const CATALOG: Game[] = [
             upc: '802859001142',
             board: 'NES-TLROM',
             sortable: 'Teenage Mutant Ninja Turtles II: The Arcade Game',
-            owned: false
+            owned: true
         }, {
             id: 'NES-T3-USA',
             name: 'Teenage Mutant Ninja Turtles III: The Manhattan Project',
@@ -8582,7 +8582,7 @@ export const CATALOG: Game[] = [
             upc: '083717110279',
             board: 'NES-TLROM',
             sortable: 'Teenage Mutant Ninja Turtles III: The Manhattan Project',
-            owned: false
+            owned: true
         }, {
             id: 'NES-TF-USA',
             name: 'Teenage Mutant Ninja Turtles: Tournament Fighters',
@@ -8610,7 +8610,7 @@ export const CATALOG: Game[] = [
             upc: '075470390289',
             board: 'NES-NROM-128',
             sortable: 'Tennis',
-            owned: false
+            owned: true
         }, {
             id: 'NES-NA-USA',
             name: 'The Terminator',
@@ -8666,7 +8666,7 @@ export const CATALOG: Game[] = [
             upc: '045496630539',
             board: 'NES-SEROM',
             sortable: 'Tetris',
-            owned: false
+            owned: true
         }, {
             id: 'NES-TS-USA',
             name: 'Tetris 2',
@@ -8750,7 +8750,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Tiger-Heli',
-            owned: false
+            owned: true
         }, {
             id: 'NES-LZ-USA',
             name: 'Time Lord',
@@ -8890,7 +8890,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'Top Gun',
-            owned: false
+            owned: true
         }, {
             id: 'NES-OG-USA',
             name: 'Top Gun: The Second Mission',
@@ -9016,7 +9016,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'Track & Field',
-            owned: false
+            owned: true
         }, {
             id: 'NES-F2-USA',
             name: 'Track & Field II',
@@ -9268,7 +9268,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-128',
             sortable: 'Urban Champion',
-            owned: false
+            owned: true
         }, {
             id: 'NES-LS-USA',
             name: 'Vegas Dream',
@@ -9324,7 +9324,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-256',
             sortable: 'Volleyball',
-            owned: false
+            owned: true
         }, {
             id: 'NES-WE-USA',
             name: 'Wacky Races',
@@ -9408,7 +9408,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-TLROM',
             sortable: 'WCW Wrestling',
-            owned: false
+            owned: true
         }, {
             id: 'NES-W8-USA',
             name: 'Werewolf: The Last Warrior',
@@ -9702,7 +9702,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-CNROM',
             sortable: 'World Class Track Meet',
-            owned: false
+            owned: true
         }, {
             id: 'NES-WV-USA',
             name: 'World Games',
@@ -9744,7 +9744,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-NROM-256',
             sortable: 'Wrecking Crew',
-            owned: false
+            owned: true
         }, {
             id: 'NES-WQ-USA',
             name: 'Wurm: Journey to the Center of the Earth',
@@ -9800,7 +9800,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-UNROM',
             sortable: 'WWF WrestleMania Challenge',
-            owned: false
+            owned: true
         }, {
             id: 'NES-WS-USA',
             name: 'WWF WrestleMania: Steel Cage Challenge',
@@ -9940,7 +9940,7 @@ export const CATALOG: Game[] = [
             upc: '',
             board: 'NES-SKROM',
             sortable: 'Zelda II: The Adventure of Link',
-            owned: false
+            owned: true
         }, {
             id: 'NES-ZN-USA',
             name: 'Zen the Intergalactic Ninja',
