@@ -2051,7 +2051,7 @@ export const CATALOG: Game[] = [
             developer: 'Konami',
             publisher: 'Unreleased',
             region: 'NTSC (N. America)',
-            releaseDate: new Date('Unreleased'),
+            releaseDate: new Date('December 9999'),
             category: '',
             esrb: '',
             players: '',

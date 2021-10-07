@@ -17,12 +17,14 @@ export class GamesComponent implements OnInit {
 
   ownedSelectedValue: string;
 
+  sortByProperty: string;
+
   constructor(private gamesService: GamesService) { }
 
   onKey(event: any): void {
     this.filterName = event.target.value;
     this.getGames();
-    this.games.sort((a, b) => a.sortable.localeCompare(b.sortable));
+    this.sortGames("sortable");
   }
 
   getGames(): void {
@@ -30,13 +32,26 @@ export class GamesComponent implements OnInit {
       .subscribe(games => this.games = games);
   }
 
+    /**
+     * Handles the sorting for the games list
+     * @param sortProperty 
+     */
+  sortGames(sortProperty: string): void {
+
+    //this.games.sort((a, b) => a[sortProperty] - b[sortProperty]);
+
+    this.games.sort((a, b) => a[sortProperty].localeCompare(b[sortProperty]));
+    //this.games.sort((a, b) => a.sortable.localeCompare(b.sortable));
+  }
+
   ngOnInit(): void {
 
     this.ownedSelectedValue = "";
 
     this.getGames();
+
     // initially sort game list by name
-    this.games.sort((a, b) => a.sortable.localeCompare(b.sortable));
+    this.sortGames("releaseDate");
   }
 
   onSelect(game: Game): void {
