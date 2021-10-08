@@ -1,0 +1,716 @@
+id,name,developer,publisher,region,releaseDate,category,esrb,players,upc,board,sortName
+NES-WO-USA,The 3-D Battles of WorldRunner,Square,Acclaim Entertainment,NTSC (N. America),1987-09,Action & Adventure,Everyone,1,21481102014,NES-UNROM,3-D BATTLES OF WORLDRUNNER
+NES-8E-USA,8 Eyes,Thinking Rabbit,Taxan,NTSC (N. America),1990-01,Action & Adventure,Everyone,2,40886308593,NES-TLROM,8 EYES
+NES-TY-USA,10-Yard Fight,Irem,Nintendo,NTSC (N. America),10/18/1985,Sports,Everyone,2,45496630270,NES-NROM-256,10-YARD FIGHT
+NES-72-USA,720°,Beam Software,Mindscape,NTSC (N. America),1989-11,Sports,Everyone,1,50047103158,NES-SGROM,720°
+NES-NF-USA,1942,Micronics,Capcom,NTSC (N. America),1986-11,Shooter,Everyone,2,21000613595,NES-NROM-256,1942
+NES-43-USA,1943: The Battle of Midway,Capcom,Capcom,NTSC (N. America),1988-10,Shooter,Everyone,1,13388110100,NES-UNROM,1943: THE BATTLE OF MIDWAY
+NES-A3-USA,Abadox: The Deadly Inner War,Natsume,Milton Bradley Company,NTSC (N. America),1990-03,Action & Adventure,Everyone,1,32244040887,NES-SLROM,ABADOX: THE DEADLY INNER WAR
+NES-6Z-USA,The Addams Family,Ocean Software,Ocean Software,NTSC (N. America),1992-01,Action & Adventure,Everyone,1,20295010034,NES-SLROM,ADDAMS FAMILY
+NES-FM-USA,The Addams Family: Pugsley's Scavenger Hunt,Enigma Variations,Ocean Software,NTSC (N. America),1993-08,Platformer,Everyone,1,20295010072,NES-SLROM,ADDAMS FAMILY: PUGSLEY'S SCAVENGER HUNT
+NES-DS-USA,Advanced Dungeons & Dragons: DragonStrike,Westwood Studios,FCI,NTSC (N. America),1992-07,RPG,N/A,2,22909100155,NES-TLROM,ADVANCED DUNGEONS & DRAGONS: DRAGONSTRIKE
+NES-LQ-USA,Advanced Dungeons & Dragons: Heroes of the Lance,Natsume,FCI,NTSC (N. America),1991-01,RPG,Everyone,1,22909100100,NES-SKEPROM,ADVANCED DUNGEONS & DRAGONS: HEROES OF THE LANCE
+NES-QQ-USA,Advanced Dungeons & Dragons: Hillsfar,Crosstalk,FCI,NTSC (N. America),1993-02,RPG,N/A,1,22909100162,NES-SNROM,ADVANCED DUNGEONS & DRAGONS: HILLSFAR
+NES-QA-USA,Advanced Dungeons & Dragons: Pool of Radiance,"Marionette, SRS",FCI,NTSC (N. America),1992-04,RPG,Mature,1,22909100131,NES-TKROM,ADVANCED DUNGEONS & DRAGONS: POOL OF RADIANCE
+NES-TB-USA,Adventure Island,Hudson Soft,Hudson Soft,NTSC (N. America),1988-09,Platformer,Everyone,1,39854000010,NES-CNROM,ADVENTURE ISLAND
+NES-V7-USA,Adventure Island II,Now Production,Hudson Soft,NTSC (N. America),1991-02,Platformer,Everyone,1,39854000102,NES-TLROM,ADVENTURE ISLAND II
+NES-AT-USA,Adventure Island 3,Now Production,Hudson Soft,NTSC (N. America),1992-09,Platformer,Everyone,1,39854000195,NES-TLROM,ADVENTURE ISLAND 3
+NES-VD-USA,Adventures in the Magic Kingdom,Capcom,Capcom,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,13388110186,NES-SLROM,ADVENTURES IN THE MAGIC KINGDOM
+NES-MU-USA,The Adventures of Bayou Billy,Konami,Konami,NTSC (N. America),1989-06,Action & Adventure,Everyone,1,83717110132,KONAMI-SLROM,ADVENTURES OF BAYOU BILLY
+NES-SG-USA,Adventures of Dino Riki,Hudson Soft,Hudson Soft,NTSC (N. America),1989-09,Action & Adventure,Everyone,1,39854000058,NES-CNROM,ADVENTURES OF DINO RIKI
+NES-2L-USA,The Adventures of Gilligan's Island,Human Entertainment,Bandai,NTSC (N. America),1990-07,Action & Adventure,Everyone,1,91199002807,NES-UNROM,ADVENTURES OF GILLIGAN'S ISLAND
+NES-AV-USA,Adventures of Lolo,HAL Laboratory,HAL America,NTSC (N. America),4/20/1989,Puzzle,N/A,1,40458011050,NES-SEROM,ADVENTURES OF LOLO
+NES-A4-USA,Adventures of Lolo 2,HAL Laboratory,HAL America,NTSC (N. America),1990-03,Puzzle,N/A,1,11081040458,NES-TEROM,ADVENTURES OF LOLO 2
+NES-QL-USA,Adventures of Lolo 3,HAL Laboratory,HAL America,NTSC (N. America),1991-09,Puzzle,Everyone,1,40458033120,NES-SLROM,ADVENTURES OF LOLO 3
+NES-2A-USA,The Adventures of Rad Gravity,Interplay Productions,Activision,NTSC (N. America),1990-12,Action & Adventure,Everyone,1,47875700147,NES-SLROM,ADVENTURES OF RAD GRAVITY
+NES-RF-USA,The Adventures of Rocky and Bullwinkle and Friends,Radical Entertainment,THQ,NTSC (N. America),1992-12,Platformer,Everyone,1,92826198962,NES-TLROM,ADVENTURES OF ROCKY AND BULLWINKLE AND FRIENDS
+NES-YB-USA,Adventures of Tom Sawyer,Winkysoft,SETA,NTSC (N. America),1989-08,Action & Adventure,N/A,2,31763104124,NES-SLROM,ADVENTURES OF TOM SAWYER
+NES-AI-USA,Air Fortress,HAL Laboratory,HAL America,NTSC (N. America),1989-09,Shooter,N/A,1,40458036077,NES-SJROM,AIR FORTRESS
+NES-AF-USA,Airwolf,Beam Software,Acclaim Entertainment,NTSC (N. America),1989-06,Action & Adventure,N/A,1,9726731069,NES-SH1ROM,AIRWOLF
+NES-FH-USA,Al Unser Jr.'s Turbo Racing,Data East,Data East,NTSC (N. America),1990-03,Racing,Everyone,4,13252002128,NES-SKROM,AL UNSER JR.'S TURBO RACING
+NES-RB-USA,Alex Demeo's Race America,Imagineering,Absolute Entertainment,NTSC (N. America),1992-05,Racing,Everyone,2,18706208934,NES-SLROM,ALEX DEMEO'S RACE AMERICA
+NES-AC-USA,Alfred Chicken,Twilight,Mindscape,NTSC (N. America),1994-02,Platformer,Everyone,1,50047113751,NES-UNROM,ALFRED CHICKEN
+NES-X3-USA,Alien 3,Probe Software,LJN,NTSC (N. America),1993-03,Platformer,Teen,1,23582051895,ACCLAIM-MC-ACC,ALIEN 3
+NES-A2-USA,All-Pro Basketball,Aicom,Vic Tokai,NTSC (N. America),1989-12,Sports,N/A,2,34912784598,NES-SLROM,ALL-PRO BASKETBALL
+NES-AM-USA,Alpha Mission,SNK,SNK,NTSC (N. America),1987-10,Action & Adventure,Everyone,1,18484145001,NES-CNROM,ALPHA MISSION
+NES-M5-USA,Amagon,Aicom,American Sammy,NTSC (N. America),1989-04,Platformer,Everyone,1,39471885021,NES-UNROM,AMAGON
+NES-3A-USA,American Gladiators,Incredible Technologies,GameTek,NTSC (N. America),1991-10,Sports,Everyone,2,43948511009,NES-SLROM,AMERICAN GLADIATORS
+NES-AP-USA,Anticipation,Rare,Nintendo,NTSC (N. America),1988-11,Party,Everyone,4,6121731069,NES-SEROM,ANTICIPATION
+NES-Q4-USA,Arch Rivals,Rare,Acclaim Entertainment,NTSC (N. America),1990-11,Sports,Everyone,2,21481104018,NES-AMROM,ARCH RIVALS
+NES-ON-USA,Archon,Bullet-Proof Software,Activision,NTSC (N. America),1989-12,Party,Everyone,2,7.31069E+11,NES-UNROM,ARCHON
+NES-AR-USA,Arkanoid,Taito,Taito,NTSC (N. America),1987-08,Arcade,Everyone,1,20588010031,NES-CNROM,ARKANOID
+NES-A5-USA,Arkista's Ring,NMK,American Sammy,NTSC (N. America),1990-06,Action & Adventure,N/A,1,39471885069,NES-CNROM,ARKISTA'S RING
+UNR-01-USA,Asterix,Bit Managers,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,ASTERIX
+NES-YX-USA,Astyanax,Aicom,Jaleco,NTSC (N. America),1990-03,Action & Adventure,Everyone,1,32264900116,NES-TLROM,ASTYANAX
+NES-AN-USA,Athena,Micronics,SNK,NTSC (N. America),1987-08,Action & Adventure,Everyone,1,91199005129,NES-UNROM,ATHENA
+NES-AW-USA,Athletic World,Human Entertainment,Bandai,NTSC (N. America),1987-07,Sports,Everyone,1,45557077006,NES-CNROM,ATHLETIC WORLD
+NES-47-USA,Attack of the Killer Tomatoes,Imagineering,THQ,NTSC (N. America),1992-01,Action & Adventure,Everyone,1,7.19575E+11,NES-SLROM,ATTACK OF THE KILLER TOMATOES
+UNR-02-USA,Aussie Rules Footy,Beam Software,Unreleased,NTSC (N. America),N/A,Sports,N/A,N/A,N/A,N/A,AUSSIE RULES FOOTY
+NES-FU-USA,Back to the Future,Beam Software,LJN,NTSC (N. America),1989-09,Action & Adventure,Everyone,1,23582051673,NES-CNROM,BACK TO THE FUTURE
+NES-L3-USA,Back to the Future Part II & III,Beam Software,LJN,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,4.7311E+11,NES-SLROM,BACK TO THE FUTURE PART II & III
+NES-DU-USA,Bad Dudes,Data East,Data East,NTSC (N. America),1990-07,Action & Adventure,Teen,2,13252002159,NES-TL1ROM,BAD DUDES
+NES-3B-USA,Bad News Baseball,Tecmo,Tecmo,NTSC (N. America),1990-06,Sports,Everyone,2,18946110097,NES-SLROM,BAD NEWS BASEBALL
+NES-BV-USA,Bad Street Brawler,Beam Software,Mattel,NTSC (N. America),1989-09,Action & Adventure,Everyone,2,74299040627,NES-SGROM,BAD STREET BRAWLER
+NES-BF-USA,Balloon Fight,Nintendo Research & Development 1,Nintendo,NTSC (N. America),6/3/1986,Action & Adventure,Everyone,2,45496630201,NES-NROM-128,BALLOON FIGHT
+UNR-03-USA,Banana Prince,KID,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,BANANA PRINCE
+NES-PG-USA,Bandai Golf: Challenge Pebble Beach,TOSE,Bandai,NTSC (N. America),1989-02,Sports,Everyone,2,45557072001,NES-CNROM,BANDAI GOLF: CHALLENGE PEBBLE BEACH
+NES-XJ-USA,Bandit Kings of Ancient China,Koei,Koei,NTSC (N. America),1990-12,Strategy,Everyone,5,40198000178,NES-ETROM,BANDIT KINGS OF ANCIENT CHINA
+NES-8V-USA,Barbie,Imagineering,Hi Tech Expressions,NTSC (N. America),12/31/1991,Action & Adventure,Everyone,1,87855000546,NES-SLROM,BARBIE
+NES-ET-USA,The Bard's Tale,Atelier Double,FCI,NTSC (N. America),1991-11,RPG,Teen,1,22909100124,NES-SNROM,BARD'S TALE
+NES-ZT-USA,Barker Bill's Trick Shooting,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1990-08,Shooter,Everyone,1,45496630553,NES-SCROM,BARKER BILL'S TRICK SHOOTING
+NES-5B-USA,Base Wars,Konami,Ultra Games,NTSC (N. America),1991-06,Sports,Everyone,2,2.14811E+11,NES-TKROM,BASE WARS
+NES-BA-USA,Baseball,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Sports,Everyone,2,45496630096,NES-NROM-128,BASEBALL
+NES-UB-USA,Baseball Simulator 1.000,Culture Brain,Culture Brain,NTSC (N. America),1990-03,Sports,Everyone,2,47743890031,NES-SKROM,BASEBALL SIMULATOR 1.000
+NES-B9-USA,Baseball Stars,SNK,SNK,NTSC (N. America),1989-07,Sports,Everyone,2,18484205002,NES-SKROM,BASEBALL STARS
+NES-9R-USA,Baseball Stars 2,Pixel,Romstar,NTSC (N. America),1992-07,Sports,Everyone,2,95474210109,NES-TKROM,BASEBALL STARS 2
+NES-LD-USA,Bases Loaded,TOSE,Jaleco,NTSC (N. America),1988-07,Sports,Everyone,2,41800354122,NES-SFROM,BASES LOADED
+NES-L2-USA,Bases Loaded II: Second Season,TOSE,Jaleco,NTSC (N. America),1990-01,Sports,Everyone,2,32264900079,NES-SL3ROM,BASES LOADED II: SECOND SEASON
+NES-3L-USA,Bases Loaded 3,TOSE,Jaleco,NTSC (N. America),1991-09,Sports,Everyone,2,32264900208,NES-TLROM,BASES LOADED 3
+NES-BD-USA,Bases Loaded 4,TOSE,Jaleco,NTSC (N. America),1993-04,Sports,Everyone,2,32264900277,NES-TLROM,BASES LOADED 4
+UNR-14-USA,Batman: The Video Game,Sunsoft,Sunsoft,NTSC (N. America),N/A,Action & Adventure,Everyone,1,20763110099,NES-SKEPROM,BATMAN: THE VIDEO GAME
+NES-48-USA,Batman: Return of the Joker,Sunsoft,Sunsoft,NTSC (N. America),1991-12,Action & Adventure,Everyone,1,20763110204,NES-BTR,BATMAN: RETURN OF THE JOKER
+NES-BX-USA,Batman Returns,Konami,Konami,NTSC (N. America),1993-01,Action & Adventure,Everyone,1,83717110323,NES-TLROM,BATMAN RETURNS
+NES-C6-USA,Battle Chess,Beam Software,Data East,NTSC (N. America),1990-07,Strategy,Everyone,2,4.7311E+11,NES-SGROM,BATTLE CHESS
+NES-AD-USA,The Battle of Olympus,Infinity,Brøderbund,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,78915019103,NES-SGROM,BATTLE OF OLYMPUS
+NES-9B-USA,Battle Tank,Imagineering,Absolute Entertainment,NTSC (N. America),1990-09,Action & Adventure,Teen,1,47875700048,NES-CNROM,BATTLE TANK
+NES-BH-USA,Battleship,Mindscape,Mindscape,NTSC (N. America),1993-09,Strategy,Everyone,1,23582051574,NES-CNROM,BATTLESHIP
+NES-8T-USA,Battletoads,Rare,Tradewest,NTSC (N. America),1991-06,Action & Adventure,Everyone,2,31719199112,NES-AOROM,BATTLETOADS
+NES-U8-USA,Battletoads & Double Dragon,Rare,Tradewest,NTSC (N. America),1993-06,Action & Adventure,Everyone,2,31719199242,NES-AOROM,BATTLETOADS & DOUBLE DRAGON
+NES-4B-USA,Beetlejuice,Rare,LJN,NTSC (N. America),1991-05,Action & Adventure,Everyone,1,31719199242,NES-AMROM,BEETLEJUICE
+NES-BB-USA,Best of the Best: Championship Karate,Movie Software,Electro Brain,NTSC (N. America),1992-12,Fighting,Everyone,2,99451024888,NES-UOROM,BEST OF THE BEST: CHAMPIONSHIP KARATE
+NES-A8-USA,Bigfoot,Beam Software,Acclaim Entertainment,NTSC (N. America),1990-07,Action & Adventure,Everyone,2,21481103042,NES-SLROM,BIGFOOT
+NES-42-USA,Bill & Ted's Excellent Video Game Adventure,Rocket Science Games,LJN,NTSC (N. America),1991-08,Action & Adventure,Everyone,1,23582051697,NES-SLROM,BILL & TED'S EXCELLENT VIDEO GAME ADVENTURE
+NES-EV-USA,Bill Elliott's NASCAR Challenge,Distinctive Software,Konami,NTSC (N. America),1991-04,Racing,Everyone,1,83717110194,NES-TSROM,BILL ELLIOTT'S NASCAR CHALLENGE
+NES-CM-USA,Bionic Commando,Capcom,Capcom,NTSC (N. America),1988-12,Shooter,Everyone,1,13388110087,NES-SGROM,BIONIC COMMANDO
+NES-BO-USA,The Black Bass,Another,Hot-B,NTSC (N. America),1989-09,Sports,Everyone,1,93455100012,NES-UNROM,BLACK BASS
+NES-VS-USA,Blades of Steel,Konami,Konami,NTSC (N. America),1988-12,Sports,Everyone,2,83717112501,KONAMI-UNROM,BLADES OF STEEL
+NES-VM-USA,Blaster Master,Sunsoft,Sunsoft,NTSC (N. America),1988-11,Action & Adventure,Everyone,1,1.10068E+11,NES-SKEPROM,BLASTER MASTER
+NES-8N-USA,The Blue Marlin,Hot-B,Hot-B,NTSC (N. America),1992-07,Sports,Everyone,1,93455100098,NES-TLROM,BLUE MARLIN
+NES-4Z-USA,The Blues Brothers,Titus Software,Titus Software,NTSC (N. America),1992-09,Action & Adventure,Everyone,2,86854002612,NES-UNROM,BLUES BROTHERS
+NES-6J-USA,Bo Jackson Baseball,Beam Software,Data East,NTSC (N. America),1991-10,Sports,Everyone,2,13252002210,NES-TSROM,BO JACKSON BASEBALL
+NES-BM-USA,Bomberman,Hudson Soft,Hudson Soft,NTSC (N. America),1989-01,Strategy,Everyone,1,39854000034,NES-NROM-128,BOMBERMAN
+NES-BW-USA,Bomberman II,Hudson Soft,Hudson Soft,NTSC (N. America),1993-02,Strategy,Everyone,2,39854000188,NES-SNROM,BOMBERMAN II
+NES-K8-USA,Bonk's Adventure,AI,Hudson Soft,NTSC (N. America),1994-01,Action & Adventure,Everyone,1,39854000393,NES-TLROM,BONK'S ADVENTURE
+NES-XB-USA,Boulder Dash,"Data East, Sakata SAS",JVC,NTSC (N. America),1990-06,Action & Adventure,Everyone,2,9119313490,NES-SEROM,BOULDER DASH
+NES-B5-USA,A Boy and His Blob: Trouble on Blobolonia,Imagineering,Absolute Entertainment,NTSC (N. America),1990-01,Action & Adventure,Everyone,1,47875700130,NES-SLROM,BOY AND HIS BLOB: TROUBLE ON BLOBOLONIA
+NES-DR-USA,Bram Stoker's Dracula,Probe Software,Sony Imagesoft,NTSC (N. America),1993-09,Action & Adventure,Everyone,1,90451101067,NES-TSROM,BRAM STOKER'S DRACULA
+NES-BZ-USA,Break Time: The National Pool Tour,Opera House,FCI,NTSC (N. America),1993-01,Sports,Everyone,2,22909100179,NES-SFROM,BREAK TIME: THE NATIONAL POOL TOUR
+NES-BE-USA,BreakThru,Data East,Data East,NTSC (N. America),1987-11,Puzzle,Everyone,2,13252002081,NES-SLROM,BREAKTHRU
+NES-B2-USA,Bubble Bobble,Taito,Taito,NTSC (N. America),1988-11,Action & Adventure,Everyone,2,20588010062,NES-SFROM,BUBBLE BOBBLE
+NES-BQ-USA,Bubble Bobble Part 2,"OLM
+I.T.L",Taito,NTSC (N. America),1993-08,Action & Adventure,Everyone,2,20588010703,NES-TLROM,BUBBLE BOBBLE PART 2
+NES-56-USA,Bucky O'Hare,Konami,Konami,NTSC (N. America),1992-01,Action & Adventure,Everyone,1,83717110293,NES-TLROM,BUCKY O'HARE
+NES-H8-USA,The Bugs Bunny Birthday Blowout ,Kemco,Kemco*Seika,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,1.51548E+11,NES-TSROM,BUGS BUNNY BIRTHDAY BLOWOUT 
+NES-C1-USA,The Bugs Bunny Crazy Castle,Kemco,Kemco*Seika,NTSC (N. America),1989-08,Action & Adventure,Everyone,1,44499000066,NES-SBROM,BUGS BUNNY CRAZY CASTLE
+NES-BP-USA,Bump 'n' Jump,"Data East, Sakata SAS",Vic Tokai,NTSC (N. America),1988-12,Racing,Everyone,1,34912784581,NES-CNROM,BUMP 'N' JUMP
+NES-UF-USA,Burai Fighter,KID,Taxan,NTSC (N. America),1990-03,Fighting,Everyone,1,45496430061,NES-TEROM,BURAI FIGHTER
+NES-BR-USA,BurgerTime,"Data East, Sakata SAS",Data East,NTSC (N. America),1987-05,Action & Adventure,Everyone,2,3637000207,NES-NROM-128,BURGERTIME
+NES-C7-USA,Cabal,Zippo Games,Milton Bradley Company,NTSC (N. America),1990-06,Action & Adventure,Everyone,2,32244040894,NES-AMROM,CABAL
+NES-C9-USA,Caesars Palace,Realtime Associates,Virgin Interactive,NTSC (N. America),1992-12,Party,Everyone,1,52145800090,NES-UNROM,CAESARS PALACE
+NES-CG-USA,California Games,Rare,Milton Bradley Company,NTSC (N. America),1989-06,Sports,Everyone,8,32244048814,NES-UNROM,CALIFORNIA GAMES
+NES-GM-USA,Capcom's Gold Medal Challenge '92,Make Software,Capcom,NTSC (N. America),1992-08,Sports,Everyone,8,13388110339,NES-TKROM,CAPCOM'S GOLD MEDAL CHALLENGE '92
+NES-6E-USA,Captain America and The Avengers,Data East,Data East,NTSC (N. America),1991-12,Action & Adventure,Everyone,2,13252002241,NES-TLROM,CAPTAIN AMERICA AND THE AVENGERS
+NES-5C-USA,Captain Planet and the Planeteers,Chris Gray Enterprises,Mindscape,NTSC (N. America),1991-09,Shooter,Everyone,1,50047110057,NES-TLROM,CAPTAIN PLANET AND THE PLANETEERS
+NES-YW-USA,Captain Skyhawk,Rare,Milton Bradley Company,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,32244040924,NES-AMROM,CAPTAIN SKYHAWK
+NES-KP-USA,Casino Kid,SOFEL,SOFEL,NTSC (N. America),1989-10,Party,Everyone,1,93295893013,NES-UNROM,CASINO KID
+NES-CK-USA,Casino Kid 2,SOFEL,SOFEL,NTSC (N. America),1993-04,Party,Everyone,1,93295921013,NES-UNROM,CASINO KID 2
+NES-4C-USA,Castelian,Bits Studios,Triffix,NTSC (N. America),1991-06,Action & Adventure,Everyone,1,7.26268E+11,NES-UNROM,CASTELIAN
+NES-C4-USA,Castle of Dragon,Athena,SETA,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,92826890026,NES-UNROM,CASTLE OF DRAGON
+NES-05-USA,Castlequest,ASCII,Nexoft,NTSC (N. America),1989-09,Action & Adventure,Everyone,1,93992010003,NES-CNROM,CASTLEQUEST
+NES-CV-USA,Castlevania,Konami,Konami,NTSC (N. America),1987-05,Action & Adventure,Teen,1,83717110040,NES-UNROM,CASTLEVANIA
+NES-QU-USA,Castlevania II: Simon's Quest,Konami,Konami,NTSC (N. America),1988-12,Action & Adventure,Everyone,1,7.81317E+11,NES-SLROM,CASTLEVANIA II: SIMON'S QUEST
+NES-VN-USA,Castlevania III: Dracula's Curse,Konami,Konami,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,83717110217,NES-ELROM,CASTLEVANIA III: DRACULA'S CURSE
+NES-UQ-USA,Caveman Games,Painting by Numbers,Data East,NTSC (N. America),1990-10,Action & Adventure,Everyone,2,13252002173,NES-SLROM,CAVEMAN GAMES
+NES-1F-USA,Championship Bowling,Athena,Romstar,NTSC (N. America),1989-12,Sports,Everyone,4,95474110102,NES-CNROM,CHAMPIONSHIP BOWLING
+NES-P3-USA,Championship Pool,Bitmasters,Mindscape,NTSC (N. America),1993-10,Sports,Everyone,8,50047113669,NES-UNROM,CHAMPIONSHIP POOL
+UNR-04-USA,Championship Rally,Human Entertainment,Unreleased,NTSC (N. America),N/A,Racing,N/A,N/A,N/A,N/A,CHAMPIONSHIP RALLY
+NES-EM-USA,Chessmaster,Software Toolworks,Hi Tech Expressions,NTSC (N. America),1990-01,Strategy,Everyone,2,87855000508,NES-SJROM,CHESSMASTER
+NES-RU-USA,Chip 'n Dale: Rescue Rangers,Capcom,Capcom,NTSC (N. America),1990-06,Platformer,Everyone,2,13388110209,NES-SLROM,CHIP 'N DALE: RESCUE RANGERS
+NES-DV-USA,Chip 'n Dale: Rescue Rangers 2,Make Software,Capcom,NTSC (N. America),1994-01,Platformer,Everyone,2,13388110346,NES-SKEPROM,CHIP 'N DALE: RESCUE RANGERS 2
+NES-CB-USA,Chubby Cherub,TOSE,Bandai,NTSC (N. America),1986-10,Action & Adventure,Everyone,2,7.8455E+11,NES-NROM-256,CHUBBY CHERUB
+NES-M7-USA,Circus Caper,Advance Communication Company,Toho,NTSC (N. America),1990-07,Action & Adventure,Everyone,1,91521100027,NES-SLROM,CIRCUS CAPER
+NES-CI-USA,City Connection,Jaleco,Jaleco,NTSC (N. America),1988-05,Action & Adventure,Everyone,2,32264900024,NES-CNROM,CITY CONNECTION
+NES-B6-USA,Clash at Demonhead,Vic Tokai,Vic Tokai,NTSC (N. America),1990-01,Action & Adventure,Everyone,1,34912784550,NES-SLROM,CLASH AT DEMONHEAD
+NES-C8-USA,Classic Concentration,Softie,GameTek,NTSC (N. America),1990-09,Strategy,Everyone,2,51871023582,NES-UNROM,CLASSIC CONCENTRATION
+NES-HG-USA,Cliffhanger,Spidersoft,Sony Imagesoft,NTSC (N. America),1993-11,Action & Adventure,Everyone,1,90451306035,NES-TLROM,CLIFFHANGER
+NES-CL-USA,Clu Clu Land,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Puzzle,Everyone,2,2.33182E+11,NES-RROM-128,CLU CLU LAND
+NES-CN-USA,Cobra Command,Data East,Data East,NTSC (N. America),1988-11,Shooter,Everyone,1,13252002104,NES-SLROM,COBRA COMMAND
+NES-CU-USA,Cobra Triangle,Rare,Nintendo,NTSC (N. America),1989-07,Action & Adventure,Everyone,1,45496630478,NES-ANROM,COBRA TRIANGLE
+NES-VP-USA,Code Name: Viper,"Arc System Works, Capcom",Capcom,NTSC (N. America),1990-03,Action & Adventure,Everyone,1,13388110216,NES-TLROM,CODE NAME: VIPER
+NES-CD-USA,Color a Dinosaur,FarSight Studios,Virgin Interactive,NTSC (N. America),1993-07,Puzzle,Everyone,1,52145800106,NES-UNROM,COLOR A DINOSAUR
+NES-CO-USA,Commando,Capcom,Capcom,NTSC (N. America),1986-11,Shooter,Everyone,2,13388110018,NES-UNROM,COMMANDO
+NES-YY-USA,Conan: The Mysteries of Time,Mindscape,Mindscape,NTSC (N. America),1991-02,Action & Adventure,Everyone,1,50047105008,NES-UNROM,CONAN: THE MYSTERIES OF TIME
+NES-C3-USA,Conflict,Vic Tokai,Vic Tokai,NTSC (N. America),1990-03,Shooter,Everyone,2,34912784635,NES-SKROM,CONFLICT
+NES-7M-USA,Conquest of the Crystal Palace,Quest,Asmik,NTSC (N. America),1990-11,Strategy,Everyone,1,96066900033,NES-TLROM,CONQUEST OF THE CRYSTAL PALACE
+NES-CT-USA,Contra,Konami,Konami,NTSC (N. America),1988-02,Shooter,Everyone,2,15812890244,NES-UNROM,CONTRA
+NES-CR-USA,Contra Force,Konami,Konami,NTSC (N. America),1992-09,Shooter,Everyone,2,83717110286,NES-TLROM,CONTRA FORCE
+NES-CX-USA,Cool World,Ocean Software,Ocean Software,NTSC (N. America),1993-06,Action & Adventure,Everyone,1,20295010065,NES-SLROM,COOL WORLD
+NES-9C-USA,Cowboy Kid,Pixel,Romstar,NTSC (N. America),1992-01,Action & Adventure,Everyone,2,95474180105,NES-TLROM,COWBOY KID
+UNR-05-USA,Crackout,Konami,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,KONAMI-UNROM,CRACKOUT
+NES-S8-USA,Crash 'n the Boys: Street Challenge,Techn?s Japan,Techn?s Japan,NTSC (N. America),1992-10,Sports,Everyone,4,45496640019,NES-TLROM,CRASH 'N THE BOYS: STREET CHALLENGE
+NES-G0-USA,Crystalis,SNK,SNK,NTSC (N. America),1990-07,RPG,Everyone,1,11170010430,NES-TKROM,CRYSTALIS
+NES-4Y-USA,Cyberball,Jaleco,Jaleco,NTSC (N. America),1991-03,Action & Adventure,Everyone,2,32264900215,NES-TLROM,CYBERBALL
+NES-YN-USA,Cybernoid: The Fighting Machine,Raffaele Cecco,Acclaim Entertainment,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,21481102069,NES-CNROM,CYBERNOID: THE FIGHTING MACHINE
+NES-AE-USA,Dance Aerobics,Human Entertainment,Nintendo,NTSC (N. America),1989-03,Party,Everyone,1,45496630430,NES-SBROM,DANCE AEROBICS
+NES-HT-USA,Danny Sullivan's Indy Heat,Rare,Tradewest,NTSC (N. America),1992-08,Racing,Everyone,4,45496640033,NES-AMROM,DANNY SULLIVAN'S INDY HEAT
+NES-N8-USA,Darkman,Painting by Numbers,Ocean Software,NTSC (N. America),1991-10,Action & Adventure,Everyone,1,20295010027,NES-SLROM,DARKMAN
+NES-XY-USA,Dash Galaxy in the Alien Asylum,Beam Software,Data East,NTSC (N. America),1990-02,Action & Adventure,Everyone,1,13252002166,NES-CNROM,DASH GALAXY IN THE ALIEN ASYLUM
+NES-6D-USA,Day Dreamin' Davey,Sculptured Software,HAL America,NTSC (N. America),1992-06,Action & Adventure,Everyone,1,40458333107,NES-SLROM,DAY DREAMIN' DAVEY
+NES-YH-USA,Days of Thunder,Beam Software,Mindscape,NTSC (N. America),1990-10,Racing,Everyone,2,50047104827,NES-TKEPROM,DAYS OF THUNDER
+NES-DE-USA,Deadly Towers,"Lenar, Tamtex",Brøderbund,NTSC (N. America),1987-09,Strategy,Everyone,1,47956120406,NES-BNROM,DEADLY TOWERS
+NES-SB-USA,Defender II,Vid Kidz,HAL America,NTSC (N. America),1988-07,Action & Adventure,Everyone,1,40458200034,NES-NROM-128,DEFENDER II
+NES-U3-USA,Defender of the Crown,Beam Software,Ultra Games,NTSC (N. America),1989-07,Strategy,Everyone,1,83717120049,NES-SGROM,DEFENDER OF THE CROWN
+NES-DY-USA,Defenders of Dynatron City,Lucasfilm Games,JVC,NTSC (N. America),1992-07,Strategy,Everyone,2,9119920117,NES-TLROM,DEFENDERS OF DYNATRON CITY
+NES-DG-USA,Déjà Vu,Kemco,Kemco*Seika,NTSC (N. America),1990-12,Action & Adventure,Everyone,1,44499000110,NES-TKROM,DÉJÀ VU
+NES-DO-USA,Demon Sword,TOSE,Taito,NTSC (N. America),1990-01,Action & Adventure,Everyone,1,20588010093,NES-SL1ROM,DEMON SWORD
+NES-DF-USA,Desert Commander,Kemco,Kemco*Seika,NTSC (N. America),1989-06,Action & Adventure,Everyone,2,8.33032E+11,NES-SKROM,DESERT COMMANDER
+NES-VW-USA,Destination Earthstar,Imagineering,Acclaim Entertainment,NTSC (N. America),1990-02,Action & Adventure,Everyone,1,21481102076,NES-CNROM,DESTINATION EARTHSTAR
+NES-YZ-USA,Destiny of an Emperor,Capcom,Capcom,NTSC (N. America),1990-09,Strategy,Everyone,1,13388110230,NES-SNROM,DESTINY OF AN EMPEROR
+UNR-06-USA,Devil World,Nintendo Research & Development 1,Unreleased,NTSC (N. America),N/A,Puzzle,N/A,N/A,N/A,N/A,DEVIL WORLD
+NES-3Y-USA,Dick Tracy,Realtime Associates,Bandai,NTSC (N. America),1990-08,Action & Adventure,Everyone,1,45557072704,NES-UNROM,DICK TRACY
+NES-57-USA,Die Hard,Pack-In-Video,Activision,NTSC (N. America),1992-01,Action & Adventure,Everyone,1,47875700116,NES-SLROM,DIE HARD
+NES-I2-USA,Dig Dug II: Trouble in Paradise,Namco,Bandai,NTSC (N. America),1989-12,Puzzle,Everyone,2,15500183689,NES-NROM-256,DIG DUG II: TROUBLE IN PARADISE
+NES-8D-USA,Digger T. Rock: Legend of the Lost City,Rare,Milton Bradley Company,NTSC (N. America),1990-12,Platformer,Everyone,1,32244041983,NES-AMROM,DIGGER T. ROCK: LEGEND OF THE LOST CITY
+NES-2Y-USA,Dirty Harry,Gray Matter Inc.,Mindscape,NTSC (N. America),1990-12,Action & Adventure,Everyone,1,50047104803,NES-TLROM,DIRTY HARRY
+UNR-07-USA,Disney's Aladdin,NMS Software,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,DISNEY'S ALADDIN
+UNR-08-USA,Disney's Beauty and the Beast,Probe Software,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,DISNEY'S BEAUTY AND THE BEAST
+NES-DZ-USA,Disney's Darkwing Duck,Capcom,Capcom,NTSC (N. America),1992-06,Action & Adventure,Everyone,1,52145800137,NES-SKEPROM,DISNEY'S DARKWING DUCK
+NES-JJ-USA,Disney's The Jungle Book,"Eurocom, Virgin Interactive",Virgin Interactive,NTSC (N. America),1994-08,Action & Adventure,Everyone,1,52145800137,NES-TLROM,DISNEY'S THE JUNGLE BOOK
+UNR-09-USA,Disney's The Lion King,Dark Technologies,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,DISNEY'S THE LION KING
+NES-3U-USA,Disney's The Little Mermaid,Capcom,Capcom,NTSC (N. America),1991-07,Action & Adventure,Everyone,1,13388110278,NES-UNROM,DISNEY'S THE LITTLE MERMAID
+NES-DK-USA,Donkey Kong,"Nintendo Research & Development 1, Nintendo Research & Development 2",Nintendo,NTSC (N. America),1986-06,Arcade,Everyone,2,6.30423E+11,NES-NROM-128,DONKEY KONG
+NES-DT-USA,Donkey Kong 3,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1986-06,Arcade,Everyone,2,41545304925,NES-NROM-128,DONKEY KONG 3
+NES-DJ-USA,Donkey Kong Classics,Nintendo,Nintendo,NTSC (N. America),1988-10,Arcade,Everyone,2,45496630423,NES-CNROM,DONKEY KONG CLASSICS
+NES-JR-USA,Donkey Kong Jr.,"Nintendo Research & Development 1, Nintendo Research & Development 2",Nintendo,NTSC (N. America),1986-06,Arcade,Everyone,2,7.31069E+11,NES-NROM-128,DONKEY KONG JR.
+NES-CA-USA,Donkey Kong Jr. Math,Nintendo Research & Development 2,Nintendo,NTSC (N. America),10/18/1985,Educational,Everyone,2,7.31069E+11,NES-NROM-128,DONKEY KONG JR. MATH
+NES-2D-USA,Double Dare,Rare,GameTek,NTSC (N. America),1990-04,Party,Everyone,2,43948590004,NES-AOROM,DOUBLE DARE
+NES-WD-USA,Double Dragon,Techn?s Japan,Tradewest,NTSC (N. America),1988-06,Action & Adventure,Everyone,2,31719198832,NES-SLROM,DOUBLE DRAGON
+NES-W2-USA,Double Dragon II: The Revenge,Techn?s Japan,Acclaim Entertainment,NTSC (N. America),1990-01,Action & Adventure,Everyone,2,40606538,NES-TL1ROM,DOUBLE DRAGON II: THE REVENGE
+NES-3W-USA,Double Dragon III: The Sacred Stones,Techn?s Japan,Acclaim Entertainment,NTSC (N. America),1991-02,Action & Adventure,Everyone,2,21481106050,NES-TLROM,DOUBLE DRAGON III: THE SACRED STONES
+NES-DW-USA,Double Dribble,Konami,Konami,NTSC (N. America),1987-09,Sports,Everyone,2,83717110057,NES-UNROM,DOUBLE DRIBBLE
+NES-DC-USA,Dr. Chaos,"Marionette, SRS",FCI,NTSC (N. America),1988-11,Action & Adventure,Everyone,1,22909100032,NES-UNROM,DR. CHAOS
+NES-JH-USA,Dr. Jekyll and Mr. Hyde,Advance Communication Company,Bandai,NTSC (N. America),1989-04,Platformer,Everyone,1,45557071004,NES-SFROM,DR. JEKYLL AND MR. HYDE
+NES-VU-USA,Dr. Mario,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1990-10,Puzzle,Everyone,2,45496630621,NES-SEROM,DR. MARIO
+NES-1D-USA,Dragon Fighter,Natsume,SOFEL,NTSC (N. America),1992-01,Fighting,Everyone,1,93295913018,NES-SLROM,DRAGON FIGHTER
+NES-DP-USA,Dragon Power,TOSE,Bandai,NTSC (N. America),1988-03,Action & Adventure,Everyone,1,45557873103,NES-GNROM,DRAGON POWER
+NES-P4-USA,Dragon Spirit: The New Legend,Now Production,Bandai,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,45557083007,NES-TLROM,DRAGON SPIRIT: THE NEW LEGEND
+NES-DQ-USA,Dragon Warrior,Chunsoft,Nintendo,NTSC (N. America),1989-08,RPG,Everyone,1,45496630379,NES-SAROM,DRAGON WARRIOR
+NES-D2-USA,Dragon Warrior II,Chunsoft,Enix,NTSC (N. America),1990-09,RPG,Everyone,1,7.19631E+11,NES-SNROM,DRAGON WARRIOR II
+NES-D3-USA,Dragon Warrior III,Chunsoft,Enix,NTSC (N. America),1992-03,RPG,Everyone,1,7.19631E+11,NES-SUROM,DRAGON WARRIOR III
+NES-D4-USA,Dragon Warrior IV,Chunsoft,Enix,NTSC (N. America),1992-10,RPG,Everyone,1,7.19631E+11,NES-SUROM,DRAGON WARRIOR IV
+NES-L9-USA,Dragon's Lair,MotiveTime,CSG Imagesoft,NTSC (N. America),1990-12,Action & Adventure,Everyone,1,90451104020,NES-UNROM,DRAGON'S LAIR
+UNR-10-USA,Dropzone,Eurocom,Unreleased,NTSC (N. America),N/A,Shooter,N/A,N/A,N/A,N/A,DROPZONE
+NES-DH-USA,Duck Hunt,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Light-Gun,Everyone,2,79522653056,NES-NROM-128,DUCK HUNT
+NES-UK-USA,DuckTales,Capcom,Capcom,NTSC (N. America),1989-09,Action & Adventure,Everyone,1,13388110162,NES-UNROM,DUCKTALES
+NES-DL-USA,DuckTales 2,Make Software,Capcom,NTSC (N. America),1993-06,Action & Adventure,Everyone,1,13388110360,NES-UNROM,DUCKTALES 2
+NES-DM-USA,Dungeon Magic: Sword of the Elements,Natsume,Taito,NTSC (N. America),1990-07,Action & Adventure,Everyone,1,20588010239,NES-SKROM,DUNGEON MAGIC: SWORD OF THE ELEMENTS
+NES-B7-USA,Dusty Diamond's All-Star Softball,TOSE,Brøderbund,NTSC (N. America),1990-07,Sports,Everyone,2,106295,NES-SLROM,DUSTY DIAMOND'S ALL-STAR SOFTBALL
+NES-WZ-USA,Dynowarz: Destruction of Spondylus,Advance Communication Company,Bandai,NTSC (N. America),1990-04,Platformer,Everyone,1,45557072209,NES-SLROM,DYNOWARZ: DESTRUCTION OF SPONDYLUS
+NES-EA-USA,Elevator Action,Micronics,Taito,NTSC (N. America),1987-08,Action & Adventure,Everyone,2,20588010017,NES-NROM-256,ELEVATOR ACTION
+NES-6R-USA,Eliminator Boat Duel,Sculptured Software,Electro Brain,NTSC (N. America),1991-11,Racing,Everyone,2,99451030643,NES-SLROM,ELIMINATOR BOAT DUEL
+UNR-11-USA,Elite,David BrabenIan Bell,Unreleased,NTSC (N. America),N/A,Shooter,N/A,N/A,N/A,N/A,ELITE
+NES-EB-USA,Excitebike,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Programmable,Everyone,1,7.52492E+11,NES-NROM-128,EXCITEBIKE
+NES-8F-USA,F-15 Strike Eagle,MicroProse,MicroProse,NTSC (N. America),1992-02,Action & Adventure,Everyone,1,19703150202,NES-TLROM,F-15 STRIKE EAGLE
+NES-FA-USA,F-117A Stealth Fighter,MicroProse,MicroProse,NTSC (N. America),1992-12,Action & Adventure,Everyone,1,19703157300,NES-TLROM,F-117A STEALTH FIGHTER
+NES-YF-USA,Family Feud,Beam Software,GameTek,NTSC (N. America),1991-05,Party,Everyone,2,43948560007,NES-SHROM,FAMILY FEUD
+NES-N6-USA,Faria: A World of Mystery and Danger,Game Arts,Nexoft,NTSC (N. America),1991-06,Action & Adventure,Everyone,1,93992010508,NES-SKROM,FARIA: A WORLD OF MYSTERY AND DANGER
+NES-FX-USA,Faxanadu,Hudson Soft,Nintendo,NTSC (N. America),1989-08,RPG,Everyone,1,45496630485,NES-SGROM,FAXANADU
+NES-FC-USA,Felix the Cat,Shimada Kikaku,Hudson Soft,NTSC (N. America),1992-10,Action & Adventure,Everyone,1,39854000171,NES-TSROM,FELIX THE CAT
+NES-FG-USA,Ferrari Grand Prix Challenge,System 3,Acclaim Entertainment,NTSC (N. America),1992-06,Racing,Everyone,1,21481107026,NES-SLROM,FERRARI GRAND PRIX CHALLENGE
+NES-EQ-USA,Fester's Quest,Sunsoft,Sunsoft,NTSC (N. America),1989-09,Action & Adventure,Everyone,1,20763110075,NES-SLROM,FESTER'S QUEST
+NES-FF-USA,Final Fantasy,Square,Nintendo,NTSC (N. America),1990-05,RPG,Teen,1,45496630607,NES-SNROM,FINAL FANTASY
+NES-K2-USA,Fire 'n Ice,Tecmo,Tecmo,NTSC (N. America),1993-03,Action & Adventure,Everyone,1,18946110172,NES-TLROM,FIRE 'N ICE
+NES-QF-USA,Fisher-Price: Firehouse Rescue,Imagineering,GameTek,NTSC (N. America),1992-03,Action & Adventure,Everyone,1,43948500065,NES-CNROM,FISHER-PRICE: FIREHOUSE RESCUE
+NES-F5-USA,Fisher-Price: I Can Remember,Beam Software,GameTek,NTSC (N. America),1990-03,Puzzle,Everyone,1,43948500034,NES-CNROM,FISHER-PRICE: I CAN REMEMBER
+NES-F7-USA,Fisher-Price: Perfect Fit,Beam Software,GameTek,NTSC (N. America),1990-03,Puzzle,Everyone,1,43948500027,NES-CNROM,FISHER-PRICE: PERFECT FIT
+NES-HO-USA,Fist of the North Star,Shouei System,Taxan,NTSC (N. America),1989-04,Action & Adventure,Everyone,1,40886536996,NES-UNROM,FIST OF THE NORTH STAR
+NES-4F-USA,Flight of the Intruder,Imagineering,Mindscape,NTSC (N. America),1991-05,Action & Adventure,Everyone,1,50047105015,NES-UNROM,FLIGHT OF THE INTRUDER
+NES-5Z-USA,The Flintstones: The Rescue of Dino & Hoppy,Taito/SOL,Taito,NTSC (N. America),1991-12,Action & Adventure,Everyone,1,20588010437,NES-TLROM,FLINTSTONES: THE RESCUE OF DINO & HOPPY
+NES-FT-USA,The Flintstones: Surprise at Dinosaur Peak,Taito/SOL,Taito,NTSC (N. America),1994-08,Action & Adventure,Everyone,1,20588010727,NES-TLROM,FLINTSTONES: SURPRISE AT DINOSAUR PEAK
+NES-HR-USA,Flying Dragon: The Secret Scroll,Culture Brain,Culture Brain,NTSC (N. America),1989-08,Action & Adventure,Everyone,1,47743890024,NES-UNROM,FLYING DRAGON: THE SECRET SCROLL
+NES-6F-USA,Flying Warriors,Culture Brain,Culture Brain,NTSC (N. America),1991-02,Action & Adventure,Everyone,1,47743900068,NES-SKEPROM,FLYING WARRIORS
+UNR-12-USA,Formula 1 Sensation,Konami,Unreleased,NTSC (N. America),N/A,Racing,N/A,N/A,N/A,N/A,FORMULA 1 SENSATION
+NES-W5-USA,Formula One: Built to Win,Winkysoft,SETA,NTSC (N. America),1990-11,Racing,Everyone,1,92826900015,NES-SKROM,FORMULA ONE: BUILT TO WIN
+NES-5P-USA,Fox's Peter Pan and the Pirates: The Revenge of Captain Hook,Equilibrium,THQ,NTSC (N. America),1991-01,Action & Adventure,Everyone,1,7.19575E+11,NES-SFROM,FOX'S PETER PAN AND THE PIRATES: THE REVENGE OF CAPTAIN HOOK
+NES-2F-USA,Frankenstein: The Monster Returns,TOSE,Bandai,NTSC (N. America),1991-07,Action & Adventure,Everyone,1,45557072506,NES-SLRROM,FRANKENSTEIN: THE MONSTER RETURNS
+NES-FE-USA,Freedom Force,Sunsoft,Sunsoft,NTSC (N. America),1988-04,Strategy,Everyone,1,91199004863,NES-SLROM,FREEDOM FORCE
+NES-F3-USA,Friday the 13th,Atlus,LJN,NTSC (N. America),1989-02,Action & Adventure,Everyone,1,23582051628,NES-CNROM,FRIDAY THE 13TH
+NES-FS-USA,Fun House,Realtime Associates,Hi Tech Expressions,NTSC (N. America),1991-01,Action & Adventure,Everyone,1,87855000317,NES-UNROM,FUN HOUSE
+NES-X4-USA,G.I. Joe: A Real American Hero,KID,Taxan,NTSC (N. America),1991-01,Action & Adventure,Everyone,1,1.50115E+11,NES-TLROM,G.I. JOE: A REAL AMERICAN HERO
+NES-6I-USA,G.I. Joe: The Atlantis Factor,KID,Capcom,NTSC (N. America),1992-03,Action & Adventure,Everyone,1,1.10322E+11,NES-TLROM,G.I. JOE: THE ATLANTIS FACTOR
+NES-AG-USA,Galaga: Demons of Death,Namco,Bandai,NTSC (N. America),1988-09,Shooter,Everyone,2,8.54112E+11,NES-NROM-256,GALAGA: DEMONS OF DEATH
+NES-Y5-USA,Galaxy 5000,Activision,Activision,NTSC (N. America),1991-02,Action & Adventure,Everyone,2,47875700154,NES-TLROM,GALAXY 5000
+NES-G2-USA,Gargoyle's Quest II: The Demon Darkness,Capcom,Capcom,NTSC (N. America),1992-10,Action & Adventure,Everyone,1,13388110292,NES-TLROM,GARGOYLE'S QUEST II: THE DEMON DARKNESS
+NES-GL-USA,Gauntlet,Tengen,Tengen,NTSC (N. America),1988,Arcade,Everyone,2,31763011118,NES-DRROM,GAUNTLET
+NES-2U-USA,Gauntlet II,Eastridge Technology,Mindscape,NTSC (N. America),1990-09,Arcade,Everyone,4,50047104780,NES-TSROM,GAUNTLET II
+NES-GE-USA,Gemfire,Koei,Koei,NTSC (N. America),1992-03,Strategy,Everyone,2,40198000369,NES-EKROM,GEMFIRE
+NES-GX-USA,Genghis Khan,Koei,Koei,NTSC (N. America),1990-01,Strategy,Everyone,4,40198000093,NES-SOROM,GENGHIS KHAN
+NES-KB-USA,George Foreman's KO Boxing,Beam Software,Acclaim Entertainment,NTSC (N. America),1992-12,Sports,Everyone,2,21481601050,ACCLAIM-MC-ACC,GEORGE FOREMAN'S KO BOXING
+NES-GB-USA,Ghostbusters,Bits Corporation,Activision,NTSC (N. America),1988-10,Action & Adventure,Everyone,1,47875701083,NES-CNROM,GHOSTBUSTERS
+NES-VV-USA,Ghostbusters II,Imagineering,Activision,NTSC (N. America),1990-04,Action & Adventure,Everyone,1,47875700062,NES-SLROM,GHOSTBUSTERS II
+NES-GG-USA,Ghosts 'n Goblins,Micronics,Capcom,NTSC (N. America),1986-11,Platformer,Everyone,2,13388110025,NES-UNROM,GHOSTS 'N GOBLINS
+NES-Y3-USA,Ghoul School,Imagineering,Electro Brain,NTSC (N. America),1992-03,Action & Adventure,Everyone,1,99451041755,NES-SLROM,GHOUL SCHOOL
+NES-JG-USA,Goal!,TOSE,Jaleco,NTSC (N. America),1989-10,Sports,Everyone,2,7.18103E+11,NES-SL3ROM,GOAL!
+NES-GT-USA,Goal! Two,TOSE,Jaleco,NTSC (N. America),1992-11,Sports,Everyone,2,32264900253,NES-TLSROM,GOAL! TWO
+NES-GZ-USA,Godzilla: Monster of Monsters,Compile,Toho,NTSC (N. America),1989-10,Action & Adventure,Everyone,1,5.68948E+11,NES-SLROM,GODZILLA: MONSTER OF MONSTERS
+NES-7Z-USA,Godzilla 2: War of the Monsters,???,Toho,NTSC (N. America),1992-02,Action & Adventure,Everyone,1,91521100058,NES-SLROM,GODZILLA 2: WAR OF THE MONSTERS
+NES-GF-USA,Golf,Nintendo,Nintendo,NTSC (N. America),10/18/1985,Sports,Everyone,2,45496630102,NES-NROM-128,GOLF
+NES-7G-USA,Golf Grand Slam,TOSE,Atlus,NTSC (N. America),1991-12,Sports,Everyone,4,7.30865E+11,NES-SLROM,GOLF GRAND SLAM
+NES-G3-USA,Golgo 13: Top Secret Episode,Vic Tokai,Vic Tokai,NTSC (N. America),1988-09,Action & Adventure,Everyone,1,34912784512,NES-SLROM,GOLGO 13: TOP SECRET EPISODE
+NES-GU-USA,The Goonies II,Konami,Konami,NTSC (N. America),1987-11,Action & Adventure,Everyone,1,83717110064,NES-UNROM,GOONIES II
+NES-GC-USA,Gotcha! The Sport!,Atlus,LJN,NTSC (N. America),1987-11,Light-Gun,Everyone,1,23582051536,NES-CNROM,GOTCHA! THE SPORT!
+NES-GR-USA,Gradius,Konami,Konami,NTSC (N. America),1986-12,Shooter,Everyone,2,83717110019,NES-CNROM,GRADIUS
+NES-GH-USA,The Great Waldo Search,Radiance,THQ,NTSC (N. America),1992-12,Puzzle,Everyone,2,7.19575E+11,NES-SLROM,GREAT WALDO SEARCH
+NES-GP-USA,Greg Norman's Golf Power,Gremlin Interactive,Virgin Interactive,NTSC (N. America),1992-07,Sports,Everyone,4,52145800052,NES-SNROM,GREG NORMAN'S GOLF POWER
+NES-2Z-USA,Gremlins 2: The New Batch,Sunsoft,Sunsoft,NTSC (N. America),1990-10,Action & Adventure,Everyone,1,20763110143,NES-TKEPROM,GREMLINS 2: THE NEW BATCH
+NES-GD-USA,The Guardian Legend,Compile,Brøderbund,NTSC (N. America),1989-04,Action & Adventure,Everyone,1,47956145409,NES-UNROM,GUARDIAN LEGEND
+NES-GW-USA,Guerrilla War,SNK,SNK,NTSC (N. America),1989-06,Action & Adventure,Everyone,2,1149199105,NES-SLROM,GUERRILLA WAR
+NES-GS-USA,Gumshoe,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1986-06,Light-Gun,Everyone,1,4.7311E+11,NES-GNROM,GUMSHOE
+NES-XG-USA,Gun-Nac,Compile,ASCII,NTSC (N. America),1991-09,Shooter,Everyone,1,93992010607,NES-TLROM,GUN-NAC
+NES-GK-USA,Gun Smoke,Capcom,Capcom,NTSC (N. America),1988-02,Shooter,Everyone,1,13388110094,NES-UNROM,GUN SMOKE
+NES-GY-USA,Gyromite,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Robot,Everyone,2,8.64879E+11,HVC-NROM-256,GYROMITE
+NES-YS-USA,Gyruss,Konami,Ultra Games,NTSC (N. America),1989-02,Shooter,Everyone,1,83717120056,NES-CNROM,GYRUSS
+UNR-13-USA,Hammerin' Harry,Tamtex,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,HAMMERIN' HARRY
+NES-QH-USA,Harlem Globetrotters,Softie,GameTek,NTSC (N. America),1991-03,Sports,Everyone,2,43948513003,NES-SLROM,HARLEM GLOBETROTTERS
+NES-JZ-USA,Hatris,Bullet-Proof Software,Bullet-Proof Software,NTSC (N. America),1992-04,Puzzle,Everyone,1,7.15504E+11,NES-SNROM,HATRIS
+NES-HV-USA,Heavy Barrel,Data East,Data East,NTSC (N. America),1990-03,Action & Adventure,Everyone,2,13252002142,NES-TLROM,HEAVY BARREL
+NES-WX-USA,Heavy Shreddin',Imagineering,Parker Brothers,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,73000046019,NES-SLROM,HEAVY SHREDDIN'
+NES-8H-USA,High Speed,Rare,Tradewest,NTSC (N. America),1991-07,Arcade,Everyone,4,31719199136,NES-TQROM,HIGH SPEED
+NES-HA-USA,Hogan's Alley,"Nintendo Research & Development 1, Intelligent Systems",Nintendo,NTSC (N. America),10/18/1985,Light-Gun,Everyone,1,45496630034,NES-NROM-128,HOGAN'S ALLEY
+NES-HL-USA,Hollywood Squares,Rare,GameTek,NTSC (N. America),1989-09,Party,Everyone,2,43948530000,NES-UNROM,HOLLYWOOD SQUARES
+NES-6N-USA,Home Alone,Bethesda Softworks,THQ,NTSC (N. America),1991-10,Action & Adventure,Everyone,1,7.19575E+11,NES-TSROM,HOME ALONE
+NES-HM-USA,Home Alone 2: Lost in New York,Imagineering,THQ,NTSC (N. America),1992-10,Action & Adventure,Everyone,1,7.19575E+11,NES-TLROM,HOME ALONE 2: LOST IN NEW YORK
+NES-7Q-USA,Hook,Painting by Numbers,Sony Imagesoft,NTSC (N. America),1992-04,Action & Adventure,Everyone,1,90451106017,NES-SLROM,HOOK
+NES-2B-USA,Hoops,Aicom,Jaleco,NTSC (N. America),1989-06,Sports,Everyone,2,32264900055,NES-SL1ROM,HOOPS
+NES-Y4-USA,Hudson Hawk,Special FX,Sony Imagesoft,NTSC (N. America),1992-02,Action & Adventure,Everyone,1,90451104037,NES-SLROM,HUDSON HAWK
+NES-7H-USA,The Hunt for Red October,Beam Software,Hi Tech Expressions,NTSC (N. America),1991-01,Shooter,Everyone,1,87855000515,NES-TLROM,HUNT FOR RED OCTOBER
+NES-HS-USA,Hydlide,T&E Soft,FCI,NTSC (N. America),1989-06,Strategy,Everyone,1,22909100070,NES-NROM-256,HYDLIDE
+NES-IC-USA,Ice Climber,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Arcade,Everyone,2,45496630126,NES-NROM-128,ICE CLIMBER
+NES-HY-USA,Ice Hockey,Nintendo Research & Development 2,Nintendo,NTSC (N. America),1988-03,Sports,Everyone,2,74720137155,NES-NROM-256,ICE HOCKEY
+NES-IW-USA,Ikari Warriors,Micronics,SNK,NTSC (N. America),1987-05,Shooter,Everyone,2,91199006492,NES-UNROM,IKARI WARRIORS
+NES-VR-USA,Ikari Warriors II: Victory Road,Micronics,SNK,NTSC (N. America),1988-04,Shooter,Everyone,2,2.55007E+11,NES-SGROM,IKARI WARRIORS II: VICTORY ROAD
+NES-3D-USA,Ikari Warriors III: The Rescue,SNK,SNK,NTSC (N. America),1991-02,Shooter,Everyone,2,18484255007,NES-SLROM,IKARI WARRIORS III: THE RESCUE
+NES-F9-USA,Image Fight,Lenar,Irem,NTSC (N. America),1990-07,Fighting,Everyone,2,7.15664E+11,NES-TSROM,IMAGE FIGHT
+NES-E8-USA,The Immortal,Sandcastle,Electronic Arts,NTSC (N. America),1990-11,RPG,Everyone,1,14633070095,NES-TLROM,IMMORTAL
+NES-CQ-USA,The Incredible Crash Dummies,Software Creations,LJN,NTSC (N. America),1994-08,Action & Adventure,Everyone,2,23582051871,ACCLAIM-MC-ACC,INCREDIBLE CRASH DUMMIES
+NES-J5-USA,Indiana Jones and the Last Crusade,Software Creations,Taito,NTSC (N. America),1991-03,Action & Adventure,Everyone,1,1.01508E+11,NES-SGROM,INDIANA JONES AND THE LAST CRUSADE
+NES-J5-USA,Indiana Jones and the Last Crusade,NMS Software,Ubisoft,NTSC (N. America),1991-03,Action & Adventure,Everyone,1,1.01508E+11,NES-SGROM,INDIANA JONES AND THE LAST CRUSADE
+NES-IJ-USA,Indiana Jones and the Temple of Doom,Tengen,Mindscape,NTSC (N. America),1988-12,Action & Adventure,Everyone,1,31763014126,NES-TFROM,INDIANA JONES AND THE TEMPLE OF DOOM
+NES-IF-USA,Infiltrator,Chris Gray Enterprises,Mindscape,NTSC (N. America),1990-01,Action & Adventure,Everyone,1,50047103103,NES-TLROM,INFILTRATOR
+UNR-14-USA,International Cricket,Beam Software,Unreleased,NTSC (N. America),N/A,Sports,N/A,N/A,N/A,N/A,INTERNATIONAL CRICKET
+NES-IT-USA,Iron Tank: The Invasion of Normandy,SNK,SNK,NTSC (N. America),1988-07,Action & Adventure,Everyone,1,18484165009,NES-SLROM,IRON TANK: THE INVASION OF NORMANDY
+NES-IR-USA,Ironsword: Wizards & Warriors II,Zippo Games,Acclaim Entertainment,NTSC (N. America),1989-12,Platformer,Everyone,1,21481106012,NES-AOROM,IRONSWORD: WIZARDS & WARRIORS II
+NES-W6-USA,Isolated Warrior,KID,NTVIC,NTSC (N. America),1991-02,Shooter,Everyone,1,97933100020,NES-TLROM,ISOLATED WARRIOR
+NES-WU-USA,Ivan 'Ironman' Stewart's Super Off Road,Rare,Tradewest,NTSC (N. America),1990-04,Racing,Everyone,4,3171919892,NES-AMROM,IVAN 'IRONMAN' STEWART'S SUPER OFF ROAD
+NES-JC-USA,Jack Nicklaus' Greatest 18 Holes of Major Championship Golf,Sculptured Software,Konami,NTSC (N. America),1990-03,Sports,Everyone,4,83717110170,KONAMI-UNROM,JACK NICKLAUS' GREATEST 18 HOLES OF MAJOR CHAMPIONSHIP GOLF
+NES-JK-USA,Jackal,Konami,Konami,NTSC (N. America),1988-09,Action & Adventure,Everyone,2,83717110101,NES-UNROM,JACKAL
+NES-V5-USA,Jackie Chan's Action Kung Fu,Now Production,Hudson Soft,NTSC (N. America),1990-12,Action & Adventure,Everyone,1,39854000119,NES-TLROM,JACKIE CHAN'S ACTION KUNG FU
+NES-JB-USA,James Bond Jr.,Eurocom,THQ,NTSC (N. America),1992-11,Action & Adventure,Everyone,1,7.19575E+11,NES-TLROM,JAMES BOND JR.
+NES-JA-USA,Jaws,Escape/Westone,LJN,NTSC (N. America),1987-11,Shooter,Everyone,1,23582051567,NES-CNROM,JAWS
+NES-JP-USA,Jeopardy!,Rare,GameTek,NTSC (N. America),1988-09,Party,Everyone,3,43948520001,NES-AOROM,JEOPARDY!
+NES-J3-USA,Jeopardy! 25th Anniversary Edition,Rare,GameTek,NTSC (N. America),1990-06,Party,Everyone,3,43948520025,NES-ANROM,JEOPARDY! 25TH ANNIVERSARY EDITION
+NES-J2-USA,Jeopardy! Junior Edition,Rare,GameTek,NTSC (N. America),1989-10,Party,Everyone,3,43948520018,NES-ANROM,JEOPARDY! JUNIOR EDITION
+NES-JN-USA,The Jetsons: Cogswell's Caper!,Natsume,Taito,NTSC (N. America),1992-12,Action & Adventure,Everyone,1,20588010536,NES-TLROM,JETSONS: COGSWELL'S CAPER!
+NES-JT-USA,Jimmy Connors Tennis,NMS Software,Ubisoft,NTSC (N. America),1993-11,Sports,Everyone,2,8888060888,NES-UNROM,JIMMY CONNORS TENNIS
+NES-CJ-USA,Joe & Mac,Elite Systems,Data East,NTSC (N. America),1992-12,Action & Adventure,Everyone,2,13252002272,NES-TLROM,JOE & MAC
+NES-JQ-USA,John Elway's Quarterback,Rare,Tradewest,NTSC (N. America),1989-03,Sports,Everyone,2,31719198849,NES-CNROM,JOHN ELWAY'S QUARTERBACK
+NES-OE-USA,Jordan vs. Bird: One on One,Rare,Milton Bradley Company,NTSC (N. America),1989-08,Sports,Everyone,2,32244049804,NES-UNROM,JORDAN VS. BIRD: ONE ON ONE
+NES-4S-USA,Journey to Silius,Sunsoft,Sunsoft,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,20763110136,NES-SLROM,JOURNEY TO SILIUS
+NES-JU-USA,Joust,HAL Laboratory,HAL America,NTSC (N. America),1988-10,Arcade,Everyone,2,40458200010,NES-CNROM,JOUST
+NES-J9-USA,Jurassic Park,Ocean Software,Ocean Software,NTSC (N. America),1993-06,Action & Adventure,Everyone,1,20295010096,NES-TSROM,JURASSIC PARK
+NES-3K-USA,Kabuki: Quantum Fighter,Human Entertainment,HAL America,NTSC (N. America),1991-01,Action & Adventure,Everyone,1,40458233117,NES-TLROM,KABUKI: QUANTUM FIGHTER
+NES-KC-USA,Karate Champ,"Data East, Sakata SAS",Data East,NTSC (N. America),1986-11,Fighting,Everyone,2,13252002029,NES-CNROM,KARATE CHAMP
+NES-KK-USA,The Karate Kid,Atlus,LJN,NTSC (N. America),1987-11,Action & Adventure,Everyone,2,91199005150,NES-CNROM,KARATE KID
+NES-KV-USA,Karnov,"Data East, Sakata SAS",Data East,NTSC (N. America),1988-01,Platformer,Everyone,1,4.7311E+11,NES-DE1ROM,KARNOV
+NES-8K-USA,Kick Master,KID,Taito,NTSC (N. America),1992-01,Action & Adventure,Everyone,1,20588010383,NES-TLROM,KICK MASTER
+UNR-15-USA,Kick Off,Enigma Variations,Unreleased,NTSC (N. America),N/A,Sports,N/A,N/A,N/A,N/A,KICK OFF
+NES-QC-USA,Kickle Cubicle,Irem,Irem,NTSC (N. America),1990-09,Puzzle,Everyone,1,7.15664E+11,NES-TLROM,KICKLE CUBICLE
+NES-KI-USA,Kid Icarus,"Nintendo Research & Development 1, TOSE",Nintendo,NTSC (N. America),1987-07,Action & Adventure,Everyone,1,45496630355,NES-SNROM,KID ICARUS
+NES-NM-USA,Kid Klown in Night Mayor World,Kemco,Kemco,NTSC (N. America),1993-04,Action & Adventure,Everyone,1,7.41648E+11,NES-TSROM,KID KLOWN IN NIGHT MAYOR WORLD
+NES-KX-USA,Kid Kool,Vic Tokai,Vic Tokai,NTSC (N. America),1990-03,Action & Adventure,Everyone,1,34912784628,NES-UNROM,KID KOOL
+NES-KD-USA,Kid Niki: Radical Ninja,TOSE,Data East,NTSC (N. America),1987-11,Action & Adventure,Everyone,2,13252002067,NES-SGROM,KID NIKI: RADICAL NINJA
+NES-KG-USA,King's Knight,"Square, Workss",Square,NTSC (N. America),1989-09,Strategy,Everyone,1,94689191012,NES-CNROM,KING'S KNIGHT
+NES-8Q-USA,King's Quest V: Absence Makes the Heart Go Yonder!,Novotrade International,Konami,NTSC (N. America),1992-06,Action & Adventure,Everyone,1,83717110262,NES-TSROM,KING'S QUEST V: ABSENCE MAKES THE HEART GO YONDER!
+NES-VH-USA,Kings of the Beach,Konami,Ultra Games,NTSC (N. America),1990-01,Sports,Everyone,4,83717120070,NES-CNROM,KINGS OF THE BEACH
+NES-KR-USA,Kirby's Adventure,HAL Laboratory,Nintendo,NTSC (N. America),1993-05,Platformer,Everyone,1,45496630720,NES-TKEPROM,KIRBY'S ADVENTURE
+NES-2K-USA,Kiwi Kraze,Software Creations,Taito,NTSC (N. America),1991-03,Platformer,Everyone,2,20588010208,NES-TLROM,KIWI KRAZE
+NES-4K-USA,KlashBall,The Bitmap Brothers,SOFEL,NTSC (N. America),1991-07,Action & Adventure,Everyone,2,93295911014,NES-UNROM,KLASHBALL
+NES-NR-USA,Knight Rider,Pack-In-Video,Acclaim Entertainment,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,3.61622E+11,NES-SC1ROM,KNIGHT RIDER
+UNR-16-USA,Konami Hyper Soccer,Konami,Unreleased,NTSC (N. America),N/A,Sports,N/A,N/A,N/A,N/A,KONAMI HYPER SOCCER
+NES-VF-USA,The Krion Conquest,Vic Tokai,Vic Tokai,NTSC (N. America),1991-01,Action & Adventure,Everyone,1,34912784666,NES-TLROM,KRION CONQUEST
+NES-KF-USA,Krusty's Fun House,Audiogenic,Acclaim Entertainment,NTSC (N. America),1992-09,Puzzle,Everyone,1,21481107019,NES-TLROM,KRUSTY'S FUN HOUSE
+NES-SX-USA,Kung Fu,Nintendo,Nintendo,NTSC (N. America),10/18/1985,Action & Adventure,Everyone,2,45496630119,NES-NROM-256,KUNG FU
+NES-CE-USA,Kung-Fu Heroes,Culture Brain,Culture Brain,NTSC (N. America),1989-03,Action & Adventure,Everyone,2,47743890017,NES-CNROM,KUNG-FU HEROES
+NES-8G-USA,Laser Invasion,Konami,Konami,NTSC (N. America),1991-06,Shooter,Everyone,1,83717110200,NES-ELROM,LASER INVASION
+NES-LA-USA,Last Action Hero,Teeny Weeny Games,Sony Imagesoft,NTSC (N. America),1993-10,Action & Adventure,Everyone,1,90451106024,NES-TLROM,LAST ACTION HERO
+NES-J7-USA,The Last Ninja,Beam Software,Jaleco,NTSC (N. America),1991-02,Action & Adventure,Everyone,1,32264900154,NES-TLROM,LAST NINJA
+NES-LM-USA,The Last Starfighter,Andrew Braybrook,Mindscape,NTSC (N. America),1990-06,Action & Adventure,Everyone,2,50047104490,NES-CNROM,LAST STARFIGHTER
+NES-FI-USA,Lee Trevino's Fighting Golf,SNK,SNK,NTSC (N. America),1988-09,Sports,Everyone,4,18484175008,NES-SLROM,LEE TREVINO'S FIGHTING GOLF
+NES-LC-USA,Legacy of the Wizard,Nihon Falcom,Brøderbund,NTSC (N. America),1989-04,Action & Adventure,Everyone,1,47956144402,NES-TFROM,LEGACY OF THE WIZARD
+NES-KA-USA,The Legend of Kage,Taito,Taito,NTSC (N. America),1987-08,Action & Adventure,Everyone,2,20588010024,NES-CNROM,LEGEND OF KAGE
+UNR-17-USA,The Legend of Prince Valiant,Ocean Software,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,LEGEND OF PRINCE VALIANT
+NES-LL-USA,Legend of the Ghost Lion,Kemco,Kemco,NTSC (N. America),1992-10,RPG,Everyone,1,7.41648E+11,NES-SKROM,LEGEND OF THE GHOST LION
+NES-ZL-USA,The Legend of Zelda,Nintendo Research & Development 4,Nintendo,NTSC (N. America),1987-07,Action & Adventure,Everyone,1,45496630324,NES-SNROM,LEGEND OF ZELDA
+NES-LE-USA,Legendary Wings,Capcom,Capcom,NTSC (N. America),1988-07,Shooter,Everyone,2,13388110063,NES-UNROM,LEGENDARY WINGS
+NES-8L-USA,Legends of the Diamond,TOSE,Bandai,NTSC (N. America),1992-01,Sports,Everyone,2,45557072803,NES-TLROM,LEGENDS OF THE DIAMOND
+NES-LG-USA,Lemmings,Ocean Software,Sunsoft,NTSC (N. America),1992-11,Programmable,Everyone,1,20763110266,NES-SLROM,LEMMINGS
+NES-QV-USA,L'Empereur,Koei,Koei,NTSC (N. America),1991-11,Strategy,Everyone,1,40198000215,NES-ETROM,L'EMPEREUR
+UNR-18-USA,Les Chevaliers du Zodiaque: La Légende d'or,TOSE,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,LES CHEVALIERS DU ZODIAQUE: LA LÉGENDE D'OR
+NES-LY-USA,Lethal Weapon,Eurocom,Ocean Software,NTSC (N. America),1993-04,Action & Adventure,Everyone,1,20295010058,NES-SLROM,LETHAL WEAPON
+NES-LF-USA,Life Force,Konami,Konami,NTSC (N. America),1988-08,Shooter,Everyone,2,83717110118,KONAMI-UNROM,LIFE FORCE
+NES-KQ-USA,Little League Baseball: Championship Series,SNK,SNK,NTSC (N. America),1990-07,Sports,Everyone,2,18484235009,NES-SLROM,LITTLE LEAGUE BASEBALL: CHAMPIONSHIP SERIES
+NES-LN-USA,Little Nemo: The Dream Master,Capcom,Capcom,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,13388110223,NES-TLROM,LITTLE NEMO: THE DREAM MASTER
+NES-C2-USA,Little Ninja Brothers,Culture Brain,Culture Brain,NTSC (N. America),1990-12,Action & Adventure,Everyone,2,47743900051,NES-TLROM,LITTLE NINJA BROTHERS
+NES-LT-USA,Little Samson,Takeru,Taito,NTSC (N. America),1992-11,Action & Adventure,Everyone,1,20588010611,NES-TLROM,LITTLE SAMSON
+NES-LO-USA,Lode Runner,Hudson Soft,Brøderbund,NTSC (N. America),1987-09,Platformer,Everyone,2,4.7311E+11,NES-NROM-128,LODE RUNNER
+NES-6L-USA,The Lone Ranger,Konami,Konami,NTSC (N. America),1991-08,Action & Adventure,Everyone,1,83717110224,NES-TLROM,LONE RANGER
+NES-L8-USA,Loopz,"Audiogenic, Milestone srl",Mindscape,NTSC (N. America),1990-10,Puzzle,Everyone,2,50047104797,NES-UNROM,LOOPZ
+NES-L7-USA,Low G Man: The Low Gravity Man,KID,Taxan,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,45496430115,NES-TLROM,LOW G MAN: THE LOW GRAVITY MAN
+NES-LP-USA,Lunar Pool,Compile,FCI,NTSC (N. America),1987-10,Sports,Everyone,2,22909100018,NES-NROM-128,LUNAR POOL
+NES-4Q-USA,M.C. Kids,Virgin Interactive,Virgin Interactive,NTSC (N. America),1992-02,Action & Adventure,Everyone,2,52145800076,NES-TSROM,M.C. KIDS
+NES-L6-USA,M.U.L.E.,Eastridge Technology,Mindscape,NTSC (N. America),1990-09,Action & Adventure,Everyone,4,50047104810,NES-SNROM,M.U.L.E.
+NES-MS-USA,M.U.S.C.L.E.,TOSE,Bandai,NTSC (N. America),1986-10,Action & Adventure,Everyone,2,45557872007,NES-NROM-128,M.U.S.C.L.E.
+NES-MR-USA,Mach Rider,Nintendo,Nintendo,NTSC (N. America),10/18/1985,Programmable,Everyone,1,50428085455,NES-NROM-256,MACH RIDER
+NES-3M-USA,Mad Max,Mindscape,Mindscape,NTSC (N. America),1990-07,Action & Adventure,Everyone,1,50047104728,NES-TLROM,MAD MAX
+NES-M4-USA,The Mafat Conspiracy: Golgo II,Aicom,Vic Tokai,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,34912784642,NES-TLROM,MAFAT CONSPIRACY: GOLGO II
+NES-4R-USA,Magic Darts,SETA,Romstar,NTSC (N. America),1991-09,Sports,Everyone,4,95474190104,NES-SLRROM,MAGIC DARTS
+NES-JF-USA,Magic Johnson's Fast Break,Software Creations,Tradewest,NTSC (N. America),1990-03,Sports,Everyone,4,31719198917,NES-SCROM,MAGIC JOHNSON'S FAST BREAK
+NES-AS-USA,The Magic of Scheherazade,Culture Brain,Culture Brain,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,47743890048,NES-SLROM,MAGIC OF SCHEHERAZADE
+NES-XD-USA,Magician,Eurocom,Taxan,NTSC (N. America),1991-02,Action & Adventure,Everyone,1,40886151908,NES-TKEPROM,MAGICIAN
+NES-MM-USA,MagMax,Nihon Bussan,FCI,NTSC (N. America),1988-10,Action & Adventure,Everyone,2,22909100056,NES-NROM-256,MAGMAX
+UNR-19-USA,Mah Jong,Nintendo,Unreleased,NTSC (N. America),N/A,Puzzle,N/A,N/A,N/A,N/A,MAH JONG
+NES-BS-USA,Major League Baseball,Atlus,LJN,NTSC (N. America),1988-04,Sports,Everyone,2,23582051543,NES-CNROM,MAJOR LEAGUE BASEBALL
+NES-JM-USA,Maniac Mansion,Lucasfilm Games,Jaleco,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,32264900123,NES-SNROM,MANIAC MANSION
+NES-YD-USA,Mappy-Land,TOSE,Taxan,NTSC (N. America),1989-04,Action & Adventure,Everyone,1,6.30539E+11,NES-TFROM,MAPPY-LAND
+NES-MV-USA,Marble Madness,Rare,Milton Bradley Company,NTSC (N. America),1989-03,Puzzle,Everyone,2,32244048807,NES-ANROM,MARBLE MADNESS
+NES-MA-USA,Mario Bros.,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1986-06,Platformer,Everyone,2,80813200262,NES-NROM-128,MARIO BROS.
+UNR-20-USA,Mario Bros. (Classic Series),Nintendo Research & Development 1,Unreleased,NTSC (N. America),N/A,Arcade,N/A,N/A,N/A,N/A,MARIO BROS. (CLASSIC SERIES)
+NES-MQ-USA,Mario Is Missing!,Radical Entertainment,Software Toolworks,NTSC (N. America),1993-07,Action & Adventure,Everyone,1,50047109532,NES-TLROM,MARIO IS MISSING!
+NES-TM-USA,Mario's Time Machine,Radical Entertainment,Software Toolworks,NTSC (N. America),1994-06,Action & Adventure,Everyone,1,50047113874,NES-TLROM,MARIO'S TIME MACHINE
+NES-A6-USA,Mechanized Attack,SNK,SNK,NTSC (N. America),1990-06,Fighting,Everyone,1,6.12512E+11,NES-SCROM,MECHANIZED ATTACK
+NES-MN-USA,Mega Man,Capcom,Capcom,NTSC (N. America),1987-12,Platformer,Everyone,1,13388110070,NES-UNROM,MEGA MAN
+NES-XR-USA,Mega Man 2,Capcom,Capcom,NTSC (N. America),1989-06,Platformer,Everyone,1,13388110117,NES-SGROM,MEGA MAN 2
+NES-XU-USA,Mega Man 3,Capcom,Capcom,NTSC (N. America),1990-11,Platformer,Everyone,1,13388110254,NES-TKEPROM,MEGA MAN 3
+NES-4V-USA,Mega Man 4,Capcom,Capcom,NTSC (N. America),1992-01,Platformer,Everyone,1,13388110308,NES-TGROM,MEGA MAN 4
+NES-MZ-USA,Mega Man 5,Capcom,Capcom,NTSC (N. America),1992-12,Platformer,Everyone,1,13388110353,NES-TLROM,MEGA MAN 5
+NES-G6-USA,Mega Man 6,Capcom,Nintendo,NTSC (N. America),1994-03,Platformer,Everyone,1,45496630768,NES-TGROM,MEGA MAN 6
+NES-6H-USA,Mendel Palace,Game Freak,Hudson Soft,NTSC (N. America),1990-10,Action & Adventure,Everyone,2,39854000096,NES-TLROM,MENDEL PALACE
+NES-ME-USA,Metal Gear,Konami,Ultra Games,NTSC (N. America),1988-06,Action & Adventure,Everyone,1,83717120018,KONAMI-UNROM,METAL GEAR
+NES-J8-USA,Metal Mech: Man & Machine,Sculptured Software,Jaleco,NTSC (N. America),1991-03,Action & Adventure,Everyone,1,32264900178,NES-SLROM,METAL MECH: MAN & MACHINE
+NES-4M-USA,Metal Storm,Tamtex,Irem,NTSC (N. America),1991-02,Action & Adventure,Everyone,1,7.15664E+11,NES-TLROM,METAL STORM
+NES-MT-USA,Metroid,"Nintendo Research & Development 1, Intelligent Systems",Nintendo,NTSC (N. America),1987-08,Action & Adventure,Everyone,1,45496630348,NES-SNROM,METROID
+NES-W4-USA,Michael Andretti's World GP,Human Entertainment,American Sammy,NTSC (N. America),1990-06,Racing,Everyone,1,39471885076,NES-TLROM,MICHAEL ANDRETTI'S WORLD GP
+NES-MI-USA,Mickey Mousecapade,Hudson Soft,Capcom,NTSC (N. America),1988-10,Action & Adventure,Everyone,1,36881778141,NES-CNROM,MICKEY MOUSECAPADE
+NES-NL-USA,Mickey's Adventures in Numberland,Beam Software,Hi Tech Expressions,NTSC (N. America),1994-03,Educational,Everyone,1,87855000218,NES-TLROM,MICKEY'S ADVENTURES IN NUMBERLAND
+NES-M8-USA,Mickey's Safari in Letterland,Beam Software,Hi Tech Expressions,NTSC (N. America),1993-03,Educational,Everyone,1,87855000201,ACCLAIM-MC-ACC,MICKEY'S SAFARI IN LETTERLAND
+NES-MP-USA,Might and Magic Book One: The Secret of the Inner Sanctum,New World Computing,American Sammy,NTSC (N. America),1992-08,Action & Adventure,Everyone,1,39471905125,NES-TKROM,MIGHT AND MAGIC BOOK ONE: THE SECRET OF THE INNER SANCTUM
+NES-BJ-USA,Mighty Bomb Jack,Tecmo,Tecmo,NTSC (N. America),1987-07,Action & Adventure,Everyone,1,18946110028,NES-CNROM,MIGHTY BOMB JACK
+NES-MF-USA,Mighty Final Fight,Capcom,Capcom,NTSC (N. America),1993-07,Action & Adventure,Everyone,1,13388110377,NES-TLROM,MIGHTY FINAL FIGHT
+NES-PT-USA,Mike Tyson's Punch-Out!!,Nintendo Research & Development 3,Nintendo,NTSC (N. America),1987-10,Sports,Everyone,1,45496630287,NES-PEEOROM,MIKE TYSON'S PUNCH-OUT!!
+NES-ML-USA,Millipede,HAL Laboratory,HAL America,NTSC (N. America),1988-10,Arcade,Everyone,2,7.10353E+11,NES-NROM-128,MILLIPEDE
+NES-KM-USA,Milon's Secret Castle,Hudson Soft,Hudson Soft,NTSC (N. America),1988-09,Puzzle,Everyone,1,39854000027,NES-CNROM,MILON'S SECRET CASTLE
+NES-9M-USA,The Miracle Piano Teaching System,Software Toolworks,Software Toolworks,NTSC (N. America),1990,Educational,Everyone,1,24294001147,NES-SJROM,MIRACLE PIANO TEACHING SYSTEM
+NES-U4-USA,Mission: Impossible,Konami,Ultra Games,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,83717120094,KONAMI-TLROM,MISSION: IMPOSSIBLE
+NES-6B-USA,Monopoly,Sculptured Software,Parker Brothers,NTSC (N. America),1991-05,Party,Everyone,8,73000040284,NES-SLRROM,MONOPOLY
+NES-1Y-USA,Monster in My Pocket,Konami,Konami,NTSC (N. America),1992-01,Action & Adventure,Everyone,2,83717110248,NES-TLROM,MONSTER IN MY POCKET
+NES-P1-USA,Monster Party,Human Entertainment,Bandai,NTSC (N. America),1989-06,Action & Adventure,Everyone,1,45557074005,NES-SL1ROM,MONSTER PARTY
+NES-LU-USA,Monster Truck Rally,Realtime Associates,INTV,NTSC (N. America),1991-09,Racing,Everyone,4,18571091037,NES-CNROM,MONSTER TRUCK RALLY
+NES-5M-USA,Motor City Patrol,Source Research & Development,Matchbox,NTSC (N. America),1992-01,Racing,Everyone,1,35995727045,NES-SLROM,MOTOR CITY PATROL
+UNR-21-USA,Mr. Gimmick,"Sunsoft
+Toshiba Vestron Video (FC)",Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,MR. GIMMICK
+NES-M9-USA,Ms. Pac-Man,Now Production,Namco,NTSC (N. America),1993-11,Arcade,Everyone,2,7.22674E+11,NES-NROM-256,MS. PAC-MAN
+NES-UA-USA,Muppet Adventure: Chaos at the Carnival,Mind's Eye,Hi Tech Expressions,NTSC (N. America),1990-11,Action & Adventure,Everyone,1,87855000409,NES-SGROM,MUPPET ADVENTURE: CHAOS AT THE CARNIVAL
+NES-6M-USA,The Mutant Virus: Crisis in a Computer World,Rocket Science Games,American Softworks,NTSC (N. America),1992-04,Action & Adventure,Everyone,1,7.29627E+11,NES-SLROM,MUTANT VIRUS: CRISIS IN A COMPUTER WORLD
+NES-HQ-USA,Mystery Quest,Carry Lab,Taxan,NTSC (N. America),1989-04,RPG,Everyone,1,40886697833,NES-CNROM,MYSTERY QUEST
+NES-NQ-USA,NARC,Rare,Acclaim Entertainment,NTSC (N. America),1990-08,Arcade,Everyone,2,41240134650,NES-AMROM,NARC
+NES-UG-USA,NES Open Tournament Golf,Nintendo Research & Development 2,Nintendo,NTSC (N. America),1991-09,Sports,Everyone,2,45496630669,NES-SNROM,NES OPEN TOURNAMENT GOLF
+NES-NB-USA,NES Play Action Football,TOSE,Nintendo,NTSC (N. America),1990-09,Sports,Everyone,4,45496630522,NES-TLSROM,NES PLAY ACTION FOOTBALL
+UNR-22-USA,New Ghostbusters II,HAL Laboratory,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,NEW GHOSTBUSTERS II
+NES-FN-USA,NFL Football,Atlus,LJN,NTSC (N. America),1989-09,Sports,Everyone,2,23582051581,NES-UNROM,NFL FOOTBALL
+NES-NC-USA,Nigel Mansell's World Championship Racing,Gremlin Graphics,GameTek,NTSC (N. America),1993-10,Racing,Everyone,2,43948530017,NES-SLROM,NIGEL MANSELL'S WORLD CHAMPIONSHIP RACING
+NES-ES-USA,A Nightmare on Elm Street,Rare,LJN,NTSC (N. America),1990-10,Action & Adventure,Everyone,4,23582051598,NES-AMROM,NIGHTMARE ON ELM STREET
+NES-8Y-USA,Nightshade,Beam Software,Ultra Games,NTSC (N. America),1992-01,Action & Adventure,Everyone,1,83717120162,NES-TLROM,NIGHTSHADE
+NES-N4-USA,Ninja Crusaders,NMK,American Sammy,NTSC (N. America),1990-12,Action & Adventure,Everyone,2,39471885106,NES-TGROM,NINJA CRUSADERS
+NES-NG-USA,Ninja Gaiden,Tecmo,Tecmo,NTSC (N. America),1989-03,Action & Adventure,Everyone,1,18946110073,NES-SLROM,NINJA GAIDEN
+NES-NW-USA,Ninja Gaiden II: The Dark Sword of Chaos,Tecmo,Tecmo,NTSC (N. America),1990-05,Action & Adventure,Everyone,1,18946110103,NES-TLROM,NINJA GAIDEN II: THE DARK SWORD OF CHAOS
+NES-3N-USA,Ninja Gaiden III: The Ancient Ship of Doom,Tecmo,Tecmo,NTSC (N. America),1991-08,Action & Adventure,Everyone,1,18946110134,NES-TLROM,NINJA GAIDEN III: THE ANCIENT SHIP OF DOOM
+NES-NK-USA,Ninja Kid,TOSE,Bandai,NTSC (N. America),1986-10,Action & Adventure,Everyone,1,45557872021,NES-CNROM,NINJA KID
+NES-XZ-USA,Nintendo World Cup,Techn?s Japan,Nintendo,NTSC (N. America),1990-12,Sports,Everyone,4,45496730130,NES-TLROM,NINTENDO WORLD CUP
+UNR-23-USA,Noah's Ark,Source Research & Development,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,NES-TKEPROM,NOAH'S ARK
+NES-NZ-USA,Nobunaga's Ambition,Koei,Koei,NTSC (N. America),1989-06,Strategy,Everyone,8,40198000079,NES-SOROM,NOBUNAGA'S AMBITION
+NES-NU-USA,Nobunaga's Ambition II,Koei,Koei,NTSC (N. America),1991-04,Strategy,Everyone,1,40198000185,NES-ETROM,NOBUNAGA'S AMBITION II
+NES-N5-USA,North & South,Kemco,Kemco*Seika,NTSC (N. America),1990-12,Strategy,Everyone,2,44499000127,NES-TSROM,NORTH & SOUTH
+NES-OW-USA,Operation Wolf,Taito,Taito,NTSC (N. America),1989-05,Action & Adventure,Everyone,1,20588010086,NES-SL1ROM,OPERATION WOLF
+NES-5H-USA,Orb-3D,Software Toolworks,Hi Tech Expressions,NTSC (N. America),1990-10,Action & Adventure,Everyone,1,87855000522,NES-SCROM,ORB-3D
+NES-OH-USA,Othello,HAL Laboratory,Acclaim Entertainment,NTSC (N. America),1988-12,Puzzle,Everyone,2,21481102052,NES-NROM-256,OTHELLO
+UNR-24-USA,Over Horizon,"Pixel, Hot-B",Unreleased,NTSC (N. America),N/A,Shooter,N/A,N/A,N/A,N/A,OVER HORIZON
+NES-VL-USA,Overlord,Probe Software,Virgin Interactive,NTSC (N. America),1993-01,Strategy,Everyone,1,52145800069,VIRGIN-SNROM,OVERLORD
+NES-EW-USA,P.O.W.: Prisoners of War,SNK,SNK,NTSC (N. America),1989-09,Action & Adventure,Everyone,1,18484185007,NES-SL1ROM,P.O.W.: PRISONERS OF WAR
+NES-P7-USA,Pac-Man,Namco,Tengen,NTSC (N. America),1993-11,Action & Adventure,Everyone,2,31763031116,NES-NROM-128,PAC-MAN
+NES-P7-USA,Pac-Man,Namco,Namco,NTSC (N. America),1993-11,Action & Adventure,Everyone,2,7.22674E+11,NES-NROM-128,PAC-MAN
+NES-JI-USA,Palamedes,Natsume,Hot-B,NTSC (N. America),1990-11,Puzzle,Everyone,2,93455100050,NES-SEROM,PALAMEDES
+NES-PR-USA,Panic Restaurant,EIM (video game developer),Taito,NTSC (N. America),1992-10,Action & Adventure,Everyone,1,20588010529,NES-TLROM,PANIC RESTAURANT
+NES-PY-USA,Paperboy,Eastridge Technology,Mindscape,NTSC (N. America),1988-12,Action & Adventure,Everyone,2,50047103110,NES-CNROM,PAPERBOY
+NES-Y7-USA,Paperboy 2,Eastridge Technology,Mindscape,NTSC (N. America),1992-04,Action & Adventure,Everyone,2,50047110095,NES-UOROM,PAPERBOY 2
+UNR-25-USA,Parasol Stars: Rainbow Island II,Ocean Software,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,PARASOL STARS: RAINBOW ISLAND II
+UNR-26-USA,Parodius,Konami,Unreleased,NTSC (N. America),N/A,Shooter,N/A,N/A,N/A,N/A,PARODIUS
+NES-KY-USA,Phantom Fighter,"Marionette, SRS",FCI,NTSC (N. America),1990-04,Action & Adventure,Everyone,1,22909100094,NES-SGROM,PHANTOM FIGHTER
+NES-P5-USA,Pictionary,Software Creations,LJN,NTSC (N. America),1990-07,Party,Everyone,4,23582051802,NES-SLROM,PICTIONARY
+NES-PN-USA,Pinball,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Arcade,Everyone,2,45496630171,HVC-NROM-128,PINBALL
+NES-P9-USA,Pinball Quest,TOSE,Jaleco,NTSC (N. America),1990-06,Arcade,Everyone,1,32264900147,NES-SLROM,PINBALL QUEST
+NES-IO-USA,Pin*Bot,Rare,Nintendo,NTSC (N. America),1990-04,Arcade,Everyone,4,65810267296,NES-TQROM,PIN*BOT
+NES-4P-USA,Pipe Dream,Distinctive Software,Bullet-Proof Software,NTSC (N. America),1990-09,Puzzle,Everyone,2,7.15504E+11,NES-CNROM,PIPE DREAM
+NES-8U-USA,Pirates!,Rare,Ultra Games,NTSC (N. America),1991-10,Strategy,Everyone,1,83717120148,NES-SKROM,PIRATES!
+NES-PU-USA,Platoon,Sunsoft,Sunsoft,NTSC (N. America),1988-12,Shooter,Everyone,1,20763110051,NES-SLROM,PLATOON
+NES-PP-USA,Popeye,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1986-06,Action & Adventure,Everyone,2,1.00131E+11,NES-NROM-128,POPEYE
+NES-7T-USA,Power Blade,Natsume,Taito,NTSC (N. America),1991-03,Action & Adventure,Everyone,1,20588010314,NES-TLROM,POWER BLADE
+NES-PB-USA,Power Blade 2,Natsume,Taito,NTSC (N. America),1992-10,Action & Adventure,Everyone,1,7.29627E+11,NES-TLROM,POWER BLADE 2
+NES-P2-USA,Power Punch II,Beam Software,American Softworks,NTSC (N. America),1992-06,Sports,Everyone,1,7.29627E+11,NES-TLROM,POWER PUNCH II
+NES-PL-USA,Predator,Pack-In-Video,Activision,NTSC (N. America),1989-04,Action & Adventure,Everyone,1,47875700024,NES-SLROM,PREDATOR
+NES-PA-USA,Prince of Persia,MotiveTime,Virgin Interactive,NTSC (N. America),1992-11,Platformer,Everyone,1,52145800083,NES-UNROM,PRINCE OF PERSIA
+NES-RT-USA,Princess Tomato in the Salad Kingdom,Hudson Soft,Hudson Soft,NTSC (N. America),1991-02,Action & Adventure,Everyone,1,39854000089,NES-SGROM,PRINCESS TOMATO IN THE SALAD KINGDOM
+NES-S5-USA,Pro Sport Hockey,TOSE,Jaleco,NTSC (N. America),1993-11,Sports,Everyone,2,32264700099,NES-TLSROM,PRO SPORT HOCKEY
+NES-PW-USA,Pro Wrestling,Nintendo Research & Development 3,Nintendo,NTSC (N. America),1987-03,Sports,Everyone,2,45496630294,NES-UNROM,PRO WRESTLING
+NES-QP-USA,Punch-Out!! Featuring Mr. Dream,Nintendo Research & Development 3,Nintendo,NTSC (N. America),1990,Sports,Everyone,1,45496630614,NES-PNROM,PUNCH-OUT!! FEATURING MR. DREAM
+NES-6P-USA,The Punisher,Beam Software,LJN,NTSC (N. America),1990-11,Action & Adventure,Everyone,1,23582051680,NES-TLROM,PUNISHER
+NES-UO-USA,Puss 'n Boots: Pero's Great Adventure,Shouei System,Electro Brain,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,99451413613,NES-UNROM,PUSS 'N BOOTS: PERO'S GREAT ADVENTURE
+NES-ZP-USA,Puzznic,Taito,Taito,NTSC (N. America),1990-11,Puzzle,Everyone,1,20588010246,NES-CNROM,PUZZNIC
+NES-QB-USA,Q*bert,Konami,Ultra Games,NTSC (N. America),1989-02,Action & Adventure,Everyone,2,83717120063,NES-CNROM,Q*BERT
+NES-QX-USA,Qix,Novotrade International,Taito,NTSC (N. America),1991-01,Puzzle,Everyone,2,20588010291,NES-SNROM,QIX
+NES-RS-USA,R.B.I. Baseball,Tengen,Tengen,NTSC (N. America),1988,Sports,Everyone,2,31763021124,NES-DEROM,R.B.I. BASEBALL
+NES-PM-USA,R.C. Pro-Am,Rare,Nintendo,NTSC (N. America),1988-02,Racing,Everyone,1,74470563242,NES-AN1ROM,R.C. PRO-AM
+NES-R2-USA,R.C. Pro-Am II,Rare,Tradewest,NTSC (N. America),1992-12,Racing,Everyone,4,31719199235,NES-AOROM,R.C. PRO-AM II
+NES-RE-USA,Racket Attack,TOSE,Jaleco,NTSC (N. America),1988-10,Sports,Everyone,2,32264900048,NES-SLROM,RACKET ATTACK
+UNR-27-USA,Rackets & Rivals,Konami,Unreleased,NTSC (N. America),N/A,Sports,N/A,N/A,N/A,N/A,RACKETS & RIVALS
+NES-RC-USA,Rad Racer,Square,Nintendo,NTSC (N. America),1987-10,Racing,Everyone,1,45496630362,NES-SGROM,RAD RACER
+NES-QR-USA,Rad Racer II,Square,Square,NTSC (N. America),1990-06,Racing,Everyone,1,94689101028,NES-TVROM,RAD RACER II
+NES-BU-USA,Raid on Bungeling Bay,Hudson Soft,Brøderbund,NTSC (N. America),1987-09,Shooter,Everyone,2,7.5503E+11,NES-NROM-128,RAID ON BUNGELING BAY
+NES-RL-USA,Rainbow Islands,Taito,Taito,NTSC (N. America),1991-06,Action & Adventure,Everyone,2,20588010321,NES-UNROM,RAINBOW ISLANDS
+UNR-28-USA,Rainbow Islands: Bubble Bobble 2,Ocean Software,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,RAINBOW ISLANDS: BUBBLE BOBBLE 2
+NES-LI-USA,Rally Bike,Toaplan,Romstar,NTSC (N. America),1990-09,Racing,Everyone,1,95474130100,NES-UNROM,RALLY BIKE
+NES-RV-USA,Rambo,Pack-In-Video,Acclaim Entertainment,NTSC (N. America),1988-05,Action & Adventure,Everyone,1,21481103011,NES-UNROM,RAMBO
+NES-RP-USA,Rampage,Data East,Data East,NTSC (N. America),1988-12,Arcade,Everyone,2,13252002111,NES-TFROM,RAMPAGE
+NES-73-USA,Rampart,Jaleco,Jaleco,NTSC (N. America),1992-01,Strategy,Everyone,2,32264900246,NES-TLROM,RAMPART
+NES-H6-USA,MTV's Remote Control,Riedel Software Productions,Hi Tech Expressions,NTSC (N. America),1990-05,Action & Adventure,Everyone,1,87855000324,NES-SLROM,MTV'S REMOTE CONTROL
+NES-RZ-USA,The Ren & Stimpy Show: Buckeroo$!,Imagineering,THQ,NTSC (N. America),1993-11,Action & Adventure,Everyone,1,7.19575E+11,NES-TLROM,REN & STIMPY SHOW: BUCKEROO$!
+NES-RG-USA,Renegade,Techn?s Japan,Taito,NTSC (N. America),1988-01,Action & Adventure,Everyone,2,20588010048,NES-UNROM,RENEGADE
+NES-HZ-USA,Rescue: The Embassy Mission,Kemco,Kemco*Seika,NTSC (N. America),1990-01,Action & Adventure,Everyone,1,44499000080,NES-SLROM,RESCUE: THE EMBASSY MISSION
+NES-RK-USA,Ring King,"Jastec, Neue Design",Data East,NTSC (N. America),1987-09,Sports,Everyone,1,13252002036,NES-DEROM,RING KING
+NES-DN-USA,River City Ransom,Techn?s Japan,Techn?s Japan,NTSC (N. America),1990-01,Fighting,Everyone,2,95303284011,NES-TLROM,RIVER CITY RANSOM
+UNR-29-USA,Road Fighter,Konami,Unreleased,NTSC (N. America),N/A,Racing,N/A,N/A,N/A,N/A,ROAD FIGHTER
+NES-VE-USA,RoadBlasters,Beam Software,Mindscape,NTSC (N. America),1990-01,Racing,Everyone,1,50047103127,NES-SLROM,ROADBLASTERS
+NES-7R-USA,Robin Hood: Prince of Thieves,Sculptured Software,Virgin Interactive,NTSC (N. America),1991-11,Action & Adventure,Everyone,1,52145800045,NES-SGROM,ROBIN HOOD: PRINCE OF THIEVES
+NES-CP-USA,RoboCop,"Data East, Sakata SAS",Data East,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,14381516869,NES-TL1ROM,ROBOCOP
+NES-2C-USA,RoboCop 2,Painting by Numbers,Data East,NTSC (N. America),1991-04,Action & Adventure,Everyone,1,13252002203,NES-SLROM,ROBOCOP 2
+NES-R3-USA,RoboCop 3,Probe Software,Ocean Software,NTSC (N. America),1992-08,Action & Adventure,Everyone,1,20295010041,NES-SLROM,ROBOCOP 3
+NES-RR-USA,Robowarrior,"Hudson Soft, Aicom",Jaleco,NTSC (N. America),1988-12,Action & Adventure,Everyone,1,32264900031,NES-UNROM,ROBOWARRIOR
+NES-R4-USA,Rock 'n' Ball,KID,NTVIC,NTSC (N. America),1990-01,Action & Adventure,Everyone,4,97933100013,NES-TFROM,ROCK 'N' BALL
+NES-2R-USA,Rocket Ranger,Beam Software,Kemco*Seika,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,44499000097,NES-SGROM,ROCKET RANGER
+NES-5R-USA,The Rocketeer,Ironwind Software,Bandai,NTSC (N. America),1991-05,Action & Adventure,Everyone,1,45557073206,NES-SGROM,ROCKETEER
+NES-7A-USA,Rockin' Kats,Atlus,Atlus,NTSC (N. America),1991-09,Action & Adventure,Everyone,1,2.00017E+11,NES-TLROM,ROCKIN' KATS
+UNR-30-USA,Rod Land,The Sales Curve,Unreleased,NTSC (N. America),N/A,Platformer,N/A,N/A,N/A,N/A,ROD LAND
+NES-6V-USA,Roger Clemens' MVP Baseball,Sculptured Software,LJN,NTSC (N. America),1991-10,Sports,Everyone,2,23582051840,ACCLAIM-MC-ACC,ROGER CLEMENS' MVP BASEBALL
+NES-RH-USA,Rollerball,HAL Laboratory,HAL America,NTSC (N. America),1990-02,Action & Adventure,Everyone,2,40458031065,NES-SFROM,ROLLERBALL
+NES-R6-USA,Rollerblade Racer,Radiance,Hi Tech Expressions,NTSC (N. America),1993-02,Sports,Everyone,1,87855000553,ACCLAIM-MC-ACC,ROLLERBLADE RACER
+NES-U5-USA,RollerGames,Konami,Ultra Games,NTSC (N. America),1990-09,Sports,Everyone,1,83717120117,NES-TLROM,ROLLERGAMES
+NES-IS-USA,Romance of the Three Kingdoms,Koei,Koei,NTSC (N. America),1989-10,Strategy,Everyone,8,40198000086,NES-SOROM,ROMANCE OF THE THREE KINGDOMS
+NES-XL-USA,Romance of the Three Kingdoms II,Koei,Koei,NTSC (N. America),1991-09,Strategy,Everyone,12,40198000208,NES-EWROM,ROMANCE OF THE THREE KINGDOMS II
+NES-RW-USA,Roundball: 2 on 2 Challenge,Park Place Productions,Mindscape,NTSC (N. America),1992-05,Sports,Everyone,4,50047106647,NES-TSROM,ROUNDBALL: 2 ON 2 CHALLENGE
+NES-RA-USA,Rush'n Attack,Konami,Konami,NTSC (N. America),1987-04,Action & Adventure,Everyone,2,83717110026,NES-UNROM,RUSH'N ATTACK
+NES-RY-USA,Rygar,Tecmo,Tecmo,NTSC (N. America),1987-07,Action & Adventure,Everyone,1,18946110011,NES-UNROM,RYGAR
+NES-FV-USA,S.C.A.T.: Special Cybernetic Attack Team,Natsume,Natsume,NTSC (N. America),1991-06,Shooter,Everyone,2,7.19593E+11,NES-SLROM,S.C.A.T.: SPECIAL CYBERNETIC ATTACK TEAM
+NES-SZ-USA,Section Z,Capcom,Capcom,NTSC (N. America),1987-07,Shooter,Everyone,1,13388110056,NES-UNROM,SECTION Z
+NES-SE-USA,Seicross,Nichibutsu,FCI,NTSC (N. America),1988-10,Action & Adventure,Everyone,2,22909100063,NES-NROM-256,SEICROSS
+NES-H3-USA,Sesame Street: 1-2-3,Zippo Games,Hi Tech Expressions,NTSC (N. America),1989-01,Educational,Everyone,1,87855000027,NES-SEROM,SESAME STREET: 1-2-3
+NES-H4-USA,Sesame Street: A-B-C,Zippo Games,Hi Tech Expressions,NTSC (N. America),1989-09,Educational,Everyone,1,87855000010,NES-SEROM,SESAME STREET: A-B-C
+NES-5A-USA,Sesame Street: A-B-C/1-2-3,Zippo Games,Hi Tech Expressions,NTSC (N. America),1991-11,Educational,Everyone,1,87855000058,NES-SLROM,SESAME STREET: A-B-C/1-2-3
+NES-4H-USA,Sesame Street: Big Bird's Hide & Speak,Riedel Software Productions,Hi Tech Expressions,NTSC (N. America),1990-10,Educational,Everyone,1,87855000034,NES-SLROM,SESAME STREET: BIG BIRD'S HIDE & SPEAK
+NES-85-USA,Sesame Street: Countdown,Riedel Software Productions,Hi Tech Expressions,NTSC (N. America),1992-02,Educational,Everyone,1,87855000041,NES-SLROM,SESAME STREET: COUNTDOWN
+NES-JL-USA,Shadow of the Ninja,Natsume,Natsume,NTSC (N. America),1990-12,Action & Adventure,Everyone,2,91199021488,NES-TLROM,SHADOW OF THE NINJA
+NES-3S-USA,Shadowgate,Kemco,Kemco*Seika,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,44499000059,NES-TKROM,SHADOWGATE
+NES-9H-USA,Shatterhand,Natsume,Jaleco,NTSC (N. America),1991-12,Action & Adventure,Everyone,1,32264900239,NES-TLROM,SHATTERHAND
+NES-23-USA,Shingen the Ruler,Another,Hot-B,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,93455100043,NES-SNROM,SHINGEN THE RULER
+NES-ZS-USA,Shooting Range,TOSE,Bandai,NTSC (N. America),1989-06,Action & Adventure,Everyone,4,45557073008,NES-CNROM,SHOOTING RANGE
+NES-OR-USA,Short Order / Eggsplode!,TOSE,Nintendo,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,45496630546,NES-SBROM,SHORT ORDER / EGGSPLODE!
+NES-PK-USA,Side Pocket,Data East,Data East,NTSC (N. America),1987-11,Sports,Everyone,1,13252002098,NES-UNROM,SIDE POCKET
+NES-IV-USA,Silent Service,Rare,Ultra Games,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,4.7311E+11,KONAMI-UNROM,SILENT SERVICE
+NES-LK-USA,Silkworm,Sammy Japan,American Sammy,NTSC (N. America),1990-06,Action & Adventure,Everyone,2,39471885052,NES-SLROM,SILKWORM
+NES-VQ-USA,Silver Surfer,Software Creations,Arcadia Systems,NTSC (N. America),1990-11,Action & Adventure,Everyone,1,52145800038,NES-TSROM,SILVER SURFER
+NES-Q5-USA,The Simpsons: Bart vs. the Space Mutants,Imagineering,Acclaim Entertainment,NTSC (N. America),1991-02,Action & Adventure,Everyone,1,21481105039,NES-SLROM,SIMPSONS: BART VS. THE SPACE MUTANTS
+NES-Y9-USA,The Simpsons: Bart vs. the World,Imagineering,Acclaim Entertainment,NTSC (N. America),1991-12,Action & Adventure,Everyone,1,21481105053,ACCLAIM-MC-ACC,SIMPSONS: BART VS. THE WORLD
+NES-RN-USA,The Simpsons: Bartman Meets Radioactive Man,Imagineering,Acclaim Entertainment,NTSC (N. America),1992-12,Action & Adventure,Everyone,1,21481107040,ACCLAIM-MC-ACC,SIMPSONS: BARTMAN MEETS RADIOACTIVE MAN
+NES-DI-USA,Skate or Die!,Konami,Ultra Games,NTSC (N. America),1988-12,Action & Adventure,Everyone,8,83717120025,KONAMI-UNROM,SKATE OR DIE!
+NES-E4-USA,Skate or Die 2: The Search for Double Trouble,Electronic Arts,Electronic Arts,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,17800165020,NES-SLROM,SKATE OR DIE 2: THE SEARCH FOR DOUBLE TROUBLE
+NES-7S-USA,Ski or Die,Konami,Ultra Games,NTSC (N. America),1991-02,Action & Adventure,Everyone,6,83717120124,KONAMI-SLROM,SKI OR DIE
+NES-SY-USA,Sky Kid,Namco,Sunsoft,NTSC (N. America),1987-09,Action & Adventure,Everyone,2,20763110020,NES-SHROM,SKY KID
+NES-2S-USA,Sky Shark,Software Creations,Taito,NTSC (N. America),1989-09,Shooter,Everyone,2,20588010079,NES-SCROM,SKY SHARK
+NES-SL-USA,Slalom,Rare,Nintendo,NTSC (N. America),1987-08,Sports,Everyone,2,45496630300,NES-NROM-256,SLALOM
+NES-5V-USA,Smash TV,Beam Software,Acclaim Entertainment,NTSC (N. America),1991-09,Action & Adventure,Everyone,2,1.06067E+11,ACCLAIM-TLROM,SMASH TV
+UNR-31-USA,The Smurfs,Bit Managers,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,SMURFS
+NES-RJ-USA,Snake Rattle 'n' Roll,Rare,Nintendo,NTSC (N. America),1990-07,Action & Adventure,Everyone,2,45496630591,NES-SEROM,SNAKE RATTLE 'N' ROLL
+NES-E2-USA,Snake's Revenge,Konami,Ultra Games,NTSC (N. America),1990-04,Action & Adventure,Everyone,1,83717120100,NES-SLROM,SNAKE'S REVENGE
+NES-OP-USA,Snoopy's Silly Sports Spectacular,Kemco,Kemco*Seika,NTSC (N. America),1990-04,Sports,Everyone,2,44499000073,NES-SLROM,SNOOPY'S SILLY SPORTS SPECTACULAR
+NES-7L-USA,Snow Brothers,SOL,Capcom,NTSC (N. America),1991-11,Action & Adventure,Everyone,2,13388110285,NES-SLROM,SNOW BROTHERS
+NES-SC-USA,Soccer,Intelligent Systems,Nintendo,NTSC (N. America),1987-03,Sports,Everyone,2,109989,NES-NROM-256,SOCCER
+NES-LJ-USA,Solar Jetman: Hunt for the Golden Warpship,Zippo Games,Tradewest,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,45496430047,NES-AOROM,SOLAR JETMAN: HUNT FOR THE GOLDEN WARPSHIP
+NES-KE-USA,Solomon's Key,Tecmo,Tecmo,NTSC (N. America),1987-07,Puzzle,Everyone,1,18946110035,NES-CNROM,SOLOMON'S KEY
+NES-LX-USA,Solstice: The Quest for the Staff of Demnos,Software Creations,CSG Imagesoft,NTSC (N. America),1990-06,Action & Adventure,Everyone,1,90451104013,NES-ANROM,SOLSTICE: THE QUEST FOR THE STAFF OF DEMNOS
+NES-6A-USA,Space Shuttle Project,Imagineering,Absolute Entertainment,NTSC (N. America),1991-11,Programmable,Everyone,1,18706207937,NES-SGROM,SPACE SHUTTLE PROJECT
+NES-SU-USA,Spelunker,"Tamtex, TOSE",Brøderbund,NTSC (N. America),1987-09,Action & Adventure,Everyone,1,47956118403,NES-NROM-256,SPELUNKER
+NES-RX-USA,Spider-Man: Return of the Sinister Six,Bits Studios,LJN,NTSC (N. America),1992-10,Action & Adventure,Everyone,1,23582051888,ACCLAIM-MC-ACC,SPIDER-MAN: RETURN OF THE SINISTER SIX
+NES-3P-USA,Spot: The Video Game,Virgin Mastertronic,Arcadia Systems,NTSC (N. America),1990-09,Action & Adventure,Everyone,4,52145800007,NES-SNROM,SPOT: THE VIDEO GAME
+NES-HU-USA,Spy Hunter,Sunsoft,Sunsoft,NTSC (N. America),1987-09,Racing,Everyone,1,1.98627E+11,NES-CNROM,SPY HUNTER
+NES-SP-USA,Spy vs. Spy,Kemco,Kemco*Seika,NTSC (N. America),1988-10,Action & Adventure,Everyone,2,44499000011,NES-NROM-256,SPY VS. SPY
+NES-SQ-USA,Sqoon,Home Data,Irem,NTSC (N. America),1987-09,Action & Adventure,Everyone,1,47956700400,NES-NROM-256,SQOON
+NES-BL-USA,Stack-Up,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Robot,Everyone,1,45496630164,HVC-NROM-256,STACK-UP
+NES-SD-USA,Stadium Events,Human Entertainment,Bandai,NTSC (N. America),1987-09,Sports,Everyone,2,45557873059,NES-CNROM,STADIUM EVENTS
+NES-SS-USA,Stanley: The Search for Dr. Livingston,Sculptured Software,Electro Brain,NTSC (N. America),1992-10,Action & Adventure,Everyone,1,99451613624,NES-TLROM,STANLEY: THE SEARCH FOR DR. LIVINGSTON
+NES-FO-USA,Star Force,Hudson Soft,Tecmo,NTSC (N. America),1987-11,Action & Adventure,Everyone,1,18946110042,HVC-CNROM,STAR FORCE
+NES-SO-USA,Star Soldier,Hudson Soft,Taxan,NTSC (N. America),1989-01,Shooter,Everyone,1,40886782799,NES-CNROM,STAR SOLDIER
+NES-8Z-USA,Star Trek: 25th Anniversary,Interplay Entertainment,Ultra Games,NTSC (N. America),1992-02,Action & Adventure,Everyone,1,83717120179,NES-TLROM,STAR TREK: 25TH ANNIVERSARY
+NES-NX-USA,Star Trek: The Next Generation,Imagineering,Absolute Entertainment,NTSC (N. America),1993-09,Action & Adventure,Everyone,1,18706206930,NES-UNROM,STAR TREK: THE NEXT GENERATION
+NES-SV-USA,Star Voyager,ASCII,Acclaim Entertainment,NTSC (N. America),1987-09,Action & Adventure,Everyone,1,21481101017,NES-CNROM,STAR VOYAGER
+NES-7V-USA,Star Wars,Beam Software,JVC,NTSC (N. America),1991-11,Action & Adventure,Everyone,1,9119910125,NES-TKEPROM,STAR WARS
+NES-EK-USA,Star Wars: The Empire Strikes Back,Sculptured Software,JVC,NTSC (N. America),1992-03,Action & Adventure,Everyone,1,9119910149,NES-TLROM,STAR WARS: THE EMPIRE STRIKES BACK
+NES-HH-USA,Starship Hector,Hudson Soft,Hudson Soft,NTSC (N. America),1990-06,Shooter,Everyone,1,39854000041,NES-UNROM,STARSHIP HECTOR
+NES-OC-USA,StarTropics,"Nintendo Research & Development 3, Locomotive Corporation",Nintendo,NTSC (N. America),1990-12,Action & Adventure,Everyone,1,45496630508,NES-HKROM,STARTROPICS
+NES-LH-USA,Stealth ATF,Imagineering,Activision,NTSC (N. America),1989-10,Shooter,Everyone,2,3.00021E+11,NES-SLROM,STEALTH ATF
+NES-SR-USA,Stinger,Konami,Konami,NTSC (N. America),1987-09,Shooter,Everyone,2,6.05043E+11,NES-UNROM,STINGER
+NES-EC-USA,Street Cop,Human Entertainment,Bandai,NTSC (N. America),1989-06,Action & Adventure,Everyone,1,45557077105,NES-SLROM,STREET COP
+NES-YA-USA,Street Fighter 2010: The Final Fight,Capcom,Capcom,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,13388110124,NES-TLROM,STREET FIGHTER 2010: THE FINAL FIGHT
+NES-HX-USA,Strider,Capcom,Capcom,NTSC (N. America),1989-07,Platformer,Everyone,1,13388110131,NES-SGROM,STRIDER
+NES-UE-USA,Super C ,Konami,Konami,NTSC (N. America),1990-04,Shooter,Everyone,2,83717110187,KONAMI-TLROM,SUPER C 
+NES-6S-USA,Super Cars,Magnetic Fields,Electro Brain,NTSC (N. America),1991-02,Racing,Everyone,1,23462851089,NES-UNROM,SUPER CARS
+NES-ND-USA,Super Dodge Ball,Techn?s Japan,CSG Imagesoft,NTSC (N. America),1989-06,Sports,Everyone,2,90451102019,NES-SLROM,SUPER DODGE BALL
+NES-5L-USA,Super Glove Ball,Rare,Mattel,NTSC (N. America),1990-10,Action & Adventure,Everyone,1,74299045226,NES-UNROM,SUPER GLOVE BALL
+NES-7J-USA,Super Jeopardy!,Imagitec,GameTek,NTSC (N. America),1991-09,Party,Everyone,4,43948520049,NES-SLROM,SUPER JEOPARDY!
+NES-SM-USA,Super Mario Bros.,Nintendo Research & Development 4,Nintendo,NTSC (N. America),10/18/1985,Platformer,Everyone,2,45496734060,NES-NROM-256,SUPER MARIO BROS.
+NES-MH-USA,Super Mario Bros./Duck Hunt,Nintendo,Nintendo,NTSC (N. America),1988-11,Action & Adventure,Everyone,2,24634562468,NES-MHROM,SUPER MARIO BROS./DUCK HUNT
+NES-WH-USA,Super Mario Bros./Duck Hunt/World Class Track Meet,"Nintendo, Human Entertainment",Nintendo,NTSC (N. America),1990-12,Action & Adventure,Everyone,2,7.67014E+11,NES-SFROM,SUPER MARIO BROS./DUCK HUNT/WORLD CLASS TRACK MEET
+UNR-32-USA,Super Mario Bros./Tetris/Nintendo World Cup,"Nintendo, Techn?s Japan",Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,SUPER MARIO BROS./TETRIS/NINTENDO WORLD CUP
+NES-MW-USA,Super Mario Bros. 2,Nintendo Research & Development 4,Nintendo,NTSC (N. America),1988-10,Platformer,Everyone,2,45496630386,NES-TSROM,SUPER MARIO BROS. 2
+NES-UM-USA,Super Mario Bros. 3,Nintendo Research & Development 4,Nintendo,NTSC (N. America),2/12/1990,Platformer,Everyone,2,45496630584,NES-TSROM,SUPER MARIO BROS. 3
+NES-PI-USA,Super Pitfall,Micronics,Activision,NTSC (N. America),1987-11,Platformer,Everyone,2,94779,NES-UNROM,SUPER PITFALL
+NES-VJ-USA,Super Spike V'Ball,Techn?s Japan,Nintendo,NTSC (N. America),1990-02,Sports,Everyone,4,45496630560,NES-TLROM,SUPER SPIKE V'BALL
+NES-QJ-USA,Super Spike V'Ball/Nintendo World Cup,"Nintendo, Techn?s Japan",Nintendo,NTSC (N. America),1990-12,Sports,Everyone,4,9.10578E+11,NES-QJ,SUPER SPIKE V'BALL/NINTENDO WORLD CUP
+NES-UY-USA,Super Spy Hunter,Sunsoft,Sunsoft,NTSC (N. America),1992-02,Racing,Everyone,1,20763110112,NES-TLROM,SUPER SPY HUNTER
+NES-UN-USA,Super Team Games,Human Entertainment,Nintendo,NTSC (N. America),1988-11,Sports,Everyone,1,45496630454,NES-CNROM,SUPER TEAM GAMES
+UNR-33-USA,Super Turrican,Manfred Trenz,Unreleased,NTSC (N. America),N/A,Shooter,N/A,N/A,N/A,N/A,SUPER TURRICAN
+NES-SN-USA,Superman,Kemco,Kemco*Seika,NTSC (N. America),1988-12,Action & Adventure,Everyone,1,44499000035,NES-SLROM,SUPERMAN
+NES-SW-USA,Swamp Thing,Imagineering,THQ,NTSC (N. America),1992-12,Action & Adventure,Everyone,1,7.19575E+11,NES-SLROM,SWAMP THING
+NES-8S-USA,Sword Master,Athena,Activision,NTSC (N. America),1992-01,Action & Adventure,Everyone,1,5.21482E+11,NES-TLROM,SWORD MASTER
+NES-WP-USA,Swords and Serpents,Interplay Entertainment,Acclaim Entertainment,NTSC (N. America),1990-08,Action & Adventure,Everyone,4,21481103059,NES-UNROM,SWORDS AND SERPENTS
+NES-OO-USA,Taboo: The Sixth Sense,Rare,Tradewest,NTSC (N. America),1989-04,Party,Everyone,1,31719198856,NES-SEROM,TABOO: THE SIXTH SENSE
+NES-TT-USA,Tag Team Wrestling,"Data East, Sakata SAS",Data East,NTSC (N. America),1986-10,Sports,Everyone,2,13252002050,NES-NROM-256,TAG TEAM WRESTLING
+NES-68-USA,TaleSpin,Capcom,Capcom,NTSC (N. America),1991-12,Action & Adventure,Everyone,1,33500753008,NES-SLROM,TALESPIN
+NES-NE-USA,Target: Renegade,Software Creations,Taito,NTSC (N. America),1990-03,Action & Adventure,Everyone,1,2.00556E+11,NES-SLROM,TARGET: RENEGADE
+NES-TL-USA,Tecmo Baseball,Tecmo,Tecmo,NTSC (N. America),1989-01,Sports,Everyone,2,18946110066,NES-SGROM,TECMO BASEBALL
+NES-TW-USA,Tecmo Bowl,Tecmo,Tecmo,NTSC (N. America),1989-02,Sports,Everyone,2,18946110059,NES-SLROM,TECMO BOWL
+NES-TP-USA,Tecmo Cup Soccer Game,Tecmo,Tecmo,NTSC (N. America),1992-09,Sports,Everyone,1,18946110141,NES-SLROM,TECMO CUP SOCCER GAME
+NES-BK-USA,Tecmo NBA Basketball,Sculptured Software,Tecmo,NTSC (N. America),1992-11,Sports,Everyone,2,18946110158,NES-TKROM,TECMO NBA BASKETBALL
+NES-4U-USA,Tecmo Super Bowl,Tecmo,Tecmo,NTSC (N. America),1991-12,Sports,Everyone,2,18946110127,NES-TKEPROM,TECMO SUPER BOWL
+UNR-34-USA,Tecmo World Cup Soccer,Tecmo,Unreleased,NTSC (N. America),N/A,Sports,N/A,N/A,N/A,N/A,TECMO WORLD CUP SOCCER
+NES-PZ-USA,Tecmo World Wrestling,Tecmo,Tecmo,NTSC (N. America),1990-04,Sports,Everyone,2,18946110080,NES-SLROM,TECMO WORLD WRESTLING
+NES-U2-USA,Teenage Mutant Ninja Turtles,Konami,Ultra Games,NTSC (N. America),1989-06,Action & Adventure,Everyone,1,83717120032,KONAMI-SLROM,TEENAGE MUTANT NINJA TURTLES
+NES-2N-USA,Teenage Mutant Ninja Turtles II: The Arcade Game,Konami,Ultra Games,NTSC (N. America),1990-12,Action & Adventure,Everyone,2,8.02859E+11,NES-TLROM,TEENAGE MUTANT NINJA TURTLES II: THE ARCADE GAME
+NES-T3-USA,Teenage Mutant Ninja Turtles III: The Manhattan Project,Konami,Konami,NTSC (N. America),1992-02,Action & Adventure,Everyone,2,83717110279,NES-TLROM,TEENAGE MUTANT NINJA TURTLES III: THE MANHATTAN PROJECT
+NES-TF-USA,Teenage Mutant Ninja Turtles: Tournament Fighters,Konami,Konami,NTSC (N. America),1994-02,Fighting,Everyone,2,83717110354,NES-TLROM,TEENAGE MUTANT NINJA TURTLES: TOURNAMENT FIGHTERS
+NES-TE-USA,Tennis,"Nintendo Research & Development 1, Intelligent Systems",Nintendo,NTSC (N. America),10/18/1985,Sports,Everyone,2,75470390289,NES-NROM-128,TENNIS
+NES-NA-USA,The Terminator,Radical Entertainment,Mindscape,NTSC (N. America),1992-12,Action & Adventure,Everyone,1,50047106807,NES-TLROM,TERMINATOR
+NES-62-USA,Terminator 2: Judgment Day,Software Creations,LJN,NTSC (N. America),1992-02,Action & Adventure,Everyone,1,23582051833,ACCLAIM-MC-ACC,TERMINATOR 2: JUDGMENT DAY
+NES-TQ-USA,Terra Cresta,Nihon Bussan,Vic Tokai,NTSC (N. America),1990-03,Action & Adventure,Everyone,2,92091300367,NES-UNROM,TERRA CRESTA
+NES-EI-USA,Tetris,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1989-11,Puzzle,Everyone,1,45496630539,NES-SEROM,TETRIS
+NES-TS-USA,Tetris 2,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1993-10,Puzzle,Everyone,2,45496630737,NES-TSROM,TETRIS 2
+NES-3T-USA,The Three Stooges,Beam Software,Activision,NTSC (N. America),1989-10,Action & Adventure,Everyone,1,47875700093,NES-SLROM,THREE STOOGES
+NES-4T-USA,Thunder & Lightning,Visco Corporation,Romstar,NTSC (N. America),1990-12,Puzzle,Everyone,2,95474160107,NES-GNROM,THUNDER & LIGHTNING
+NES-T5-USA,Thunderbirds,Pack-In-Video,Activision,NTSC (N. America),1990-09,Shooter,Everyone,1,81183,NES-SLROM,THUNDERBIRDS
+NES-UD-USA,Thundercade,Micronics,American Sammy,NTSC (N. America),1989-07,Action & Adventure,Everyone,2,39471885038,NES-UNROM,THUNDERCADE
+NES-TI-USA,Tiger-Heli,Micronics,Acclaim Entertainment,NTSC (N. America),1987-09,Shooter,Everyone,2,21481102038,NES-CNROM,TIGER-HELI
+NES-LZ-USA,Time Lord,Rare,Milton Bradley Company,NTSC (N. America),1990-09,Action & Adventure,Everyone,1,32244040931,NES-AMROM,TIME LORD
+NES-5T-USA,Times of Lore,Toho,Toho,NTSC (N. America),1991-05,Action & Adventure,Everyone,1,91521100041,NES-UNROM,TIMES OF LORE
+NES-NI-USA,Tiny Toon Adventures,Konami,Konami,NTSC (N. America),1991-12,Action & Adventure,Everyone,2,83057140011,NES-TLROM,TINY TOON ADVENTURES
+NES-T2-USA,Tiny Toon Adventures 2: Trouble in Wackyland,Konami,Konami,NTSC (N. America),1993-04,Action & Adventure,Everyone,2,83717110330,NES-TLROM,TINY TOON ADVENTURES 2: TROUBLE IN WACKYLAND
+NES-CW-USA,Tiny Toon Adventures Cartoon Workshop,Novotrade International,Konami,NTSC (N. America),1992-12,Action & Adventure,Everyone,1,83717110309,NES-TSROM,TINY TOON ADVENTURES CARTOON WORKSHOP
+NES-ZE-USA,To the Earth,Cirque Verte,Nintendo,NTSC (N. America),1989-11,Action & Adventure,Everyone,1,45496630492,NES-TEROM,TO THE EARTH
+NES-5J-USA,Toki,Daiei Seisakusho,Taito,NTSC (N. America),1991-12,Action & Adventure,Everyone,2,20588010406,NES-TLROM,TOKI
+NES-5Y-USA,Tom and Jerry,Software Creations,Hi Tech Expressions,NTSC (N. America),1991-12,Action & Adventure,Everyone,1,87855000331,NES-TLROM,TOM AND JERRY
+NES-2T-USA,Tombs & Treasure,Compile,Infocom,NTSC (N. America),1991-06,Action & Adventure,Everyone,1,47875700123,NES-SGROM,TOMBS & TREASURE
+NES-TG-USA,Top Gun,Konami,Konami,NTSC (N. America),1987-11,Shooter,Everyone,1,83717110088,NES-UNROM,TOP GUN
+NES-OG-USA,Top Gun: The Second Mission,Konami,Konami,NTSC (N. America),1990-01,Shooter,Everyone,2,83717110163,KONAMI-TLROM,TOP GUN: THE SECOND MISSION
+NES-W1-USA,Top Players' Tennis,Home Data,Asmik,NTSC (N. America),1990-01,Sports,Everyone,4,96066890013,NES-SLROM,TOP PLAYERS' TENNIS
+NES-L4-USA,Total Recall,Interplay Entertainment,Acclaim Entertainment,NTSC (N. America),1990-08,Action & Adventure,Everyone,1,21481106043,NES-UNROM,TOTAL RECALL
+NES-6T-USA,Totally Rad,Aicom,Jaleco,NTSC (N. America),1991-03,Racing,Everyone,1,32264900185,NES-TLROM,TOTALLY RAD
+NES-T7-USA,Touch Down Fever,SNK,SNK,NTSC (N. America),1991-02,Sports,Everyone,2,18484245008,NES-SFROM,TOUCH DOWN FEVER
+NES-TN-USA,Town & Country Surf Designs: Wood & Water Rage,Atlus,LJN,NTSC (N. America),1988-02,Sports,Everyone,2,23582051529,NES-CNROM,TOWN & COUNTRY SURF DESIGNS: WOOD & WATER RAGE
+NES-TC-USA,Town & Country II: Thrilla's Surfari,Sculptured Software,LJN,NTSC (N. America),1992-03,Sports,Everyone,1,23582051857,ACCLAIM-MC-ACC,TOWN & COUNTRY II: THRILLA'S SURFARI
+NES-TX-USA,Toxic Crusaders,TOSE,Bandai,NTSC (N. America),1992-04,Action & Adventure,Everyone,1,45557073305,NES-TLROM,TOXIC CRUSADERS
+NES-TR-USA,Track & Field,Konami,Konami,NTSC (N. America),1987-04,Sports,Everyone,2,83717110033,NES-CNROM,TRACK & FIELD
+NES-F2-USA,Track & Field II,Konami,Konami,NTSC (N. America),1989-06,Sports,Everyone,2,83717110125,NES-SLROM,TRACK & FIELD II
+NES-7U-USA,Treasure Master,Software Creations,American Softworks,NTSC (N. America),1991-12,Action & Adventure,Everyone,1,7.29627E+11,NES-SLROM,TREASURE MASTER
+NES-4A-USA,Trog!,Visual Concepts,Acclaim Entertainment,NTSC (N. America),1991-10,Action & Adventure,Everyone,2,21481104025,NES-UNROM,TROG!
+NES-TJ-USA,Trojan,Capcom,Capcom,NTSC (N. America),1987-02,Action & Adventure,Everyone,2,9119900737,NES-UNROM,TROJAN
+UNR-35-USA,The Trolls in Crazyland,KID,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,TROLLS IN CRAZYLAND
+NES-QT-USA,Twin Cobra,Micronics,American Sammy,NTSC (N. America),1990-01,Shooter,Everyone,1,39471885045,NES-TLROM,TWIN COBRA
+NES-2E-USA,Twin Eagle,SETA,Romstar,NTSC (N. America),1989-10,Action & Adventure,Everyone,2,95474100103,NES-UNROM,TWIN EAGLE
+UNR-36-USA,Ufouria: The Saga,Sunsoft,Unreleased,NTSC (N. America),N/A,Action & Adventure,N/A,N/A,N/A,N/A,UFOURIA: THE SAGA
+NES-UL-USA,Ultima III: Exodus,Newtopia Planning,FCI,NTSC (N. America),1989-02,Strategy,Everyone,1,22909100049,NES-SNROM,ULTIMA III: EXODUS
+NES-US-USA,Ultima IV: Quest of the Avatar,"Atelier Double, Infinity",FCI,NTSC (N. America),1990-12,Strategy,Everyone,1,22909100117,NES-SNROM,ULTIMA IV: QUEST OF THE AVATAR
+NES-UT-USA,Ultima V: Warriors of Destiny,Origin Systems,FCI,NTSC (N. America),1993-01,Strategy,Everyone,1,22909100148,NES-SNROM,ULTIMA V: WARRIORS OF DESTINY
+NES-3Z-USA,Ultimate Air Combat,Activision,Activision,NTSC (N. America),1992-04,Action & Adventure,Everyone,1,47875100169,NES-TLROM,ULTIMATE AIR COMBAT
+NES-UJ-USA,Ultimate Basketball,Aicom,American Sammy,NTSC (N. America),1990-09,Sports,Everyone,2,39471885083,NES-TLROM,ULTIMATE BASKETBALL
+NES-XM-USA,The Uncanny X-Men,Pixel,LJN,NTSC (N. America),1989-12,Action & Adventure,Everyone,2,23582051611,NES-UNROM,UNCANNY X-MEN
+NES-QK-USA,Uncharted Waters,Koei,Koei,NTSC (N. America),1991-11,Action & Adventure,Everyone,1,40198000352,NES-ETROM,UNCHARTED WATERS
+NES-UV-USA,Uninvited,Kemco,Kemco*Seika,NTSC (N. America),1991-06,Action & Adventure,Everyone,1,44499000134,NES-TKROM,UNINVITED
+NES-U6-USA,The Untouchables,Special FX Software,Ocean Software,NTSC (N. America),1991-01,Action & Adventure,Everyone,1,20295010010,NES-SLROM,UNTOUCHABLES
+NES-UC-USA,Urban Champion,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1986-06,Fighting,Everyone,2,45496630188,NES-NROM-128,URBAN CHAMPION
+NES-LS-USA,Vegas Dream,HAL Laboratory,HAL America,NTSC (N. America),1990-03,Party,Everyone,4,40458233049,NES-SKROM,VEGAS DREAM
+NES-9G-USA,Vice: Project Doom,Aicom,American Sammy,NTSC (N. America),1991-11,Action & Adventure,Everyone,1,39471905118,NES-TLROM,VICE: PROJECT DOOM
+NES-V8-USA,Videomation,FarSight Studios,THQ,NTSC (N. America),1991-06,Educational,Everyone,1,7.19575E+11,NES-CPROM,VIDEOMATION
+NES-VB-USA,Volleyball,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1987-03,Sports,Everyone,2,9.1199E+11,NES-NROM-256,VOLLEYBALL
+NES-WE-USA,Wacky Races,Atlus,Atlus,NTSC (N. America),1992-05,Racing,Everyone,1,7.30865E+11,NES-TLROM,WACKY RACES
+NES-ZM-USA,Wall Street Kid,SOFEL,SOFEL,NTSC (N. America),1990-06,Strategy,Everyone,1,93295902012,NES-UNROM,WALL STREET KID
+NES-WB-USA,Wario's Woods,Nintendo Research & Development 1,Nintendo,NTSC (N. America),1994-12,Puzzle,Everyone,2,45496630751,NES-TKEPROM,WARIO'S WOODS
+NES-ZY-USA,Wayne Gretzky Hockey,Bethesda Softworks,THQ,NTSC (N. America),1991-01,Sports,Everyone,2,7.19575E+11,NES-UNROM,WAYNE GRETZKY HOCKEY
+NES-Y8-USA,Wayne's World,Radical Entertainment,THQ,NTSC (N. America),1993-11,Action & Adventure,Everyone,1,7.19575E+11,NES-TLROM,WAYNE'S WORLD
+NES-S9-USA,WCW Wrestling,Nichibutsu,FCI,NTSC (N. America),1990-04,Sports,Everyone,2,22909100087,NES-TLROM,WCW WRESTLING
+NES-W8-USA,Werewolf: The Last Warrior,"Data East, Sakata SAS",Data East,NTSC (N. America),1990-11,Action & Adventure,Everyone,2,13252002197,NES-TLROM,WEREWOLF: THE LAST WARRIOR
+NES-WF-USA,Wheel of Fortune,Rare,GameTek,NTSC (N. America),1988-09,Party,Everyone,3,43948510002,NES-AOROM,WHEEL OF FORTUNE
+NES-W3-USA,Wheel of Fortune Family Edition,Rare,GameTek,NTSC (N. America),1990-03,Party,Everyone,3,43948510026,NES-ANROM,WHEEL OF FORTUNE FAMILY EDITION
+NES-Y6-USA,Wheel of Fortune: Featuring Vanna White,Imagitec,GameTek,NTSC (N. America),1992-01,Party,Everyone,3,43948510019,NES-AOROM,WHEEL OF FORTUNE: FEATURING VANNA WHITE
+NES-WJ-USA,Wheel of Fortune Junior Edition,Rare,GameTek,NTSC (N. America),1989-10,Party,Everyone,3,43948510019,NES-ANROM,WHEEL OF FORTUNE JUNIOR EDITION
+NES-9K-USA,Where in Time Is Carmen Sandiego?,Distinctive Software,Konami,NTSC (N. America),1991-10,Educational,Everyone,1,83717110231,NES-TKEPROM,WHERE IN TIME IS CARMEN SANDIEGO?
+NES-6W-USA,Where's Waldo?,Bethesda Softworks,THQ,NTSC (N. America),1991-09,Educational,Everyone,1,7.19575E+11,NES-TSROM,WHERE'S WALDO?
+NES-WL-USA,Who Framed Roger Rabbit,Rare,LJN,NTSC (N. America),1989-09,Action & Adventure,Everyone,1,4.75E+11,NES-ANROM,WHO FRAMED ROGER RABBIT
+NES-4W-USA,Whomp 'Em,Jaleco,Jaleco,NTSC (N. America),1991-03,Action & Adventure,Everyone,1,32264900192,NES-TLROM,WHOMP 'EM
+NES-W7-USA,Widget,Graphic Research,Atlus,NTSC (N. America),1992-11,Action & Adventure,Everyone,1,7.30865E+11,NES-TLROM,WIDGET
+NES-WG-USA,Wild Gunman,"Nintendo, Intelligent Systems",Nintendo,NTSC (N. America),10/18/1985,Shooter,Everyone,1,116422,NES-NROM-128,WILD GUNMAN
+NES-WI-USA,Willow,Capcom,Capcom,NTSC (N. America),1989-12,Action & Adventure,Everyone,1,13388110148,NES-SLROM,WILLOW
+NES-IL-USA,"Win, Lose, or Draw",Riedel Software Productions,Hi Tech Expressions,NTSC (N. America),1990-03,Party,Everyone,2,87855000300,NES-SGROM,"WIN, LOSE, OR DRAW"
+NES-WM-USA,Winter Games,Atelier Double,Acclaim Entertainment,NTSC (N. America),1987-09,Sports,Everyone,2,21481102021,NES-SGROM,WINTER GAMES
+NES-09-USA,Wizardry: Proving Grounds of the Mad Overlord,Sir-Tech,Nexoft,NTSC (N. America),1990-07,Strategy,Everyone,1,93992010256,NES-SKROM,WIZARDRY: PROVING GROUNDS OF THE MAD OVERLORD
+NES-32-USA,Wizardry II: The Knight of Diamonds,Sir-Tech,ASCII,NTSC (N. America),1992-04,RPG,Everyone,1,93992010300,NES-TKROM,WIZARDRY II: THE KNIGHT OF DIAMONDS
+NES-WW-USA,Wizards & Warriors,Rare,Acclaim Entertainment,NTSC (N. America),1987-12,Platformer,Everyone,1,21481102045,NES-ANROM,WIZARDS & WARRIORS
+NES-8W-USA,Wizards & Warriors III: Kuros: Visions of Power,Zippo Games,Acclaim Entertainment,NTSC (N. America),1992-03,Platformer,Everyone,1,21481105046,ACCLAIM-AOROM,WIZARDS & WARRIORS III: KUROS: VISIONS OF POWER
+NES-9W-USA,Wolverine,Software Creations,LJN,NTSC (N. America),1991-10,Action & Adventure,Everyone,1,23582051826,NES-TLROM,WOLVERINE
+NES-5E-USA,World Champ,Pixel,Romstar,NTSC (N. America),1991-04,Sports,Everyone,2,95474150108,NES-TLROM,WORLD CHAMP
+NES-WT-USA,World Class Track Meet,Human Entertainment,Nintendo,NTSC (N. America),1988-08,Sports,Everyone,2,7.86309E+11,NES-CNROM,WORLD CLASS TRACK MEET
+NES-WV-USA,World Games,Rare,Milton Bradley Company,NTSC (N. America),1989-03,Sports,Everyone,8,32244048838,NES-ANROM,WORLD GAMES
+NES-WK-USA,Wrath of the Black Manta,AI,Taito,NTSC (N. America),1990-04,Action & Adventure,Everyone,1,20588010178,NES-SLROM,WRATH OF THE BLACK MANTA
+NES-WR-USA,Wrecking Crew,Nintendo Research & Development 1,Nintendo,NTSC (N. America),10/18/1985,Puzzle,Everyone,2,74299009082,NES-NROM-256,WRECKING CREW
+NES-WQ-USA,Wurm: Journey to the Center of the Earth,Cyclone System,Asmik,NTSC (N. America),1991-11,Action & Adventure,Everyone,1,96066900019,NES-TLROM,WURM: JOURNEY TO THE CENTER OF THE EARTH
+NES-K6-USA,WWF King of the Ring,"Gray Matter Interactive, Eastridge Technology",LJN,NTSC (N. America),1993-11,Sports,Everyone,2,23582051901,ACCLAIM-MC-ACC,WWF KING OF THE RING
+NES-HN-USA,WWF WrestleMania,Rare,Acclaim Entertainment,NTSC (N. America),1989-01,Sports,Everyone,6,21481105015,NES-ANROM,WWF WRESTLEMANIA
+NES-W9-USA,WWF WrestleMania Challenge,Rare,LJN,NTSC (N. America),1990-11,Sports,Everyone,2,47600590623,NES-UNROM,WWF WRESTLEMANIA CHALLENGE
+NES-WS-USA,WWF WrestleMania: Steel Cage Challenge,Sculptured Software,LJN,NTSC (N. America),1992-09,Sports,Everyone,2,23582051864,ACCLAIM-MC-ACC,WWF WRESTLEMANIA: STEEL CAGE CHALLENGE
+NES-XE-USA,Xenophobe,Sunsoft,Sunsoft,NTSC (N. America),1988-12,Action & Adventure,Everyone,2,20763110037,NES-SFROM,XENOPHOBE
+NES-XV-USA,Xevious,Namco,Bandai,NTSC (N. America),1988-09,Action & Adventure,Everyone,2,45557873127,NES-NROM-256,XEVIOUS
+NES-KO-USA,Xexyz,Atlus,Hudson Soft,NTSC (N. America),1990-04,Action & Adventure,Everyone,1,39854000072,NES-SLROM,XEXYZ
+NES-YC-USA,Yo! Noid,Now Production,Capcom,NTSC (N. America),1990-11,Action & Adventure,Everyone,1,13388110247,NES-SLROM,YO! NOID
+NES-YM-USA,Yoshi,Game Freak,Nintendo,NTSC (N. America),1992-06,Puzzle,Everyone,2,45496630690,NES-SFROM,YOSHI
+NES-CH-USA,Yoshi's Cookie,TOSE,Nintendo,NTSC (N. America),1993-04,Puzzle,Everyone,2,45496630713,NES-TFROM,YOSHI'S COOKIE
+NES-YJ-USA,The Young Indiana Jones Chronicles,Jaleco,Jaleco,NTSC (N. America),1992-12,Action & Adventure,Everyone,1,32264900260,NES-TLROM,YOUNG INDIANA JONES CHRONICLES
+NES-ZA-USA,Zanac,Compile,FCI,NTSC (N. America),1987-10,Action & Adventure,Everyone,1,22909100025,NES-UNROM,ZANAC
+NES-AL-USA,Zelda II: The Adventure of Link,Nintendo Research & Development 4,Nintendo,NTSC (N. America),1988-12,RPG,Everyone,1,45496630331,NES-SKROM,ZELDA II: THE ADVENTURE OF LINK
+NES-ZN-USA,Zen the Intergalactic Ninja,Konami,Konami,NTSC (N. America),3/7/1993,Action & Adventure,Everyone,1,83717110347,NES-TLROM,ZEN THE INTERGALACTIC NINJA
+NES-6C-USA,Zoda's Revenge: StarTropics II,Nintendo Research & Development 3,Nintendo,NTSC (N. America),1994-03,RPG,Everyone,1,45496630676,NES-HKROM,ZODA'S REVENGE: STARTROPICS II
+NES-51-USA,Zombie Nation,KAZe,Meldac,NTSC (N. America),1991-09,Shooter,Everyone,1,8433291019,NES-TLROM,ZOMBIE NATION
