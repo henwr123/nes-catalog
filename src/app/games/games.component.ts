@@ -51,7 +51,7 @@ export class GamesComponent implements OnInit {
     this.getGames();
 
     // initially sort game list by name
-    this.sortGames("releaseDate");
+    this.sortGames("sortable");
   }
 
   onSelect(game: Game): void {
