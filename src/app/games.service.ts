@@ -1,7 +1,9 @@
 import { Injectable } from '@angular/core';
 import { Game } from './game';
+import { Category } from './data/category';
 import { GAMES } from './mock-games';
 import { CATALOG } from './mock-catalog';
+import { CATEGORIES } from './data/mock-category';
 import { Observable, of } from 'rxjs';
 
 @Injectable({
@@ -14,11 +16,16 @@ export class GamesService {
    */
   constructor() { }
 
+
+  getCategories(): Observable<Category[]> {
+    return of(CATEGORIES);
+  }
+
   /**
    * Get the list of games
    * @return Array of games
    */
-  getGames(search?: string, owned?: string): Observable<Game[]> {
+  getGames(search?: string, owned?: string, category?: string): Observable<Game[]> {
 
     let ownedOptions = [];
 
@@ -32,15 +39,24 @@ export class GamesService {
       ownedOptions.push(false)
     }
 
-    const CATEGORIES = ['action & adventure', 'arcade', 'educational', 'fighting', 'light-gun', 'party', 'platformer', 'power pad', 'programmable', 'puzzle', 'racing', 'robot', 'rpg', 'shooter', 'sports', 'strategy'];
 
-    if (search != undefined && CATEGORIES.includes(search.toLowerCase())) {
-      return of(CATALOG.filter((game) => game.category.toLowerCase().includes(search.toLowerCase()) && ownedOptions.includes(game.owned)));
-    } else if (search) {
-      return of(CATALOG.filter((game) => game.name.toLowerCase().includes(search.toLowerCase()) && ownedOptions.includes(game.owned)));
+    let categoryOptions = [];
+
+    if (category === "" ) {
+      for(let i = 0; i < CATEGORIES.length; i++){
+        categoryOptions.push(CATEGORIES[i].name.toLowerCase());
+      }
     } else {
-      return of(CATALOG.filter((game) => ownedOptions.includes(game.owned)));
+      categoryOptions.push(category.toLowerCase());
     }
+
+
+    if (search !== undefined) {
+      return of(CATALOG.filter((game) => ( game.name.toLowerCase().includes(search.toLowerCase()) && ownedOptions.includes(game.owned) && categoryOptions.includes(game.category.toLowerCase()) )));
+    } else {
+      return of(CATALOG.filter((game) => ( ownedOptions.includes(game.owned) && categoryOptions.includes(game.category.toLowerCase()) )));
+    }
+
   }
 
   /**

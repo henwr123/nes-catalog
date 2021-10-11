@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Category } from '../data/category';
 import { Game } from '../game';
 import { GamesService } from '../games.service';
 
@@ -16,6 +17,8 @@ export class GamesComponent implements OnInit {
    */
   games: Game[] = [];
 
+  categories: Category[] = [];
+
   // represents the game that was selected for migration to the details
   selectedGame: Game;
 
@@ -24,6 +27,8 @@ export class GamesComponent implements OnInit {
 
   // maintained the user's selection for the "owned" filter
   ownedSelectedValue: string;
+
+  categorySelectedValue: string;
 
 
   constructor(private gamesService: GamesService) { }
@@ -45,8 +50,13 @@ export class GamesComponent implements OnInit {
    * data for the list is updated from the resulting service call
    */
   getGames(): void {
-    this.gamesService.getGames(this.filterName, this.ownedSelectedValue)
+    this.gamesService.getGames(this.filterName, this.ownedSelectedValue, this.categorySelectedValue)
       .subscribe(games => this.games = games);
+  }
+
+  getCategories(): void {
+    this.gamesService.getCategories().subscribe(categories => this.categories = categories);
+    this.categories.sort((a, b) => a.name.localeCompare(b.name));
   }
 
   /**
@@ -69,6 +79,10 @@ export class GamesComponent implements OnInit {
 
     this.ownedSelectedValue = "";
 
+    this.categorySelectedValue = "";
+
+    this.getCategories();
+
     this.getGames();
 
     // initially sort game list by name
@@ -90,6 +104,12 @@ export class GamesComponent implements OnInit {
    */
   onChangeOwned(event: any) : void {
     this.getGames();
+    this.sortGames("sortable");
+  }
+
+  onChangeCategory(event: any) : void {
+    this.getGames();
+    this.sortGames("sortable");
   }
 
 }
