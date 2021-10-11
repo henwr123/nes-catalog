@@ -12,6 +12,14 @@
       <option value="false">Not Owned</option>
     </select>
   </div>
+  <div class="search-area">
+    <label for="dropdown-category">Category</label>
+    <select id="category-dd" [(ngModel)]="categorySelectedValue" class="search" (change)="onChangeCategory($event)">
+      <option value="">All</option>
+      <option value="sports">Sports</option>
+      <option value="rpg">RPG</option>
+    </select>
+  </div>
   <ul class="games flex clearfix">
     <li class="gameBox" *ngFor="let game of games">
       <div class="owned" *ngIf="game.owned">★</div>

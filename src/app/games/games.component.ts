@@ -25,6 +25,8 @@ export class GamesComponent implements OnInit {
   // maintained the user's selection for the "owned" filter
   ownedSelectedValue: string;
 
+  categorySelectedValue: string;
+
 
   constructor(private gamesService: GamesService) { }
 
@@ -45,7 +47,7 @@ export class GamesComponent implements OnInit {
    * data for the list is updated from the resulting service call
    */
   getGames(): void {
-    this.gamesService.getGames(this.filterName, this.ownedSelectedValue)
+    this.gamesService.getGames(this.filterName, this.ownedSelectedValue, this.categorySelectedValue)
       .subscribe(games => this.games = games);
   }
 
@@ -69,6 +71,8 @@ export class GamesComponent implements OnInit {
 
     this.ownedSelectedValue = "";
 
+    this.categorySelectedValue = "";
+
     this.getGames();
 
     // initially sort game list by name
@@ -90,6 +94,12 @@ export class GamesComponent implements OnInit {
    */
   onChangeOwned(event: any) : void {
     this.getGames();
+    this.sortGames("sortable");
+  }
+
+  onChangeCategory(event: any) : void {
+    this.getGames();
+    this.sortGames("sortable");
   }
 
 }

@@ -18,7 +18,7 @@ export class GamesService {
    * Get the list of games
    * @return Array of games
    */
-  getGames(search?: string, owned?: string): Observable<Game[]> {
+  getGames(search?: string, owned?: string, category?: string): Observable<Game[]> {
 
     let ownedOptions = [];
 
@@ -34,6 +34,24 @@ export class GamesService {
 
     const CATEGORIES = ['action & adventure', 'arcade', 'educational', 'fighting', 'light-gun', 'party', 'platformer', 'power pad', 'programmable', 'puzzle', 'racing', 'robot', 'rpg', 'shooter', 'sports', 'strategy'];
 
+    let categoryOptions = [];
+
+    if (category === "" ) {
+      categoryOptions = CATEGORIES;
+    } else {
+      categoryOptions.push(category);
+    }
+
+
+
+
+    if (search !== undefined) {
+      return of(CATALOG.filter((game) => ( game.name.toLowerCase().includes(search.toLowerCase()) && ownedOptions.includes(game.owned) && categoryOptions.includes(game.category.toLowerCase()) )));
+    } else {
+      return of(CATALOG.filter((game) => ( ownedOptions.includes(game.owned) && categoryOptions.includes(game.category.toLowerCase()) )));
+    }
+
+    /** 
     if (search != undefined && CATEGORIES.includes(search.toLowerCase())) {
       return of(CATALOG.filter((game) => game.category.toLowerCase().includes(search.toLowerCase()) && ownedOptions.includes(game.owned)));
     } else if (search) {
@@ -41,6 +59,8 @@ export class GamesService {
     } else {
       return of(CATALOG.filter((game) => ownedOptions.includes(game.owned)));
     }
+    */
+
   }
 
   /**
