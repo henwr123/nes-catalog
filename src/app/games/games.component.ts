@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Category } from '../data/category';
 import { Game } from '../game';
 import { GamesService } from '../games.service';
 
@@ -15,6 +16,8 @@ export class GamesComponent implements OnInit {
    * changed
    */
   games: Game[] = [];
+
+  categories: Category[] = [];
 
   // represents the game that was selected for migration to the details
   selectedGame: Game;
@@ -51,6 +54,11 @@ export class GamesComponent implements OnInit {
       .subscribe(games => this.games = games);
   }
 
+  getCategories(): void {
+    this.gamesService.getCategories().subscribe(categories => this.categories = categories);
+    this.categories.sort((a, b) => a.name.localeCompare(b.name));
+  }
+
   /**
    * Handles the sorting for the games list
    * @param sortProperty 
@@ -72,6 +80,8 @@ export class GamesComponent implements OnInit {
     this.ownedSelectedValue = "";
 
     this.categorySelectedValue = "";
+
+    this.getCategories();
 
     this.getGames();
 

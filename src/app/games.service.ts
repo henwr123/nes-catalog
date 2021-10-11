@@ -1,7 +1,9 @@
 import { Injectable } from '@angular/core';
 import { Game } from './game';
+import { Category } from './data/category';
 import { GAMES } from './mock-games';
 import { CATALOG } from './mock-catalog';
+import { CATEGORIES } from './data/mock-category';
 import { Observable, of } from 'rxjs';
 
 @Injectable({
@@ -13,6 +15,11 @@ export class GamesService {
    * Create a GameService instance
    */
   constructor() { }
+
+
+  getCategories(): Observable<Category[]> {
+    return of(CATEGORIES);
+  }
 
   /**
    * Get the list of games
@@ -32,17 +39,16 @@ export class GamesService {
       ownedOptions.push(false)
     }
 
-    const CATEGORIES = ['action & adventure', 'arcade', 'educational', 'fighting', 'light-gun', 'party', 'platformer', 'power pad', 'programmable', 'puzzle', 'racing', 'robot', 'rpg', 'shooter', 'sports', 'strategy'];
 
     let categoryOptions = [];
 
     if (category === "" ) {
-      categoryOptions = CATEGORIES;
+      for(let i = 0; i < CATEGORIES.length; i++){
+        categoryOptions.push(CATEGORIES[i].name.toLowerCase());
+      }
     } else {
-      categoryOptions.push(category);
+      categoryOptions.push(category.toLowerCase());
     }
-
-
 
 
     if (search !== undefined) {
@@ -50,16 +56,6 @@ export class GamesService {
     } else {
       return of(CATALOG.filter((game) => ( ownedOptions.includes(game.owned) && categoryOptions.includes(game.category.toLowerCase()) )));
     }
-
-    /** 
-    if (search != undefined && CATEGORIES.includes(search.toLowerCase())) {
-      return of(CATALOG.filter((game) => game.category.toLowerCase().includes(search.toLowerCase()) && ownedOptions.includes(game.owned)));
-    } else if (search) {
-      return of(CATALOG.filter((game) => game.name.toLowerCase().includes(search.toLowerCase()) && ownedOptions.includes(game.owned)));
-    } else {
-      return of(CATALOG.filter((game) => ownedOptions.includes(game.owned)));
-    }
-    */
 
   }
 
