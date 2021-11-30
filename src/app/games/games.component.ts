@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs';
 import { Category } from '../data/category';
 import { Game } from '../game';
 import { GamesService } from '../games.service';
@@ -30,6 +31,8 @@ export class GamesComponent implements OnInit {
 
   categorySelectedValue: string;
 
+  filtersLoaded: Promise<boolean>;
+
 
   constructor(private gamesService: GamesService) { }
 
@@ -59,6 +62,7 @@ export class GamesComponent implements OnInit {
       (response) => {
         this.categories = response
         this.categories.results.sort((a, b) => a.name.localeCompare(b.name))
+        this.filtersLoaded = Promise.resolve(true)
       });
   }
 

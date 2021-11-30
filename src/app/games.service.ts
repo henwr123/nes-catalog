@@ -13,6 +13,8 @@ import { Observable, of } from 'rxjs';
 })
 export class GamesService {
 
+  SERVER_URL: string = "http://localhost:3000/"
+
   /**
    * Create a GameService instance
    */
@@ -20,7 +22,7 @@ export class GamesService {
 
 
   getCategories(): Observable<Category> {
-    return this.http.get<CategoryResults>("http://localhost:3000/categories")
+    return this.http.get<CategoryResults>(this.SERVER_URL + "categories")
   }
 
   /**

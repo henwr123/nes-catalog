@@ -12,7 +12,7 @@
       <option value="false">Not Owned</option>
     </select>
   </div>
-  <div class="search-area">
+  <div class="search-area" *ngIf="filtersLoaded | async">
     <label for="dropdown-category">Category</label>
     <select id="category-dd" [(ngModel)]="categorySelectedValue" class="search" (change)="onChangeCategory($event)">
       <option value="">All</option>
