@@ -1,6 +1,8 @@
 import { Injectable } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
 import { Game } from './game';
 import { Category } from './data/category';
+import { CategoryResults } from './data/category-results';
 import { GAMES } from './mock-games';
 import { CATALOG } from './mock-catalog';
 import { CATEGORIES } from './data/mock-category';
@@ -14,11 +16,11 @@ export class GamesService {
   /**
    * Create a GameService instance
    */
-  constructor() { }
+  constructor(private http: HttpClient) { }
 
 
-  getCategories(): Observable<Category[]> {
-    return of(CATEGORIES);
+  getCategories(): Observable<Category> {
+    return this.http.get<CategoryResults>("http://localhost:3000/categories")
   }
 
   /**
@@ -43,8 +45,8 @@ export class GamesService {
     let categoryOptions = [];
 
     if (category === "" ) {
-      for(let i = 0; i < CATEGORIES.length; i++){
-        categoryOptions.push(CATEGORIES[i].name.toLowerCase());
+      for(let i = 0; i < CATEGORIES.results.length; i++){
+        categoryOptions.push(CATEGORIES.results[i].name.toLowerCase());
       }
     } else {
       categoryOptions.push(category.toLowerCase());

@@ -17,7 +17,7 @@ export class GamesComponent implements OnInit {
    */
   games: Game[] = [];
 
-  categories: Category[] = [];
+  categories: Category;
 
   // represents the game that was selected for migration to the details
   selectedGame: Game;
@@ -55,8 +55,11 @@ export class GamesComponent implements OnInit {
   }
 
   getCategories(): void {
-    this.gamesService.getCategories().subscribe(categories => this.categories = categories);
-    this.categories.sort((a, b) => a.name.localeCompare(b.name));
+    this.gamesService.getCategories().subscribe(
+      (response) => {
+        this.categories = response
+        this.categories.results.sort((a, b) => a.name.localeCompare(b.name))
+      });
   }
 
   /**

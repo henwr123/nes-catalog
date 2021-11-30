@@ -1,3 +1,6 @@
+import { Name } from "./name"
+
 export interface Category {
-    name: string;
+    count: number;
+    results: Name[];
   }

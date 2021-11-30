@@ -9,6 +9,10 @@
     "src/main.ts",
     "src/polyfills.ts"
   ],
+  "angularCompilerOptions": {
+    "strictTemplates": true,
+    "preserveWhitespaces": true,
+  },
   "include": [
     "src/**/*.d.ts"
   ]

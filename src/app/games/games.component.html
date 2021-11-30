@@ -16,7 +16,7 @@
     <label for="dropdown-category">Category</label>
     <select id="category-dd" [(ngModel)]="categorySelectedValue" class="search" (change)="onChangeCategory($event)">
       <option value="">All</option>
-      <option *ngFor="let category of categories" [ngValue]="category.name">{{category.name}}</option>
+      <option *ngFor="let category of categories.results" [ngValue]="category.name">{{category.name}}</option>
     </select>
   </div>
   <ul class="games flex clearfix">
